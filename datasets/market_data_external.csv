@@ -1,0 +1,1749 @@
+month,product_name,market_sales_value,market_sales_units,competitor_name,region,data_source
+2023-07,Cardiostat,376700.32,6882,AstraZeneca,North,Third Party Estimate
+2023-07,Cardiostat,255781.89,3889,AstraZeneca,East,Local Market Audit
+2023-07,CARDIOSTAT,1640145.25,16949,AbbVie,South,Distributor Panel
+2023-07,CardiostatXR,1051323.16,7734,Pfizer,South,IQVIA
+2023-07,CardiostatXR,1134126.11,9036,Pfizer,West,Third Party Estimate
+2023-07,Cardiostat XR,1515161.34,11425,AstraZeneca,East,Distributor Panel
+2023-07,GLUCOFREE,833554.51,15853,Pfizer,Central,Third Party Estimate
+2023-07,GLUCOFREE,1071946.95,8628,Sanofi,South,Distributor Panel
+2023-07,GlucoFree,900083.81,8060,AstraZeneca,North,Local Market Audit
+2023-07,GlucoFree ,852893.45,14092,Sanofi,West,Local Market Audit
+2023-07,GlucoFree,1729730.32,14660,Novartis,East,IQVIA
+2023-07,GlucoFree XR ,667039.29,8077,Novartis,West,Distributor Panel
+2023-07,GlucoFreeXR,578770.22,5886,Local Generic,East,Third Party Estimate
+2023-07,GLUCOFREE XR,883577.87,13421,AstraZeneca,North,Third Party Estimate
+2023-07,GLUCOFREE XR,775664.82,6117,Local Generic,Gulf,Local Market Audit
+2023-07,GlucoFree XR ,1877944.08,18473,AbbVie,South,Third Party Estimate
+2023-07,Bronchion ,991024.66,17825,Novartis,Central,Third Party Estimate
+2023-07,Bronchion,615132.53,4798,AstraZeneca,North,Local Market Audit
+2023-07,Bronchion,1839252.5,14403,Local Generic,Gulf,Local Market Audit
+2023-07,Bronchion,384954.52,6379,AstraZeneca,East,Distributor Panel
+2023-07,Bronchion,1370757.29,10286,Novartis,South,IQVIA
+2023-07,BRONCHION COLD,1873349.43,13584,Novartis,Central,Third Party Estimate
+2023-07,Bronchion Cold ,1123188.22,11807,Novartis,North,Local Market Audit
+2023-07,BronchionCold,2098390.32,15038,AbbVie,Gulf,Third Party Estimate
+2023-07,Bronchion Cold,286215.02,5603,AstraZeneca,East,Local Market Audit
+2023-07,Immunex,754292.24,5955,AstraZeneca,North,Local Market Audit
+2023-07,IMMUNEX,606601.87,9282,Local Generic,Gulf,Third Party Estimate
+2023-07,IMMUNEX,1092367.13,8975,Pfizer,Central,IQVIA
+2023-07,Immunex ,1262233.46,14808,Local Generic,West,IQVIA
+2023-07,IMMUNEX JUNIOR,1352546.55,19710,AstraZeneca,North,Third Party Estimate
+2023-07,IMMUNEX JUNIOR,448851.5,6281,Pfizer,West,Third Party Estimate
+2023-07,Immunex Junior,1930928.68,19849,Local Generic,East,IQVIA
+2023-07,GastroEase,1548078.4,12176,Novartis,South,Third Party Estimate
+2023-07,GastroEase ,338406.67,4821,Sanofi,Gulf,Third Party Estimate
+2023-07,GastroEase ,2549018.0,18264,Novartis,West,Local Market Audit
+2023-07,GASTROEASE DSR,386642.8,4282,Pfizer,South,IQVIA
+2023-07,GASTROEASE DSR,1667399.85,16423,AbbVie,North,IQVIA
+2023-07,GastroEase DSR,1266664.87,12482,AbbVie,Central,Distributor Panel
+2023-07,GASTROEASE DSR,861577.32,7622,Sanofi,East,Third Party Estimate
+2023-07,GastroEaseDSR,489949.15,6666,Pfizer,Gulf,IQVIA
+2023-07,ALLERSAFE,934103.34,7259,Sanofi,Central,Distributor Panel
+2023-07,AllerSafe,638177.3,6606,AstraZeneca,Gulf,IQVIA
+2023-07,AllerSafe,1246513.78,16973,Novartis,North,Distributor Panel
+2023-07,ALLERSAFE,790337.89,6841,Sanofi,West,Distributor Panel
+2023-07,AllerSafe,996665.96,12848,AstraZeneca,East,Third Party Estimate
+2023-07,AllerSafe,1186971.07,9467,Local Generic,South,Third Party Estimate
+2023-07,AllerSafe Plus ,718298.69,7374,AstraZeneca,North,IQVIA
+2023-07,ALLERSAFE PLUS,658654.0,5110,AstraZeneca,Gulf,IQVIA
+2023-07,AllerSafe Plus ,1687159.94,17306,Novartis,East,IQVIA
+2023-07,AllerSafe Plus,1182342.81,8847,Sanofi,Central,Local Market Audit
+2023-07,AllerSafe Plus ,778928.2,14223,AstraZeneca,South,Local Market Audit
+2023-07,Neuroton OD ,588345.31,7685,Local Generic,South,Local Market Audit
+2023-07,Neuroton OD ,846202.04,7581,Pfizer,Gulf,Third Party Estimate
+2023-07,NeurotonOD,929870.36,7031,Sanofi,West,Local Market Audit
+2023-07,NeurotonOD,416001.92,6567,Sanofi,North,IQVIA
+2023-08,CARDIOSTAT,543676.27,3963,AstraZeneca,East,Distributor Panel
+2023-08,Cardiostat,354366.57,4107,AbbVie,Central,IQVIA
+2023-08,Cardiostat,757320.38,12010,Local Generic,West,Third Party Estimate
+2023-08,CARDIOSTAT,505325.0,4155,Sanofi,Gulf,Third Party Estimate
+2023-08,Cardiostat,805834.67,6083,Local Generic,South,IQVIA
+2023-08,Cardiostat XR ,839542.87,14705,Local Generic,Central,Third Party Estimate
+2023-08,CardiostatXR,1032824.65,16785,AbbVie,East,IQVIA
+2023-08,CardiostatXR,732381.54,8532,AbbVie,West,Third Party Estimate
+2023-08,CARDIOSTAT XR,1142947.65,12216,Local Generic,South,IQVIA
+2023-08,CardiostatXR,936913.05,8912,Pfizer,Gulf,Local Market Audit
+2023-08,GlucoFree,986183.59,9568,AbbVie,South,Third Party Estimate
+2023-08,GlucoFree ,1704871.29,15055,AbbVie,Gulf,Third Party Estimate
+2023-08,GlucoFree,795436.97,7210,AbbVie,Central,Local Market Audit
+2023-08,GlucoFree ,865003.95,7785,Pfizer,North,Local Market Audit
+2023-08,GlucoFree ,921176.09,15974,Local Generic,East,Distributor Panel
+2023-08,GLUCOFREE XR,1635432.5,18636,Local Generic,Central,Distributor Panel
+2023-08,GLUCOFREE XR,1690369.75,18568,Sanofi,Gulf,Third Party Estimate
+2023-08,GlucoFreeXR,389802.3,5794,Sanofi,West,IQVIA
+2023-08,GLUCOFREE XR,460413.91,5657,Local Generic,East,Local Market Audit
+2023-08,GlucoFree XR ,384232.37,5027,AbbVie,South,IQVIA
+2023-08,GlucoFree XR,691508.51,8433,AstraZeneca,North,Third Party Estimate
+2023-08,Bronchion,960817.13,11120,AbbVie,North,Distributor Panel
+2023-08,BRONCHION,1356998.65,16269,AbbVie,East,Local Market Audit
+2023-08,Bronchion,1930518.16,14719,Pfizer,Central,Third Party Estimate
+2023-08,Bronchion,446870.58,7177,AbbVie,South,Distributor Panel
+2023-08,Bronchion ,580666.33,7535,Sanofi,West,Third Party Estimate
+2023-08,Bronchion,833029.62,9289,Sanofi,Gulf,Local Market Audit
+2023-08,BRONCHION COLD,347561.83,7405,Novartis,Gulf,Local Market Audit
+2023-08,BRONCHION COLD,1256759.58,12749,AbbVie,North,Distributor Panel
+2023-08,Bronchion Cold,1663314.93,16218,Novartis,Central,Distributor Panel
+2023-08,Immunex ,1986257.78,14602,Local Generic,Central,Local Market Audit
+2023-08,IMMUNEX,687049.37,5545,Pfizer,North,Distributor Panel
+2023-08,Immunex,2373993.93,19535,Sanofi,East,Third Party Estimate
+2023-08,ImmunexJunior,1538311.12,17849,Local Generic,North,Third Party Estimate
+2023-08,ImmunexJunior,869447.73,14084,AstraZeneca,Central,Third Party Estimate
+2023-08,ImmunexJunior,1332626.58,11644,Sanofi,East,Local Market Audit
+2023-08,Immunex Junior ,1482085.85,20729,Novartis,Gulf,Third Party Estimate
+2023-08,Immunex Junior,1148960.51,14184,AbbVie,South,Distributor Panel
+2023-08,GastroEase,922436.77,9076,AstraZeneca,West,IQVIA
+2023-08,GastroEase ,782652.5,14730,AbbVie,South,Local Market Audit
+2023-08,GastroEase ,1753346.45,15568,Pfizer,East,IQVIA
+2023-08,GastroEase,905798.52,8181,Local Generic,Central,Distributor Panel
+2023-08,GASTROEASE DSR,1160195.86,15651,Pfizer,Central,Local Market Audit
+2023-08,GASTROEASE DSR,784232.17,8177,Novartis,Gulf,Local Market Audit
+2023-08,GastroEaseDSR,1868497.13,16414,Pfizer,East,Local Market Audit
+2023-08,GastroEase DSR,510584.32,8229,Local Generic,South,Local Market Audit
+2023-08,GastroEaseDSR,369073.69,7355,Local Generic,West,Local Market Audit
+2023-08,GastroEase DSR,1527896.58,16674,AstraZeneca,North,Distributor Panel
+2023-08,AllerSafe ,538960.27,10525,Pfizer,West,IQVIA
+2023-08,AllerSafe,576048.11,5850,Pfizer,Gulf,Local Market Audit
+2023-08,ALLERSAFE,524887.33,6209,AstraZeneca,East,Third Party Estimate
+2023-08,AllerSafe ,973619.69,13292,Sanofi,North,IQVIA
+2023-08,ALLERSAFE,902947.08,16590,Local Generic,Central,Local Market Audit
+2023-08,ALLERSAFE,539942.94,9011,AstraZeneca,South,IQVIA
+2023-08,AllerSafePlus,669899.65,13927,Local Generic,North,Distributor Panel
+2023-08,ALLERSAFE PLUS,924315.41,17857,Sanofi,West,Local Market Audit
+2023-08,ALLERSAFE PLUS,647643.32,9760,Sanofi,Central,Local Market Audit
+2023-08,AllerSafePlus,541469.01,4501,AbbVie,East,IQVIA
+2023-08,NeurotonOD,729316.82,5632,AstraZeneca,Gulf,Distributor Panel
+2023-08,Neuroton OD,531888.06,3900,Local Generic,East,Distributor Panel
+2023-08,Neuroton OD ,1357044.09,11614,AstraZeneca,West,Third Party Estimate
+2023-08,Neuroton OD ,786439.56,7817,Pfizer,South,Third Party Estimate
+2023-08,Neuroton OD,727145.65,9631,Novartis,Central,Distributor Panel
+2023-08,Neuroton OD ,849749.31,11740,AstraZeneca,North,IQVIA
+2023-09,Cardiostat ,638522.87,14155,AbbVie,North,IQVIA
+2023-09,Cardiostat ,759775.84,7295,Local Generic,East,Third Party Estimate
+2023-09,CARDIOSTAT,1004888.49,14280,Sanofi,Central,Third Party Estimate
+2023-09,CARDIOSTAT,751611.71,15743,Local Generic,South,Local Market Audit
+2023-09,Cardiostat,923957.62,9480,Novartis,Gulf,IQVIA
+2023-09,CARDIOSTAT,1454913.27,13657,AbbVie,West,Distributor Panel
+2023-09,CARDIOSTAT XR,740635.31,11736,Pfizer,West,Distributor Panel
+2023-09,CardiostatXR,1584216.9,18766,Pfizer,Gulf,Distributor Panel
+2023-09,Cardiostat XR ,1528616.06,15171,Novartis,Central,Third Party Estimate
+2023-09,Cardiostat XR ,1001230.4,13074,AbbVie,North,Distributor Panel
+2023-09,Cardiostat XR ,572628.02,8460,Novartis,South,Third Party Estimate
+2023-09,GLUCOFREE,1485185.31,12348,AbbVie,East,IQVIA
+2023-09,GlucoFree,629041.88,6224,AbbVie,West,IQVIA
+2023-09,GLUCOFREE,684977.07,14744,AbbVie,Central,Local Market Audit
+2023-09,GlucoFreeXR,1656946.1,15524,Local Generic,West,Third Party Estimate
+2023-09,GlucoFree XR ,1270438.08,9825,AstraZeneca,East,IQVIA
+2023-09,GlucoFreeXR,1294790.22,12336,Novartis,Central,IQVIA
+2023-09,Bronchion,230467.14,4579,Sanofi,North,Third Party Estimate
+2023-09,BRONCHION,502513.44,5972,Novartis,Gulf,Local Market Audit
+2023-09,BRONCHION,457791.13,5628,AbbVie,West,Local Market Audit
+2023-09,Bronchion,545556.97,7892,Local Generic,Central,IQVIA
+2023-09,BRONCHION,1258672.12,17403,Pfizer,South,Third Party Estimate
+2023-09,Bronchion ,848070.42,11551,Local Generic,East,Distributor Panel
+2023-09,BronchionCold,1071971.97,10762,Pfizer,East,Third Party Estimate
+2023-09,Bronchion Cold,921556.44,7246,AstraZeneca,South,Third Party Estimate
+2023-09,BRONCHION COLD,1485782.56,20582,AstraZeneca,West,Distributor Panel
+2023-09,BRONCHION COLD,846435.14,8140,Local Generic,Central,IQVIA
+2023-09,Bronchion Cold ,1142589.65,15368,Pfizer,North,Distributor Panel
+2023-09,BronchionCold,1883697.48,14334,Local Generic,Gulf,Third Party Estimate
+2023-09,Immunex,1771077.58,14295,AbbVie,South,Distributor Panel
+2023-09,Immunex ,2275075.19,18740,Pfizer,Gulf,Local Market Audit
+2023-09,Immunex ,2462674.09,19435,AstraZeneca,East,Distributor Panel
+2023-09,Immunex,285947.39,6173,AbbVie,West,Distributor Panel
+2023-09,ImmunexJunior,1298795.26,10068,AstraZeneca,Central,Local Market Audit
+2023-09,ImmunexJunior,1570658.66,12742,Local Generic,West,Third Party Estimate
+2023-09,ImmunexJunior,716696.31,5313,AbbVie,East,IQVIA
+2023-09,Immunex Junior ,500700.83,5212,AbbVie,North,Distributor Panel
+2023-09,Immunex Junior ,1969416.49,17716,AstraZeneca,Gulf,Local Market Audit
+2023-09,GastroEase ,324986.71,4951,Novartis,Gulf,Distributor Panel
+2023-09,GastroEase,536427.26,6714,Pfizer,North,Third Party Estimate
+2023-09,GastroEase ,441973.19,7808,Pfizer,West,Local Market Audit
+2023-09,GastroEase,2138964.23,15584,Sanofi,East,Local Market Audit
+2023-09,GASTROEASE,440046.18,6823,AstraZeneca,South,Local Market Audit
+2023-09,GASTROEASE,1523882.09,19995,AstraZeneca,Central,IQVIA
+2023-09,GastroEaseDSR,983729.39,17102,Novartis,South,Distributor Panel
+2023-09,GastroEase DSR ,193814.32,3878,AstraZeneca,Gulf,IQVIA
+2023-09,GastroEaseDSR,1238818.44,14144,AstraZeneca,East,IQVIA
+2023-09,GastroEase DSR,1578003.56,11705,Local Generic,North,Distributor Panel
+2023-09,GastroEase DSR ,593160.76,12368,AbbVie,West,Third Party Estimate
+2023-09,ALLERSAFE,302785.94,5124,Sanofi,West,Distributor Panel
+2023-09,AllerSafe ,1170402.77,12268,AstraZeneca,Gulf,Third Party Estimate
+2023-09,ALLERSAFE,354267.47,6341,AbbVie,North,Third Party Estimate
+2023-09,AllerSafePlus,892869.28,11954,Local Generic,West,Distributor Panel
+2023-09,AllerSafe Plus ,1322204.24,11993,Pfizer,East,IQVIA
+2023-09,AllerSafePlus,1334212.43,15509,Novartis,Gulf,IQVIA
+2023-09,AllerSafe Plus,1585857.01,16123,AbbVie,South,Distributor Panel
+2023-09,Neuroton OD ,390869.86,5994,Novartis,Gulf,IQVIA
+2023-09,NeurotonOD,891568.55,11156,AstraZeneca,North,Local Market Audit
+2023-09,Neuroton OD,1693370.13,17228,AstraZeneca,East,Distributor Panel
+2023-09,NeurotonOD,456524.83,4085,Sanofi,West,Distributor Panel
+2023-09,Neuroton OD ,219490.3,3745,Pfizer,South,Local Market Audit
+2023-09,NEUROTON OD,828645.38,17295,AbbVie,Central,Third Party Estimate
+2023-10,Cardiostat,512887.51,4396,Local Generic,East,IQVIA
+2023-10,Cardiostat ,724977.21,8501,AbbVie,South,Distributor Panel
+2023-10,Cardiostat ,468324.06,8391,Pfizer,Gulf,Distributor Panel
+2023-10,Cardiostat,1499093.19,16432,Pfizer,Central,Local Market Audit
+2023-10,CARDIOSTAT,628156.03,12512,Sanofi,West,Local Market Audit
+2023-10,Cardiostat,1030940.92,14882,Pfizer,North,IQVIA
+2023-10,CardiostatXR,1383031.81,12751,Pfizer,Gulf,Third Party Estimate
+2023-10,Cardiostat XR,653616.39,13972,Sanofi,West,Third Party Estimate
+2023-10,CardiostatXR,1405202.73,13280,Pfizer,South,Third Party Estimate
+2023-10,Cardiostat XR ,316268.25,5157,Local Generic,North,Distributor Panel
+2023-10,Cardiostat XR ,300501.09,5458,AstraZeneca,Central,Third Party Estimate
+2023-10,CardiostatXR,1410061.41,11042,Novartis,East,Distributor Panel
+2023-10,GlucoFree,1346530.67,11340,Local Generic,North,Local Market Audit
+2023-10,GLUCOFREE,483347.31,6973,AstraZeneca,Central,Local Market Audit
+2023-10,GlucoFree ,957526.86,18358,AbbVie,Gulf,Third Party Estimate
+2023-10,GlucoFree,1754372.09,17788,Local Generic,East,Distributor Panel
+2023-10,GlucoFree XR,974840.91,13712,Sanofi,West,IQVIA
+2023-10,GlucoFreeXR,446383.01,9190,Sanofi,North,IQVIA
+2023-10,GlucoFree XR ,2118775.67,16782,AbbVie,Gulf,IQVIA
+2023-10,GLUCOFREE XR,1318702.77,13279,Sanofi,South,Third Party Estimate
+2023-10,Bronchion,1469242.82,13811,Novartis,North,Third Party Estimate
+2023-10,Bronchion,1191226.41,11573,Sanofi,West,Distributor Panel
+2023-10,Bronchion,792663.63,10275,Local Generic,Gulf,Distributor Panel
+2023-10,Bronchion ,480525.89,4903,Sanofi,South,Distributor Panel
+2023-10,Bronchion Cold ,1202083.66,10795,Novartis,East,IQVIA
+2023-10,BronchionCold,1006660.69,9485,Novartis,North,IQVIA
+2023-10,Bronchion Cold,1475920.73,15818,Sanofi,South,Distributor Panel
+2023-10,Bronchion Cold ,637068.65,8224,Novartis,West,Local Market Audit
+2023-10,Immunex,1714847.4,13792,Local Generic,South,Distributor Panel
+2023-10,IMMUNEX,1795886.45,17652,Novartis,North,Local Market Audit
+2023-10,IMMUNEX,2008639.8,19249,Local Generic,East,Third Party Estimate
+2023-10,IMMUNEX,511857.23,4685,AbbVie,Central,Distributor Panel
+2023-10,Immunex Junior ,1081367.66,10902,AbbVie,South,Distributor Panel
+2023-10,IMMUNEX JUNIOR,1566820.39,16474,Novartis,Central,Local Market Audit
+2023-10,ImmunexJunior,637221.81,7029,AstraZeneca,Gulf,IQVIA
+2023-10,ImmunexJunior,2258068.16,17941,Pfizer,West,Local Market Audit
+2023-10,Immunex Junior ,799845.39,8530,Pfizer,East,Local Market Audit
+2023-10,Immunex Junior,1370014.77,17517,AbbVie,North,IQVIA
+2023-10,GastroEase,880894.7,6602,Novartis,Central,Local Market Audit
+2023-10,GASTROEASE,544468.86,4397,Local Generic,East,Third Party Estimate
+2023-10,GastroEase,1584472.62,12090,Sanofi,South,Local Market Audit
+2023-10,GastroEase ,2142830.33,15953,Pfizer,West,Distributor Panel
+2023-10,GastroEase ,373502.93,7540,Local Generic,North,Third Party Estimate
+2023-10,GastroEase,585389.64,4469,Local Generic,Gulf,Local Market Audit
+2023-10,GastroEase DSR,772667.35,9136,AstraZeneca,East,Distributor Panel
+2023-10,GastroEase DSR,584574.36,6046,AbbVie,West,Third Party Estimate
+2023-10,GastroEaseDSR,698456.46,5054,Local Generic,North,IQVIA
+2023-10,GastroEase DSR,862316.67,11090,AstraZeneca,Gulf,Distributor Panel
+2023-10,AllerSafe ,861981.26,7833,Local Generic,North,Local Market Audit
+2023-10,AllerSafe ,1753797.76,15517,Pfizer,East,Distributor Panel
+2023-10,AllerSafe,404033.79,6318,Sanofi,Central,Distributor Panel
+2023-10,AllerSafe ,1507649.1,12311,Sanofi,West,IQVIA
+2023-10,AllerSafe Plus ,1079246.51,8924,AbbVie,East,Third Party Estimate
+2023-10,AllerSafe Plus ,628103.83,10010,Sanofi,Gulf,Distributor Panel
+2023-10,AllerSafe Plus ,1284349.05,15052,AstraZeneca,North,Local Market Audit
+2023-10,AllerSafePlus,674809.07,12326,Local Generic,Central,Distributor Panel
+2023-10,NeurotonOD,1120173.24,9822,AstraZeneca,West,Third Party Estimate
+2023-10,Neuroton OD,1096737.34,9125,Pfizer,Central,Third Party Estimate
+2023-10,NEUROTON OD,1190998.2,10246,Pfizer,Gulf,Local Market Audit
+2023-10,Neuroton OD,2268248.72,19025,Novartis,North,IQVIA
+2023-10,Neuroton OD ,704564.84,8829,AstraZeneca,South,IQVIA
+2023-11,Cardiostat,1253188.19,12592,AbbVie,Gulf,Distributor Panel
+2023-11,Cardiostat,1890188.0,13873,Local Generic,West,Local Market Audit
+2023-11,Cardiostat,1654711.77,12556,Sanofi,East,Distributor Panel
+2023-11,Cardiostat,2182802.74,15630,Local Generic,South,Third Party Estimate
+2023-11,Cardiostat XR,694007.51,7951,Local Generic,North,Distributor Panel
+2023-11,CardiostatXR,742772.29,14516,Sanofi,South,Local Market Audit
+2023-11,CARDIOSTAT XR,1918381.31,17202,Sanofi,Gulf,Local Market Audit
+2023-11,CARDIOSTAT XR,860241.59,7154,AbbVie,Central,IQVIA
+2023-11,GlucoFree ,833363.59,16262,Local Generic,Central,Third Party Estimate
+2023-11,GlucoFree,1051470.89,12533,Novartis,Gulf,Distributor Panel
+2023-11,GlucoFree,1135491.35,12722,Novartis,East,Local Market Audit
+2023-11,GlucoFree,1696059.02,19699,Pfizer,South,Local Market Audit
+2023-11,GLUCOFREE,616721.39,8152,Sanofi,North,Distributor Panel
+2023-11,GlucoFree XR,668291.49,6465,AstraZeneca,East,Local Market Audit
+2023-11,GlucoFreeXR,963620.8,16155,AstraZeneca,South,IQVIA
+2023-11,GlucoFreeXR,1064234.06,20188,Local Generic,Gulf,Local Market Audit
+2023-11,Bronchion ,2034671.95,16719,Sanofi,Central,Third Party Estimate
+2023-11,Bronchion ,510209.98,8501,AbbVie,North,Third Party Estimate
+2023-11,Bronchion,625897.07,10672,Local Generic,West,Distributor Panel
+2023-11,Bronchion,1134928.86,14151,Sanofi,East,Local Market Audit
+2023-11,BRONCHION,1367599.6,15592,Pfizer,South,IQVIA
+2023-11,Bronchion ,1970743.84,15506,Novartis,Gulf,Local Market Audit
+2023-11,Bronchion Cold ,2428751.84,18899,Pfizer,Central,IQVIA
+2023-11,BRONCHION COLD,2200857.84,16084,AstraZeneca,East,Distributor Panel
+2023-11,Bronchion Cold ,574449.33,6243,Sanofi,South,IQVIA
+2023-11,BronchionCold,1374173.25,23806,Local Generic,North,Distributor Panel
+2023-11,Bronchion Cold,1210365.17,24552,AstraZeneca,West,Local Market Audit
+2023-11,Immunex,3188280.61,25836,Novartis,Central,IQVIA
+2023-11,Immunex,2133201.73,15375,Novartis,East,Local Market Audit
+2023-11,Immunex,1978825.81,21391,Pfizer,North,Local Market Audit
+2023-11,Immunex ,2047539.54,22749,Novartis,South,Local Market Audit
+2023-11,Immunex ,1244279.42,16533,AstraZeneca,Gulf,Distributor Panel
+2023-11,Immunex Junior,1604999.45,20064,AbbVie,Central,Distributor Panel
+2023-11,Immunex Junior,3808634.1,29790,AstraZeneca,Gulf,Third Party Estimate
+2023-11,IMMUNEX JUNIOR,1776909.96,14885,Local Generic,West,IQVIA
+2023-11,Immunex Junior ,1963256.1,20709,Novartis,East,Local Market Audit
+2023-11,IMMUNEX JUNIOR,793786.15,7116,Pfizer,South,Third Party Estimate
+2023-11,GastroEase ,1133685.3,10997,Local Generic,West,IQVIA
+2023-11,GastroEase,904470.52,13980,Local Generic,South,Third Party Estimate
+2023-11,GastroEase ,1682257.81,12380,AstraZeneca,Gulf,Distributor Panel
+2023-11,GastroEase,1492610.18,12613,AstraZeneca,East,Third Party Estimate
+2023-11,GastroEase,605867.01,8473,Novartis,North,Distributor Panel
+2023-11,GastroEaseDSR,1359432.85,10162,Sanofi,Gulf,IQVIA
+2023-11,GastroEase DSR ,1180149.78,14557,Sanofi,South,Local Market Audit
+2023-11,GastroEase DSR,1028071.12,7573,Sanofi,West,Third Party Estimate
+2023-11,GASTROEASE DSR,1254322.64,13858,AstraZeneca,Central,Distributor Panel
+2023-11,GASTROEASE DSR,838401.24,14445,Novartis,East,IQVIA
+2023-11,ALLERSAFE,934735.06,10400,Pfizer,Gulf,Local Market Audit
+2023-11,AllerSafe ,1479993.33,11503,AbbVie,South,Local Market Audit
+2023-11,AllerSafe,1468914.15,19453,Pfizer,North,Local Market Audit
+2023-11,AllerSafe,1780061.84,14152,Novartis,West,Third Party Estimate
+2023-11,AllerSafe Plus,2567590.55,19309,Pfizer,North,Distributor Panel
+2023-11,AllerSafePlus,1880296.52,14116,Sanofi,West,Third Party Estimate
+2023-11,ALLERSAFE PLUS,1387006.23,15089,AstraZeneca,Central,Third Party Estimate
+2023-11,ALLERSAFE PLUS,432855.91,7771,Local Generic,Gulf,Third Party Estimate
+2023-11,NEUROTON OD,1762758.77,16162,Novartis,Gulf,Third Party Estimate
+2023-11,Neuroton OD ,1335952.65,17543,Local Generic,South,IQVIA
+2023-11,NEUROTON OD,757833.71,8387,Pfizer,North,Distributor Panel
+2023-11,NeurotonOD,1118143.39,9589,Sanofi,East,IQVIA
+2023-11,Neuroton OD,990335.92,8937,Local Generic,Central,IQVIA
+2023-12,CARDIOSTAT,1236519.78,16932,Novartis,East,Local Market Audit
+2023-12,Cardiostat,1240760.22,10693,AbbVie,South,Third Party Estimate
+2023-12,CARDIOSTAT,1841079.46,17033,Novartis,West,IQVIA
+2023-12,Cardiostat,1419363.39,12689,AstraZeneca,Gulf,IQVIA
+2023-12,CARDIOSTAT,746983.23,5712,AstraZeneca,Central,Local Market Audit
+2023-12,Cardiostat,609939.17,6459,Local Generic,North,Local Market Audit
+2023-12,Cardiostat XR ,1217457.37,12351,Local Generic,North,Distributor Panel
+2023-12,Cardiostat XR,940274.51,13593,Local Generic,Central,Local Market Audit
+2023-12,Cardiostat XR,1005794.27,11798,AstraZeneca,West,IQVIA
+2023-12,CardiostatXR,550850.51,6131,AbbVie,Gulf,Local Market Audit
+2023-12,Cardiostat XR ,1578048.91,14895,Sanofi,South,Third Party Estimate
+2023-12,Cardiostat XR ,1717840.78,13099,Pfizer,East,Local Market Audit
+2023-12,GlucoFree,2360734.24,18991,Sanofi,North,Third Party Estimate
+2023-12,GlucoFree ,1412608.8,16562,Novartis,South,Local Market Audit
+2023-12,GlucoFree,798145.55,11212,Pfizer,West,Third Party Estimate
+2023-12,GlucoFree,2029265.45,15736,Novartis,East,Local Market Audit
+2023-12,GlucoFree,217624.89,4516,Novartis,Gulf,IQVIA
+2023-12,GlucoFreeXR,1018654.55,8897,AstraZeneca,West,Distributor Panel
+2023-12,GLUCOFREE XR,441389.96,7531,AbbVie,South,Distributor Panel
+2023-12,GLUCOFREE XR,1001566.16,7413,Local Generic,Central,Third Party Estimate
+2023-12,GlucoFree XR ,1842648.62,13414,AstraZeneca,North,Distributor Panel
+2023-12,GlucoFree XR ,907814.0,15341,Novartis,East,Third Party Estimate
+2023-12,GLUCOFREE XR,670810.89,9118,AbbVie,Gulf,IQVIA
+2023-12,Bronchion ,557569.14,10618,Sanofi,West,IQVIA
+2023-12,Bronchion,1334285.9,21147,AbbVie,Central,IQVIA
+2023-12,BRONCHION,837019.79,7132,AbbVie,South,Local Market Audit
+2023-12,BRONCHION,1781166.28,13560,Novartis,Gulf,IQVIA
+2023-12,BRONCHION,2644426.96,29221,Local Generic,North,Local Market Audit
+2023-12,Bronchion,1795763.13,18428,AbbVie,East,Third Party Estimate
+2023-12,Bronchion Cold ,2133645.01,15436,Sanofi,East,Local Market Audit
+2023-12,BRONCHION COLD,715325.0,14497,Local Generic,Gulf,Local Market Audit
+2023-12,Bronchion Cold ,805622.05,6021,Sanofi,Central,Local Market Audit
+2023-12,BRONCHION COLD,847092.68,10447,AbbVie,West,Distributor Panel
+2023-12,Bronchion Cold ,1258656.85,13768,AbbVie,South,Local Market Audit
+2023-12,Immunex,2040596.94,16268,Pfizer,South,Third Party Estimate
+2023-12,IMMUNEX,719163.55,10736,Pfizer,Gulf,Local Market Audit
+2023-12,Immunex ,944018.33,18604,Local Generic,West,Third Party Estimate
+2023-12,Immunex,530084.2,5442,Pfizer,North,Distributor Panel
+2023-12,Immunex ,1065322.41,22847,Novartis,East,IQVIA
+2023-12,ImmunexJunior,788645.24,11433,Sanofi,Central,Third Party Estimate
+2023-12,IMMUNEX JUNIOR,650696.29,7786,Local Generic,South,Local Market Audit
+2023-12,Immunex Junior,1828723.06,14566,Pfizer,Gulf,Third Party Estimate
+2023-12,GastroEase,473096.91,5487,AstraZeneca,West,IQVIA
+2023-12,GastroEase ,990722.39,14825,Sanofi,Central,IQVIA
+2023-12,GastroEase,407247.46,5685,Novartis,Gulf,Distributor Panel
+2023-12,GastroEase ,508779.8,5049,Pfizer,North,Distributor Panel
+2023-12,GastroEase ,689480.72,6976,Local Generic,East,Distributor Panel
+2023-12,GastroEase,668355.69,11465,AstraZeneca,South,Distributor Panel
+2023-12,GastroEase DSR ,1593735.53,15550,Sanofi,North,IQVIA
+2023-12,GastroEase DSR ,1895396.02,13607,Novartis,West,Distributor Panel
+2023-12,GastroEase DSR ,1324965.6,15402,Pfizer,South,Distributor Panel
+2023-12,ALLERSAFE,766397.34,6415,Local Generic,Gulf,Third Party Estimate
+2023-12,AllerSafe,481585.44,8969,AbbVie,North,Distributor Panel
+2023-12,ALLERSAFE,895899.09,15557,AbbVie,Central,Third Party Estimate
+2023-12,AllerSafe,1147904.55,13704,Pfizer,South,Distributor Panel
+2023-12,AllerSafe Plus,742619.71,8808,Local Generic,Central,Local Market Audit
+2023-12,ALLERSAFE PLUS,1519779.58,13803,Novartis,Gulf,Distributor Panel
+2023-12,ALLERSAFE PLUS,496339.63,8432,AbbVie,East,Distributor Panel
+2023-12,NEUROTON OD,1713653.35,16898,AbbVie,East,IQVIA
+2023-12,NeurotonOD,803937.32,5949,AstraZeneca,West,Third Party Estimate
+2023-12,Neuroton OD ,1717236.07,19779,Local Generic,North,Local Market Audit
+2023-12,NEUROTON OD,1158902.01,8585,AbbVie,South,Distributor Panel
+2023-12,NeurotonOD,1124459.12,8206,Local Generic,Gulf,Third Party Estimate
+2023-12,NeurotonOD,1146679.97,15096,AbbVie,Central,Distributor Panel
+2024-01,Cardiostat ,806995.25,16969,Local Generic,Central,Local Market Audit
+2024-01,Cardiostat,1565391.56,12627,AbbVie,South,Third Party Estimate
+2024-01,CARDIOSTAT,457586.23,6730,Local Generic,Gulf,Third Party Estimate
+2024-01,Cardiostat XR,1525776.39,11137,Pfizer,North,Local Market Audit
+2024-01,Cardiostat XR,972469.7,15994,AstraZeneca,West,Third Party Estimate
+2024-01,Cardiostat XR,1903247.42,15776,Pfizer,Central,IQVIA
+2024-01,CARDIOSTAT XR,886213.78,7643,AbbVie,East,Distributor Panel
+2024-01,CARDIOSTAT XR,1153972.01,10533,Sanofi,South,IQVIA
+2024-01,Cardiostat XR,892337.51,10558,Pfizer,Gulf,Local Market Audit
+2024-01,GlucoFree ,854736.41,9867,Sanofi,East,IQVIA
+2024-01,GlucoFree,868685.31,7720,Sanofi,Gulf,IQVIA
+2024-01,GLUCOFREE,2274291.94,17056,AstraZeneca,West,Local Market Audit
+2024-01,GlucoFree ,1160161.65,11816,Novartis,North,Third Party Estimate
+2024-01,GlucoFree ,1385835.04,13093,AbbVie,South,IQVIA
+2024-01,GlucoFree XR,288213.63,4465,AstraZeneca,West,IQVIA
+2024-01,GlucoFreeXR,1239658.91,19752,Novartis,Central,Third Party Estimate
+2024-01,GlucoFreeXR,701401.36,5525,AstraZeneca,Gulf,Third Party Estimate
+2024-01,GlucoFreeXR,772880.63,13838,AbbVie,South,Local Market Audit
+2024-01,BRONCHION,903453.5,12207,Sanofi,Central,Local Market Audit
+2024-01,Bronchion ,1859674.66,18293,AbbVie,Gulf,Local Market Audit
+2024-01,BRONCHION,2135474.23,19260,AstraZeneca,North,Local Market Audit
+2024-01,Bronchion ,1076643.14,17151,AstraZeneca,East,IQVIA
+2024-01,BRONCHION,1596530.73,17537,AbbVie,West,Third Party Estimate
+2024-01,BRONCHION COLD,425921.68,8886,Sanofi,Gulf,IQVIA
+2024-01,Bronchion Cold ,857858.48,11845,AstraZeneca,West,Third Party Estimate
+2024-01,BronchionCold,1995115.25,20070,AstraZeneca,Central,Distributor Panel
+2024-01,Bronchion Cold ,1076182.74,21984,AstraZeneca,East,Local Market Audit
+2024-01,BRONCHION COLD,1804468.53,14569,Sanofi,South,IQVIA
+2024-01,Bronchion Cold,2038411.79,16062,AbbVie,North,IQVIA
+2024-01,IMMUNEX,1367103.4,22497,Novartis,South,Local Market Audit
+2024-01,Immunex,1759234.99,22460,AstraZeneca,Central,Local Market Audit
+2024-01,Immunex,1211469.73,16641,AstraZeneca,East,IQVIA
+2024-01,Immunex,1325139.83,11076,Sanofi,West,Local Market Audit
+2024-01,IMMUNEX JUNIOR,2329358.27,28301,AstraZeneca,South,Distributor Panel
+2024-01,Immunex Junior,1874951.97,21321,AbbVie,Gulf,Distributor Panel
+2024-01,Immunex Junior ,2175518.25,27173,Sanofi,East,IQVIA
+2024-01,Immunex Junior ,1544912.25,28690,Local Generic,North,Distributor Panel
+2024-01,GastroEase,1156413.85,12570,Sanofi,Central,Distributor Panel
+2024-01,GastroEase ,1347802.08,13644,Sanofi,West,IQVIA
+2024-01,GastroEase ,502249.89,4204,Pfizer,South,IQVIA
+2024-01,GastroEaseDSR,1151665.65,8765,Novartis,West,Distributor Panel
+2024-01,GastroEaseDSR,410383.13,5966,Local Generic,Gulf,Local Market Audit
+2024-01,GASTROEASE DSR,354794.05,4793,AbbVie,North,IQVIA
+2024-01,GastroEase DSR,895312.06,13716,Novartis,South,Local Market Audit
+2024-01,AllerSafe,841996.55,10345,Pfizer,North,Distributor Panel
+2024-01,ALLERSAFE,673580.7,11608,Local Generic,Gulf,Local Market Audit
+2024-01,ALLERSAFE,242858.64,5302,AbbVie,East,Distributor Panel
+2024-01,AllerSafe ,1699608.38,14641,AstraZeneca,Central,Third Party Estimate
+2024-01,AllerSafe,362937.01,6654,AstraZeneca,South,Third Party Estimate
+2024-01,ALLERSAFE,867459.87,11585,Novartis,West,Distributor Panel
+2024-01,AllerSafePlus,939982.71,19769,Novartis,South,Local Market Audit
+2024-01,ALLERSAFE PLUS,1706646.27,16042,AbbVie,Central,Third Party Estimate
+2024-01,AllerSafe Plus,576990.16,5463,AstraZeneca,East,IQVIA
+2024-01,Neuroton OD ,638512.83,10397,Pfizer,East,IQVIA
+2024-01,Neuroton OD,831970.36,11901,Pfizer,South,Third Party Estimate
+2024-01,Neuroton OD ,1317234.82,11688,AbbVie,West,Third Party Estimate
+2024-01,NEUROTON OD,552059.93,5746,Sanofi,Gulf,IQVIA
+2024-01,NEUROTON OD,1055398.31,7966,AstraZeneca,Central,Distributor Panel
+2024-02,Cardiostat,614914.68,4629,AbbVie,Central,IQVIA
+2024-02,CARDIOSTAT,1055797.05,9820,Pfizer,North,IQVIA
+2024-02,Cardiostat ,645418.85,14007,Sanofi,East,Distributor Panel
+2024-02,Cardiostat,767226.02,6601,Local Generic,West,IQVIA
+2024-02,Cardiostat ,1489119.28,19383,Sanofi,South,IQVIA
+2024-02,Cardiostat,911308.18,9133,AbbVie,Gulf,Third Party Estimate
+2024-02,Cardiostat XR,1191042.16,9165,Novartis,North,IQVIA
+2024-02,Cardiostat XR,250734.97,5431,AbbVie,West,Distributor Panel
+2024-02,Cardiostat XR,746557.52,12041,AstraZeneca,South,Third Party Estimate
+2024-02,CardiostatXR,624867.49,7391,Sanofi,Central,IQVIA
+2024-02,Cardiostat XR,1214568.03,13103,Novartis,Gulf,Local Market Audit
+2024-02,GlucoFree,720274.44,9666,AstraZeneca,West,Third Party Estimate
+2024-02,GlucoFree,293932.3,4043,Local Generic,North,Local Market Audit
+2024-02,GLUCOFREE,1559342.25,11355,Local Generic,Gulf,Local Market Audit
+2024-02,GlucoFree XR,1559618.89,12501,Sanofi,North,IQVIA
+2024-02,GlucoFreeXR,2230260.69,17749,Pfizer,West,Local Market Audit
+2024-02,GlucoFree XR,1285206.01,15141,Novartis,Gulf,Distributor Panel
+2024-02,GlucoFree XR ,320211.7,4780,Local Generic,Central,Distributor Panel
+2024-02,BRONCHION,421948.12,8287,Novartis,Gulf,Distributor Panel
+2024-02,Bronchion ,1894746.32,14249,Local Generic,North,Distributor Panel
+2024-02,BRONCHION,936201.0,13933,Novartis,Central,IQVIA
+2024-02,Bronchion,763856.3,8709,AbbVie,East,IQVIA
+2024-02,Bronchion ,2209766.87,18698,Sanofi,West,Third Party Estimate
+2024-02,Bronchion,769927.31,14367,Local Generic,South,IQVIA
+2024-02,Bronchion Cold,1188740.13,14384,Local Generic,East,Distributor Panel
+2024-02,Bronchion Cold ,866842.17,14091,AbbVie,South,Local Market Audit
+2024-02,BRONCHION COLD,1022422.49,8424,Pfizer,North,IQVIA
+2024-02,BRONCHION COLD,1185745.46,8571,Novartis,Gulf,Third Party Estimate
+2024-02,IMMUNEX,741496.59,6971,Pfizer,Gulf,Distributor Panel
+2024-02,IMMUNEX,691975.68,7793,AstraZeneca,North,Third Party Estimate
+2024-02,Immunex ,2663075.67,28905,Local Generic,East,Third Party Estimate
+2024-02,Immunex,1310000.65,9978,Sanofi,Central,Third Party Estimate
+2024-02,IMMUNEX,863900.97,8321,Local Generic,West,Distributor Panel
+2024-02,IMMUNEX JUNIOR,885047.12,13840,Local Generic,West,IQVIA
+2024-02,Immunex Junior ,1368938.1,17303,Sanofi,Central,Distributor Panel
+2024-02,IMMUNEX JUNIOR,697137.32,14684,Pfizer,Gulf,Distributor Panel
+2024-02,ImmunexJunior,756918.82,8428,AstraZeneca,North,Local Market Audit
+2024-02,ImmunexJunior,943098.02,8781,AstraZeneca,East,IQVIA
+2024-02,Immunex Junior ,1955635.63,29701,Sanofi,South,Local Market Audit
+2024-02,GastroEase,1523238.87,15052,AstraZeneca,South,Local Market Audit
+2024-02,GastroEase ,1945843.79,15631,AstraZeneca,Central,Distributor Panel
+2024-02,GASTROEASE,376306.94,7024,AstraZeneca,East,Local Market Audit
+2024-02,GASTROEASE,201620.51,4474,Novartis,West,Distributor Panel
+2024-02,GastroEase DSR,872529.23,14926,AstraZeneca,East,Distributor Panel
+2024-02,GastroEase DSR ,684248.0,5088,AstraZeneca,North,IQVIA
+2024-02,GASTROEASE DSR,526940.8,9091,Local Generic,Central,Third Party Estimate
+2024-02,GastroEaseDSR,1663559.65,18224,Novartis,West,Distributor Panel
+2024-02,ALLERSAFE,729061.61,9990,Local Generic,Gulf,IQVIA
+2024-02,AllerSafe,1506107.53,18322,Novartis,Central,Distributor Panel
+2024-02,AllerSafe,1353023.43,20505,AbbVie,South,Local Market Audit
+2024-02,AllerSafe,707805.04,10469,Novartis,West,IQVIA
+2024-02,AllerSafe Plus,930835.68,13416,Local Generic,West,IQVIA
+2024-02,ALLERSAFE PLUS,540432.51,4716,AbbVie,North,Third Party Estimate
+2024-02,AllerSafe Plus ,800692.16,9927,AstraZeneca,East,Local Market Audit
+2024-02,AllerSafe Plus,812122.12,6716,Sanofi,Central,IQVIA
+2024-02,AllerSafePlus,476956.27,8680,Novartis,Gulf,Third Party Estimate
+2024-02,Neuroton OD,2130555.37,16407,AbbVie,Gulf,Local Market Audit
+2024-02,Neuroton OD,970842.64,16201,Sanofi,North,Local Market Audit
+2024-02,NeurotonOD,689636.13,7063,Local Generic,Central,Distributor Panel
+2024-02,Neuroton OD ,411543.81,8278,Novartis,South,IQVIA
+2024-03,Cardiostat,415573.25,6427,Pfizer,North,Third Party Estimate
+2024-03,Cardiostat ,1897469.17,15870,AbbVie,West,Distributor Panel
+2024-03,Cardiostat,482954.39,5903,AbbVie,Gulf,Distributor Panel
+2024-03,Cardiostat ,496953.1,7098,Sanofi,South,Local Market Audit
+2024-03,Cardiostat,850358.83,16721,Pfizer,East,Distributor Panel
+2024-03,Cardiostat XR,1399247.43,15505,AbbVie,Central,IQVIA
+2024-03,CARDIOSTAT XR,1207837.47,12836,Pfizer,South,Third Party Estimate
+2024-03,CARDIOSTAT XR,491672.17,8076,Novartis,North,Local Market Audit
+2024-03,Cardiostat XR ,651378.13,4690,Novartis,Gulf,Local Market Audit
+2024-03,Cardiostat XR,1409158.09,18695,Pfizer,East,Third Party Estimate
+2024-03,CardiostatXR,985563.13,12971,AstraZeneca,West,Third Party Estimate
+2024-03,GlucoFree,343485.16,5814,Pfizer,Gulf,IQVIA
+2024-03,GlucoFree,1537135.33,16031,AbbVie,Central,Distributor Panel
+2024-03,GlucoFree ,1101506.4,11088,Pfizer,West,Local Market Audit
+2024-03,GlucoFree XR ,511482.81,10295,Sanofi,West,Distributor Panel
+2024-03,GlucoFreeXR,504824.39,4193,Sanofi,South,Third Party Estimate
+2024-03,GLUCOFREE XR,2306318.61,16787,Novartis,Gulf,Distributor Panel
+2024-03,GlucoFreeXR,2008213.47,16267,Local Generic,North,Third Party Estimate
+2024-03,GLUCOFREE XR,940734.18,14967,AbbVie,Central,Third Party Estimate
+2024-03,Bronchion,929197.84,16052,Novartis,North,Local Market Audit
+2024-03,Bronchion,819606.78,16238,AbbVie,Central,IQVIA
+2024-03,Bronchion ,771362.59,10860,AstraZeneca,South,Third Party Estimate
+2024-03,BRONCHION,1854564.28,16904,Sanofi,Gulf,Third Party Estimate
+2024-03,Bronchion ,1882422.21,13816,AstraZeneca,West,Distributor Panel
+2024-03,BRONCHION COLD,1130224.94,8962,Novartis,South,Local Market Audit
+2024-03,Bronchion Cold,1489128.1,13930,Local Generic,East,IQVIA
+2024-03,Bronchion Cold,1464911.59,13755,Novartis,North,Distributor Panel
+2024-03,BronchionCold,1170013.14,15807,AbbVie,Gulf,Third Party Estimate
+2024-03,Bronchion Cold ,1203000.86,17450,Sanofi,West,Third Party Estimate
+2024-03,Immunex,1461431.47,14208,Local Generic,North,IQVIA
+2024-03,Immunex,1440750.49,10373,Sanofi,Central,Distributor Panel
+2024-03,Immunex,2103271.7,16207,Novartis,East,Local Market Audit
+2024-03,Immunex Junior ,1141008.65,10051,Sanofi,North,Distributor Panel
+2024-03,IMMUNEX JUNIOR,1237862.5,10765,Sanofi,Central,Local Market Audit
+2024-03,ImmunexJunior,1890206.57,15809,AstraZeneca,West,Distributor Panel
+2024-03,IMMUNEX JUNIOR,1744830.57,16235,Sanofi,East,IQVIA
+2024-03,GastroEase,861386.08,7445,AbbVie,South,Distributor Panel
+2024-03,GastroEase,692516.46,9495,AbbVie,East,IQVIA
+2024-03,GastroEase,2043933.49,15173,AbbVie,Gulf,Local Market Audit
+2024-03,GastroEase,1193169.21,10880,AbbVie,Central,IQVIA
+2024-03,GastroEase,2262490.63,16245,AbbVie,West,Third Party Estimate
+2024-03,GastroEase,688777.92,6096,AbbVie,North,Distributor Panel
+2024-03,GASTROEASE DSR,927749.42,7830,AbbVie,East,IQVIA
+2024-03,GastroEase DSR ,685571.82,6518,AbbVie,North,Third Party Estimate
+2024-03,GastroEaseDSR,837839.63,8754,Pfizer,Central,Distributor Panel
+2024-03,GastroEase DSR,1181447.83,18722,Local Generic,South,Local Market Audit
+2024-03,ALLERSAFE,564365.42,5592,Pfizer,Gulf,IQVIA
+2024-03,AllerSafe,927374.81,10501,AbbVie,East,Local Market Audit
+2024-03,ALLERSAFE,1055309.39,11525,Novartis,Central,Third Party Estimate
+2024-03,ALLERSAFE,457464.97,4010,Novartis,North,IQVIA
+2024-03,AllerSafe Plus,1304216.79,13614,AstraZeneca,North,IQVIA
+2024-03,AllerSafe Plus,1639881.43,13179,Local Generic,East,IQVIA
+2024-03,AllerSafePlus,617745.05,10887,AbbVie,Gulf,Local Market Audit
+2024-03,AllerSafePlus,844595.24,8053,AbbVie,South,IQVIA
+2024-03,Neuroton OD,766248.08,13638,Pfizer,Central,Third Party Estimate
+2024-03,NEUROTON OD,917003.82,7712,Sanofi,Gulf,Third Party Estimate
+2024-03,NEUROTON OD,777459.12,8009,Local Generic,South,Third Party Estimate
+2024-03,Neuroton OD,405549.43,8776,Pfizer,West,Third Party Estimate
+2024-03,Neuroton OD,906841.87,7617,Local Generic,North,IQVIA
+2024-04,Cardiostat,1230832.63,10068,Sanofi,Gulf,Distributor Panel
+2024-04,Cardiostat,1591528.39,18621,Pfizer,South,IQVIA
+2024-04,CARDIOSTAT,515681.41,4774,Sanofi,West,Distributor Panel
+2024-04,Cardiostat,932504.18,13229,Sanofi,Central,Distributor Panel
+2024-04,Cardiostat ,516822.98,6225,Sanofi,East,Third Party Estimate
+2024-04,Cardiostat XR ,573661.01,5673,Novartis,West,Third Party Estimate
+2024-04,CARDIOSTAT XR,780699.76,16354,AbbVie,South,Third Party Estimate
+2024-04,Cardiostat XR,589728.85,6789,Sanofi,North,Distributor Panel
+2024-04,CARDIOSTAT XR,504020.76,4607,Local Generic,Gulf,Distributor Panel
+2024-04,Cardiostat XR,1440957.45,12917,AbbVie,East,Local Market Audit
+2024-04,Cardiostat XR ,1261815.31,11550,Novartis,Central,IQVIA
+2024-04,GlucoFree ,1115850.99,18379,Sanofi,Gulf,Local Market Audit
+2024-04,GLUCOFREE,557871.86,11206,AstraZeneca,South,Third Party Estimate
+2024-04,GlucoFree ,632438.84,12049,AstraZeneca,West,Third Party Estimate
+2024-04,GlucoFree XR,821237.3,7092,Pfizer,West,Third Party Estimate
+2024-04,GlucoFree XR,901296.84,9276,AstraZeneca,Gulf,Distributor Panel
+2024-04,GlucoFree XR ,1383243.31,12905,Sanofi,East,Distributor Panel
+2024-04,Bronchion,1503309.6,14739,Local Generic,South,Third Party Estimate
+2024-04,Bronchion,558102.91,5187,Sanofi,West,Distributor Panel
+2024-04,Bronchion,2281782.62,18859,Local Generic,East,IQVIA
+2024-04,Bronchion Cold,2183189.59,19227,Sanofi,South,Local Market Audit
+2024-04,BRONCHION COLD,794797.92,6310,AbbVie,West,Local Market Audit
+2024-04,Bronchion Cold,1782351.6,15243,Local Generic,Gulf,IQVIA
+2024-04,Immunex ,1917818.91,15381,AstraZeneca,West,Local Market Audit
+2024-04,IMMUNEX,1846138.67,16138,Pfizer,Central,Third Party Estimate
+2024-04,Immunex ,2018015.49,15661,AbbVie,South,Local Market Audit
+2024-04,Immunex,650825.61,8390,AbbVie,Gulf,Local Market Audit
+2024-04,Immunex,694430.45,6228,Local Generic,North,Distributor Panel
+2024-04,IMMUNEX,1693385.99,17352,Novartis,East,Local Market Audit
+2024-04,Immunex Junior,1344429.27,12743,Sanofi,Gulf,Third Party Estimate
+2024-04,Immunex Junior ,1541271.09,14221,Local Generic,East,Distributor Panel
+2024-04,Immunex Junior,824582.11,17843,Pfizer,South,Third Party Estimate
+2024-04,ImmunexJunior,279191.85,5542,Novartis,Central,Distributor Panel
+2024-04,ImmunexJunior,1777438.39,14249,Novartis,North,IQVIA
+2024-04,GastroEase,979956.78,8119,Local Generic,West,IQVIA
+2024-04,GastroEase,1372863.2,10103,AstraZeneca,North,IQVIA
+2024-04,GastroEase ,300635.41,4676,Novartis,South,Distributor Panel
+2024-04,GASTROEASE,1990530.49,17286,Local Generic,East,Local Market Audit
+2024-04,GastroEase,1229379.65,8881,Novartis,Gulf,Local Market Audit
+2024-04,GastroEaseDSR,513683.21,8956,Pfizer,West,Distributor Panel
+2024-04,GASTROEASE DSR,763348.13,12785,Sanofi,North,IQVIA
+2024-04,GastroEaseDSR,2029815.6,19615,AbbVie,Gulf,Distributor Panel
+2024-04,ALLERSAFE,1212864.7,10133,AbbVie,Gulf,Third Party Estimate
+2024-04,AllerSafe,966146.64,7494,Sanofi,East,Distributor Panel
+2024-04,AllerSafe ,1331038.67,11425,AstraZeneca,South,IQVIA
+2024-04,ALLERSAFE PLUS,1338995.39,12962,Pfizer,Gulf,Distributor Panel
+2024-04,AllerSafe Plus ,2263391.68,16794,Sanofi,East,Distributor Panel
+2024-04,AllerSafePlus,887184.3,7207,AstraZeneca,West,Third Party Estimate
+2024-04,Neuroton OD,950446.77,8023,Local Generic,North,IQVIA
+2024-04,Neuroton OD ,957757.22,8083,Pfizer,East,Local Market Audit
+2024-04,Neuroton OD ,1876183.72,14604,Local Generic,South,IQVIA
+2024-04,NeurotonOD,836440.58,17700,Pfizer,West,IQVIA
+2024-04,Neuroton OD,544194.93,4518,AstraZeneca,Gulf,Local Market Audit
+2024-04,Neuroton OD ,718318.33,8176,AbbVie,Central,Distributor Panel
+2024-05,Cardiostat,815611.06,15990,Local Generic,West,IQVIA
+2024-05,Cardiostat,638024.96,11583,AstraZeneca,North,IQVIA
+2024-05,Cardiostat ,833411.71,9626,Local Generic,Central,IQVIA
+2024-05,CardiostatXR,1416531.56,12955,Pfizer,South,Local Market Audit
+2024-05,Cardiostat XR ,517320.62,5204,AstraZeneca,Central,IQVIA
+2024-05,CardiostatXR,958579.68,8304,Novartis,Gulf,Third Party Estimate
+2024-05,CARDIOSTAT XR,979846.37,16740,Novartis,North,Distributor Panel
+2024-05,Cardiostat XR,695193.37,6393,AstraZeneca,West,Third Party Estimate
+2024-05,Cardiostat XR,1102177.6,15179,Sanofi,East,IQVIA
+2024-05,GlucoFree,945584.46,8815,Sanofi,Gulf,IQVIA
+2024-05,GlucoFree,605108.14,6891,Local Generic,Central,Local Market Audit
+2024-05,GlucoFree ,1693041.39,13908,Novartis,West,IQVIA
+2024-05,GlucoFree ,564552.16,8548,Sanofi,South,Distributor Panel
+2024-05,GlucoFree XR,815624.4,11019,Novartis,Gulf,IQVIA
+2024-05,GLUCOFREE XR,2083526.44,16869,Sanofi,East,IQVIA
+2024-05,GlucoFree XR,652439.8,13950,AstraZeneca,West,Third Party Estimate
+2024-05,GlucoFreeXR,2299473.65,17540,AstraZeneca,South,Third Party Estimate
+2024-05,Bronchion,1062890.22,18415,AbbVie,East,Distributor Panel
+2024-05,BRONCHION,706586.59,10438,AstraZeneca,West,Local Market Audit
+2024-05,BRONCHION,1012048.75,10243,Local Generic,South,Third Party Estimate
+2024-05,BRONCHION,1001613.18,8536,Pfizer,Gulf,Distributor Panel
+2024-05,Bronchion Cold,926624.18,10507,Pfizer,South,Distributor Panel
+2024-05,BronchionCold,589775.33,6239,Local Generic,North,Distributor Panel
+2024-05,Bronchion Cold ,862819.66,14026,Sanofi,Gulf,IQVIA
+2024-05,BRONCHION COLD,1606528.04,11692,AstraZeneca,East,Third Party Estimate
+2024-05,Bronchion Cold ,864192.14,11111,AstraZeneca,West,IQVIA
+2024-05,IMMUNEX,869917.89,13364,Novartis,West,Distributor Panel
+2024-05,IMMUNEX,858412.05,15263,AbbVie,South,Distributor Panel
+2024-05,Immunex ,1534167.36,14056,Novartis,Central,Local Market Audit
+2024-05,Immunex,785838.07,16673,Novartis,North,Local Market Audit
+2024-05,IMMUNEX JUNIOR,387308.09,5570,AstraZeneca,Gulf,Third Party Estimate
+2024-05,ImmunexJunior,1735005.7,16434,Pfizer,Central,Local Market Audit
+2024-05,Immunex Junior ,1083337.1,12066,Novartis,North,Local Market Audit
+2024-05,IMMUNEX JUNIOR,1024407.58,17494,AstraZeneca,East,Distributor Panel
+2024-05,GASTROEASE,967438.16,11954,Pfizer,Gulf,IQVIA
+2024-05,GastroEase ,992761.88,7556,Novartis,East,IQVIA
+2024-05,GastroEase,725875.55,7020,AstraZeneca,West,IQVIA
+2024-05,GastroEase,322999.0,5629,Local Generic,Central,Third Party Estimate
+2024-05,GastroEase DSR,1187684.31,10289,AbbVie,East,Local Market Audit
+2024-05,GastroEase DSR,557373.12,8308,Sanofi,North,Third Party Estimate
+2024-05,GastroEase DSR,846476.73,7533,AstraZeneca,West,IQVIA
+2024-05,GastroEaseDSR,1143523.49,10669,AbbVie,Central,Distributor Panel
+2024-05,GastroEaseDSR,555344.01,5195,Sanofi,South,Third Party Estimate
+2024-05,GastroEase DSR ,922398.96,12959,Novartis,Gulf,Third Party Estimate
+2024-05,AllerSafe,2943835.76,25621,Local Generic,South,Local Market Audit
+2024-05,AllerSafe,2407390.2,17809,Novartis,East,Third Party Estimate
+2024-05,AllerSafe,2226818.98,22885,Novartis,West,Third Party Estimate
+2024-05,ALLERSAFE,922516.83,17194,AbbVie,Gulf,Third Party Estimate
+2024-05,AllerSafe,439287.28,6649,AstraZeneca,Central,IQVIA
+2024-05,AllerSafe,3029904.16,21873,Local Generic,North,IQVIA
+2024-05,AllerSafePlus,1565707.81,11735,Novartis,Gulf,IQVIA
+2024-05,ALLERSAFE PLUS,2349305.36,24992,AstraZeneca,West,Local Market Audit
+2024-05,AllerSafe Plus,1230371.91,18166,Novartis,Central,IQVIA
+2024-05,AllerSafe Plus ,1051981.69,13393,AbbVie,North,Local Market Audit
+2024-05,NeurotonOD,1529023.9,12348,Sanofi,Gulf,Distributor Panel
+2024-05,Neuroton OD ,519646.41,8186,AstraZeneca,North,IQVIA
+2024-05,Neuroton OD,702104.53,7542,AstraZeneca,Central,Distributor Panel
+2024-06,Cardiostat ,1248628.76,15449,Novartis,North,Distributor Panel
+2024-06,Cardiostat,1498766.37,16884,AbbVie,Central,IQVIA
+2024-06,CARDIOSTAT,755741.5,7184,Local Generic,East,Local Market Audit
+2024-06,Cardiostat,2231064.7,16433,Local Generic,West,Distributor Panel
+2024-06,Cardiostat,635665.01,7668,Pfizer,South,Local Market Audit
+2024-06,Cardiostat XR ,2322599.73,17670,Local Generic,East,Local Market Audit
+2024-06,CARDIOSTAT XR,1111414.66,8689,Novartis,Gulf,Local Market Audit
+2024-06,CARDIOSTAT XR,1719621.84,16572,Pfizer,South,IQVIA
+2024-06,Cardiostat XR,620281.2,5742,AstraZeneca,Central,IQVIA
+2024-06,Cardiostat XR ,1895149.0,18229,AstraZeneca,West,Distributor Panel
+2024-06,CardiostatXR,1294242.15,11005,AbbVie,North,Local Market Audit
+2024-06,GLUCOFREE,863844.39,11076,AbbVie,North,IQVIA
+2024-06,GlucoFree,1194090.92,15924,Pfizer,Central,Local Market Audit
+2024-06,GlucoFree,816936.8,10761,Novartis,West,Distributor Panel
+2024-06,GlucoFree,1012967.05,7445,Sanofi,South,Local Market Audit
+2024-06,GLUCOFREE XR,1564939.11,17820,AstraZeneca,West,Local Market Audit
+2024-06,GLUCOFREE XR,1083979.41,15344,AstraZeneca,South,Third Party Estimate
+2024-06,GLUCOFREE XR,1138159.47,9406,AbbVie,Gulf,IQVIA
+2024-06,GlucoFreeXR,397201.82,6875,AbbVie,East,Distributor Panel
+2024-06,GlucoFree XR ,840036.93,8490,Pfizer,Central,Local Market Audit
+2024-06,GlucoFree XR,318885.32,4611,AbbVie,North,Distributor Panel
+2024-06,BRONCHION,1221766.15,9590,AstraZeneca,East,Local Market Audit
+2024-06,Bronchion ,1209432.45,15938,Local Generic,Gulf,Third Party Estimate
+2024-06,BRONCHION,375253.77,5196,Novartis,Central,Distributor Panel
+2024-06,Bronchion,1160385.58,11685,Pfizer,South,Local Market Audit
+2024-06,Bronchion,672401.04,8953,Local Generic,North,Distributor Panel
+2024-06,BRONCHION COLD,290860.34,6163,Local Generic,East,Distributor Panel
+2024-06,BRONCHION COLD,932601.83,17728,AbbVie,West,IQVIA
+2024-06,Bronchion Cold,623620.77,4854,Pfizer,Gulf,Third Party Estimate
+2024-06,BronchionCold,744163.17,14065,AstraZeneca,Central,Local Market Audit
+2024-06,BronchionCold,749798.53,5807,Novartis,South,Local Market Audit
+2024-06,BRONCHION COLD,1596058.72,15271,AstraZeneca,North,Local Market Audit
+2024-06,Immunex,1527714.62,11960,AstraZeneca,North,Third Party Estimate
+2024-06,IMMUNEX,822204.87,7389,AstraZeneca,East,Third Party Estimate
+2024-06,Immunex ,2046555.92,15946,AstraZeneca,Central,Distributor Panel
+2024-06,ImmunexJunior,616334.36,8845,Pfizer,West,IQVIA
+2024-06,ImmunexJunior,1792421.99,14276,Sanofi,Central,Third Party Estimate
+2024-06,Immunex Junior ,1443863.95,10889,Sanofi,South,IQVIA
+2024-06,IMMUNEX JUNIOR,1205880.2,16558,Pfizer,North,Distributor Panel
+2024-06,Immunex Junior ,692386.52,7047,Novartis,Gulf,Local Market Audit
+2024-06,GastroEase,1830906.71,13929,Sanofi,West,Distributor Panel
+2024-06,GASTROEASE,507727.18,9858,Sanofi,South,IQVIA
+2024-06,GastroEase ,1282259.75,14569,Novartis,East,Distributor Panel
+2024-06,GastroEase,534642.74,3899,Novartis,North,IQVIA
+2024-06,GastroEase,919473.97,8141,Novartis,Central,IQVIA
+2024-06,GastroEase ,363015.39,5531,Sanofi,Gulf,Third Party Estimate
+2024-06,GastroEase DSR ,381697.24,4639,Novartis,West,Local Market Audit
+2024-06,GastroEase DSR,1354841.31,16675,Pfizer,North,Local Market Audit
+2024-06,GastroEase DSR,1004831.0,11539,Novartis,East,Third Party Estimate
+2024-06,GASTROEASE DSR,1698312.65,17970,AbbVie,Central,Third Party Estimate
+2024-06,GASTROEASE DSR,2409588.67,17990,Local Generic,Gulf,IQVIA
+2024-06,ALLERSAFE,495187.58,9914,Pfizer,East,Local Market Audit
+2024-06,AllerSafe,935825.51,20155,AstraZeneca,West,IQVIA
+2024-06,AllerSafe,757827.15,16529,AstraZeneca,Gulf,Third Party Estimate
+2024-06,AllerSafe Plus,1561965.03,15052,Pfizer,East,Distributor Panel
+2024-06,AllerSafe Plus,1767848.5,18424,Novartis,North,Third Party Estimate
+2024-06,AllerSafePlus,1030238.91,10508,AbbVie,South,Local Market Audit
+2024-06,ALLERSAFE PLUS,525048.16,6644,Sanofi,Central,IQVIA
+2024-06,Neuroton OD ,948744.21,12159,Sanofi,Gulf,Local Market Audit
+2024-06,NeurotonOD,465817.24,5312,AstraZeneca,West,Distributor Panel
+2024-06,Neuroton OD ,1027186.94,9726,Local Generic,East,Local Market Audit
+2024-06,NEUROTON OD,365623.34,4594,Sanofi,Central,IQVIA
+2024-06,NEUROTON OD,2158012.48,17572,AstraZeneca,South,Third Party Estimate
+2024-06,NeurotonOD,1781487.49,17256,AbbVie,North,Distributor Panel
+2024-07,Cardiostat,308886.26,5388,Novartis,North,IQVIA
+2024-07,Cardiostat ,526328.02,10960,Local Generic,Central,Third Party Estimate
+2024-07,Cardiostat,1362236.11,13477,Sanofi,Gulf,Local Market Audit
+2024-07,Cardiostat XR,1874579.94,15480,Sanofi,North,Third Party Estimate
+2024-07,CardiostatXR,1920799.89,17104,AstraZeneca,South,IQVIA
+2024-07,CARDIOSTAT XR,1035670.47,14020,AstraZeneca,West,IQVIA
+2024-07,GLUCOFREE,700054.51,6518,AstraZeneca,Gulf,Third Party Estimate
+2024-07,GlucoFree,1520475.68,14389,Local Generic,South,Third Party Estimate
+2024-07,GLUCOFREE,2164213.93,16794,Novartis,West,Third Party Estimate
+2024-07,GlucoFreeXR,1181241.34,15575,AbbVie,Gulf,Third Party Estimate
+2024-07,GLUCOFREE XR,1990091.07,19359,AbbVie,South,Distributor Panel
+2024-07,GlucoFree XR ,1027746.56,11744,Pfizer,West,IQVIA
+2024-07,GlucoFreeXR,863188.7,9166,Pfizer,Central,Distributor Panel
+2024-07,GlucoFreeXR,529131.31,7063,AstraZeneca,East,Local Market Audit
+2024-07,BRONCHION,470531.11,5891,Novartis,North,Distributor Panel
+2024-07,BRONCHION,1637829.78,16511,Local Generic,West,IQVIA
+2024-07,Bronchion ,1387863.47,15278,Local Generic,East,IQVIA
+2024-07,Bronchion Cold ,2067699.61,16081,AbbVie,North,IQVIA
+2024-07,Bronchion Cold,1653045.6,15447,Local Generic,Central,Third Party Estimate
+2024-07,BRONCHION COLD,228616.16,4674,Sanofi,West,Local Market Audit
+2024-07,Bronchion Cold ,646581.3,5647,AbbVie,Gulf,IQVIA
+2024-07,BRONCHION COLD,915264.34,7646,Novartis,East,Distributor Panel
+2024-07,Immunex ,681897.84,12846,Local Generic,West,Local Market Audit
+2024-07,Immunex ,1451389.09,14790,AbbVie,Central,Local Market Audit
+2024-07,IMMUNEX,1615216.53,14059,Novartis,North,IQVIA
+2024-07,ImmunexJunior,674880.44,10696,AstraZeneca,West,IQVIA
+2024-07,Immunex Junior ,2205959.95,15890,AstraZeneca,East,Local Market Audit
+2024-07,IMMUNEX JUNIOR,1191549.96,9709,Local Generic,North,Distributor Panel
+2024-07,Immunex Junior,921152.06,7310,Local Generic,Gulf,IQVIA
+2024-07,ImmunexJunior,1255225.99,9435,Pfizer,South,Distributor Panel
+2024-07,GASTROEASE,487032.41,4224,Novartis,East,Distributor Panel
+2024-07,GASTROEASE,1513669.2,13238,Local Generic,West,IQVIA
+2024-07,GastroEase,1158029.23,10719,Sanofi,Central,Local Market Audit
+2024-07,GastroEase DSR,664658.2,4931,AbbVie,East,Distributor Panel
+2024-07,GastroEase DSR,1837955.51,17064,Pfizer,South,Distributor Panel
+2024-07,GastroEase DSR,1991532.47,14423,Sanofi,Gulf,Third Party Estimate
+2024-07,ALLERSAFE,728342.05,15483,AstraZeneca,South,Distributor Panel
+2024-07,AllerSafe,1118753.1,9668,Sanofi,Gulf,Distributor Panel
+2024-07,AllerSafe,707979.37,10498,Pfizer,West,Distributor Panel
+2024-07,AllerSafe Plus ,601147.74,11270,AstraZeneca,North,Local Market Audit
+2024-07,AllerSafePlus,602431.57,10123,AstraZeneca,Central,Distributor Panel
+2024-07,ALLERSAFE PLUS,763421.32,11810,AstraZeneca,East,Local Market Audit
+2024-07,ALLERSAFE PLUS,671815.75,5999,AbbVie,Gulf,Local Market Audit
+2024-07,AllerSafePlus,2293040.68,17355,Pfizer,West,IQVIA
+2024-07,AllerSafe Plus,866917.99,6743,Sanofi,South,Third Party Estimate
+2024-07,NeurotonOD,661027.6,5629,AstraZeneca,East,Local Market Audit
+2024-07,NeurotonOD,1414388.43,12823,Pfizer,West,Third Party Estimate
+2024-07,NeurotonOD,651054.61,6355,Novartis,Gulf,Third Party Estimate
+2024-07,NEUROTON OD,741311.36,12241,Pfizer,North,Third Party Estimate
+2024-07,Neuroton OD ,2611805.94,19650,Novartis,Central,Local Market Audit
+2024-07,Neuroton OD ,935249.71,15128,AstraZeneca,South,Third Party Estimate
+2024-08,Cardiostat,1254193.27,15458,AbbVie,West,IQVIA
+2024-08,Cardiostat,983865.26,11129,Novartis,South,Third Party Estimate
+2024-08,Cardiostat,1133623.15,13858,Novartis,Gulf,Distributor Panel
+2024-08,Cardiostat,819247.63,11081,AbbVie,Central,Local Market Audit
+2024-08,CARDIOSTAT,1377062.89,10408,AbbVie,North,Third Party Estimate
+2024-08,CARDIOSTAT XR,1045404.88,7796,AbbVie,Gulf,Third Party Estimate
+2024-08,CARDIOSTAT XR,580940.76,9371,AbbVie,Central,IQVIA
+2024-08,CARDIOSTAT XR,831595.13,7800,Local Generic,North,IQVIA
+2024-08,GLUCOFREE,454378.76,5576,AbbVie,North,Third Party Estimate
+2024-08,GLUCOFREE,695185.99,5280,Novartis,West,Local Market Audit
+2024-08,GlucoFree,386826.6,7756,Sanofi,East,Third Party Estimate
+2024-08,GlucoFree XR ,299105.29,4332,AbbVie,Gulf,Third Party Estimate
+2024-08,GlucoFree XR ,1501815.09,14615,Novartis,South,Local Market Audit
+2024-08,GlucoFree XR ,1299462.95,14749,Pfizer,North,IQVIA
+2024-08,GLUCOFREE XR,662784.37,9280,Pfizer,West,Local Market Audit
+2024-08,GLUCOFREE XR,436740.67,5588,Pfizer,East,Distributor Panel
+2024-08,BRONCHION,742912.87,7209,AbbVie,North,Distributor Panel
+2024-08,Bronchion,297256.69,4048,AbbVie,Gulf,IQVIA
+2024-08,Bronchion,1597385.25,16418,AbbVie,Central,Local Market Audit
+2024-08,Bronchion ,466004.43,6557,AstraZeneca,South,Local Market Audit
+2024-08,Bronchion,718299.45,14216,AbbVie,West,Distributor Panel
+2024-08,Bronchion Cold ,1389439.71,14723,AbbVie,Central,Local Market Audit
+2024-08,BRONCHION COLD,945567.67,13025,Pfizer,East,IQVIA
+2024-08,BRONCHION COLD,536706.62,4447,AstraZeneca,Gulf,Third Party Estimate
+2024-08,BRONCHION COLD,730309.83,9337,Pfizer,West,Local Market Audit
+2024-08,BronchionCold,1743035.47,14517,Sanofi,South,Distributor Panel
+2024-08,BronchionCold,1555049.66,14117,AbbVie,North,IQVIA
+2024-08,IMMUNEX,1674772.98,13871,AbbVie,South,Local Market Audit
+2024-08,Immunex,1836205.98,14436,AbbVie,East,Third Party Estimate
+2024-08,Immunex,1328508.5,14058,AstraZeneca,Central,IQVIA
+2024-08,Immunex,596650.97,7798,Pfizer,West,Local Market Audit
+2024-08,Immunex Junior,890580.93,14181,Sanofi,North,Distributor Panel
+2024-08,Immunex Junior ,1134746.38,13458,Novartis,East,Distributor Panel
+2024-08,ImmunexJunior,959041.45,13004,Novartis,West,IQVIA
+2024-08,Immunex Junior,1354633.65,11394,AbbVie,Central,IQVIA
+2024-08,IMMUNEX JUNIOR,1610884.84,17414,Sanofi,Gulf,Third Party Estimate
+2024-08,GastroEase,720022.71,8123,Pfizer,East,Distributor Panel
+2024-08,GastroEase,522302.28,5148,Sanofi,South,Third Party Estimate
+2024-08,GastroEase,496237.13,4213,Pfizer,North,Distributor Panel
+2024-08,GASTROEASE,1269106.36,16813,Sanofi,Gulf,Distributor Panel
+2024-08,GastroEase,1063034.0,12232,Sanofi,West,Local Market Audit
+2024-08,GastroEaseDSR,876442.23,13562,AstraZeneca,East,Distributor Panel
+2024-08,GastroEaseDSR,849648.06,7592,AstraZeneca,North,Local Market Audit
+2024-08,GastroEaseDSR,614809.88,5954,AstraZeneca,Central,Third Party Estimate
+2024-08,GastroEase DSR,388128.2,4326,Pfizer,Gulf,Third Party Estimate
+2024-08,AllerSafe ,985630.87,7601,AstraZeneca,North,Distributor Panel
+2024-08,AllerSafe,562353.07,8811,AbbVie,West,Local Market Audit
+2024-08,AllerSafe ,829168.56,6264,Pfizer,Central,Third Party Estimate
+2024-08,AllerSafePlus,757903.48,7315,AbbVie,Gulf,Local Market Audit
+2024-08,AllerSafePlus,1382957.21,18106,AbbVie,West,Third Party Estimate
+2024-08,AllerSafe Plus ,218606.31,3923,AbbVie,Central,Local Market Audit
+2024-08,ALLERSAFE PLUS,988165.74,9648,AstraZeneca,North,IQVIA
+2024-08,AllerSafePlus,1459769.6,12095,AstraZeneca,East,IQVIA
+2024-08,Neuroton OD ,819145.52,8440,AbbVie,Central,IQVIA
+2024-08,Neuroton OD ,981004.28,8843,AbbVie,West,Distributor Panel
+2024-08,Neuroton OD,867638.27,14121,Local Generic,Gulf,Third Party Estimate
+2024-08,Neuroton OD,552453.85,6209,AbbVie,East,Local Market Audit
+2024-08,Neuroton OD,553030.35,10715,Local Generic,South,Third Party Estimate
+2024-09,Cardiostat,1661618.06,15760,Novartis,West,Local Market Audit
+2024-09,Cardiostat ,970714.06,11831,Novartis,North,Local Market Audit
+2024-09,Cardiostat,1289263.31,17547,AbbVie,Central,Distributor Panel
+2024-09,Cardiostat ,593395.38,5756,Novartis,Gulf,Distributor Panel
+2024-09,Cardiostat,477657.48,4917,Pfizer,East,Distributor Panel
+2024-09,CardiostatXR,1000432.47,12133,Local Generic,East,Third Party Estimate
+2024-09,CARDIOSTAT XR,1013933.12,10476,AbbVie,North,Local Market Audit
+2024-09,CardiostatXR,925484.0,7397,AbbVie,South,Local Market Audit
+2024-09,GlucoFree ,1420112.08,12509,Local Generic,Gulf,Third Party Estimate
+2024-09,GlucoFree ,580315.58,5474,AbbVie,South,Third Party Estimate
+2024-09,GlucoFree ,1211605.77,12973,AbbVie,Central,Distributor Panel
+2024-09,GlucoFree ,721445.9,7043,Local Generic,North,Local Market Audit
+2024-09,GlucoFree,1350187.49,16068,Pfizer,East,IQVIA
+2024-09,GlucoFreeXR,664491.3,6994,AbbVie,Gulf,IQVIA
+2024-09,GlucoFree XR ,779888.7,14604,Local Generic,East,IQVIA
+2024-09,GlucoFreeXR,1969113.49,16298,AstraZeneca,North,IQVIA
+2024-09,GlucoFree XR ,459599.89,9986,AstraZeneca,Central,Third Party Estimate
+2024-09,GlucoFreeXR,1260838.53,14834,Sanofi,South,Local Market Audit
+2024-09,GlucoFreeXR,509284.45,5004,Local Generic,West,Distributor Panel
+2024-09,Bronchion,1616024.65,11619,Sanofi,Gulf,Third Party Estimate
+2024-09,Bronchion,250264.66,4785,Sanofi,West,Local Market Audit
+2024-09,Bronchion,1690120.36,13361,Local Generic,South,IQVIA
+2024-09,BRONCHION COLD,1874475.45,15707,AbbVie,Central,Local Market Audit
+2024-09,Bronchion Cold,851515.85,17687,Novartis,South,Local Market Audit
+2024-09,Bronchion Cold ,2528546.02,18140,Novartis,West,Third Party Estimate
+2024-09,BronchionCold,1109175.41,17056,Pfizer,Gulf,Distributor Panel
+2024-09,IMMUNEX,966346.6,10708,AbbVie,North,Third Party Estimate
+2024-09,Immunex ,1057992.7,11091,Pfizer,South,Distributor Panel
+2024-09,Immunex,1880797.46,17183,Pfizer,West,Distributor Panel
+2024-09,IMMUNEX JUNIOR,725387.18,8829,Local Generic,Central,Local Market Audit
+2024-09,IMMUNEX JUNIOR,1339965.32,12118,Sanofi,East,IQVIA
+2024-09,Immunex Junior ,659349.95,12814,Pfizer,Gulf,IQVIA
+2024-09,ImmunexJunior,1008936.05,15323,Sanofi,South,Local Market Audit
+2024-09,IMMUNEX JUNIOR,210155.32,3911,AstraZeneca,West,IQVIA
+2024-09,IMMUNEX JUNIOR,983791.99,18490,AbbVie,North,Local Market Audit
+2024-09,GastroEase ,1197935.17,8944,Sanofi,Gulf,Third Party Estimate
+2024-09,GastroEase,2113500.42,17890,Sanofi,South,Local Market Audit
+2024-09,GastroEase ,1747560.24,14707,AbbVie,East,Distributor Panel
+2024-09,GASTROEASE DSR,1353808.18,9807,AstraZeneca,East,Third Party Estimate
+2024-09,GastroEase DSR ,411881.06,7448,Novartis,Gulf,IQVIA
+2024-09,GastroEase DSR,677534.54,12361,Pfizer,South,Distributor Panel
+2024-09,AllerSafe,872566.41,14689,AbbVie,North,IQVIA
+2024-09,AllerSafe ,1615096.29,13659,AbbVie,West,Third Party Estimate
+2024-09,AllerSafe,2405940.89,19694,AstraZeneca,South,Local Market Audit
+2024-09,AllerSafe ,440924.98,3991,Pfizer,East,Distributor Panel
+2024-09,AllerSafe,855584.64,10301,Sanofi,Gulf,Distributor Panel
+2024-09,AllerSafe,713423.91,6085,Local Generic,Central,Local Market Audit
+2024-09,AllerSafe Plus,558417.95,6805,Local Generic,Central,Distributor Panel
+2024-09,ALLERSAFE PLUS,1106862.75,10530,Novartis,North,IQVIA
+2024-09,ALLERSAFE PLUS,859166.41,6152,AbbVie,West,Third Party Estimate
+2024-09,AllerSafe Plus ,602039.9,5673,AstraZeneca,East,Third Party Estimate
+2024-09,Neuroton OD,526542.06,10731,Novartis,North,Third Party Estimate
+2024-09,NEUROTON OD,1674158.81,17444,Pfizer,East,IQVIA
+2024-09,Neuroton OD ,1546297.63,14436,AstraZeneca,Gulf,IQVIA
+2024-10,Cardiostat,924569.4,12461,AbbVie,Gulf,Local Market Audit
+2024-10,Cardiostat,2293217.8,18691,Pfizer,South,Third Party Estimate
+2024-10,CARDIOSTAT,1024337.63,15531,AbbVie,North,Distributor Panel
+2024-10,Cardiostat ,2274439.2,19760,Sanofi,West,IQVIA
+2024-10,CARDIOSTAT XR,373723.9,6618,AbbVie,East,Local Market Audit
+2024-10,CARDIOSTAT XR,915655.21,15091,AstraZeneca,South,IQVIA
+2024-10,Cardiostat XR ,686860.61,5473,Novartis,North,IQVIA
+2024-10,Cardiostat XR,480573.97,10519,Local Generic,Gulf,Distributor Panel
+2024-10,GLUCOFREE,857856.87,12666,AstraZeneca,Gulf,IQVIA
+2024-10,GlucoFree,1162683.31,12571,Local Generic,West,Distributor Panel
+2024-10,GLUCOFREE,947000.75,9665,Pfizer,South,IQVIA
+2024-10,GLUCOFREE,1620012.19,13810,AbbVie,North,Local Market Audit
+2024-10,GLUCOFREE,412603.35,7407,Local Generic,East,Third Party Estimate
+2024-10,GlucoFree,1203774.81,11078,Pfizer,Central,Distributor Panel
+2024-10,GLUCOFREE XR,208630.61,4174,Novartis,South,IQVIA
+2024-10,GLUCOFREE XR,636661.45,12307,Local Generic,West,Third Party Estimate
+2024-10,GlucoFreeXR,1224251.06,14435,Novartis,East,IQVIA
+2024-10,GlucoFree XR ,586532.96,8686,Novartis,Gulf,Third Party Estimate
+2024-10,GlucoFree XR,670692.54,6668,AbbVie,Central,Local Market Audit
+2024-10,Bronchion,1029971.31,9084,Sanofi,Central,Local Market Audit
+2024-10,Bronchion,941460.0,8500,Sanofi,West,Local Market Audit
+2024-10,BRONCHION,591702.75,6681,Sanofi,South,Local Market Audit
+2024-10,BRONCHION,1125185.27,9376,AstraZeneca,Gulf,Local Market Audit
+2024-10,BronchionCold,993123.32,7976,Pfizer,West,Third Party Estimate
+2024-10,Bronchion Cold ,1271970.77,18557,AstraZeneca,Central,Local Market Audit
+2024-10,Bronchion Cold,2132105.15,16176,AbbVie,Gulf,IQVIA
+2024-10,Immunex,1029061.18,11367,AbbVie,West,Third Party Estimate
+2024-10,Immunex ,813349.94,6979,Novartis,Central,Local Market Audit
+2024-10,Immunex,1002727.53,9413,Pfizer,North,Third Party Estimate
+2024-10,IMMUNEX JUNIOR,1671936.32,14955,Sanofi,South,Third Party Estimate
+2024-10,Immunex Junior,2109526.58,16645,AbbVie,West,Distributor Panel
+2024-10,ImmunexJunior,934769.29,10938,Local Generic,North,Local Market Audit
+2024-10,ImmunexJunior,1914634.58,18420,Local Generic,Gulf,IQVIA
+2024-10,Immunex Junior,1601580.12,14681,Pfizer,East,Third Party Estimate
+2024-10,GASTROEASE,828414.22,7399,Novartis,West,Distributor Panel
+2024-10,GASTROEASE,876307.45,8216,Local Generic,Central,Local Market Audit
+2024-10,GastroEase ,633872.56,9004,Sanofi,North,IQVIA
+2024-10,GastroEase,434528.34,4939,AbbVie,South,Distributor Panel
+2024-10,GastroEase,1472700.84,12172,Novartis,East,Third Party Estimate
+2024-10,GASTROEASE DSR,540937.65,10341,Sanofi,North,IQVIA
+2024-10,GASTROEASE DSR,824529.19,13905,AstraZeneca,West,IQVIA
+2024-10,GASTROEASE DSR,962645.23,8765,AbbVie,South,Distributor Panel
+2024-10,AllerSafe,2154856.74,15961,AbbVie,West,Distributor Panel
+2024-10,AllerSafe ,1205725.87,15865,AbbVie,North,Distributor Panel
+2024-10,ALLERSAFE,1429298.07,11912,Sanofi,East,Local Market Audit
+2024-10,AllerSafe,846485.11,11696,Novartis,Central,Distributor Panel
+2024-10,ALLERSAFE,531492.06,8741,Local Generic,Gulf,Distributor Panel
+2024-10,ALLERSAFE,1037433.55,8317,Novartis,South,Local Market Audit
+2024-10,AllerSafe Plus,660412.03,10562,Local Generic,North,Distributor Panel
+2024-10,ALLERSAFE PLUS,760900.24,8686,AstraZeneca,East,Distributor Panel
+2024-10,AllerSafe Plus ,585786.05,7021,Novartis,South,Third Party Estimate
+2024-10,NEUROTON OD,1876796.28,13688,AstraZeneca,South,Third Party Estimate
+2024-10,Neuroton OD,1193036.45,10419,Novartis,North,IQVIA
+2024-10,NEUROTON OD,805266.53,7768,AbbVie,East,Distributor Panel
+2024-10,NEUROTON OD,546451.3,5317,AstraZeneca,West,Local Market Audit
+2024-10,Neuroton OD,1412424.35,19781,Pfizer,Gulf,Third Party Estimate
+2024-11,Cardiostat,1185516.32,11568,Local Generic,Central,Distributor Panel
+2024-11,Cardiostat,1195535.95,9480,AbbVie,West,Distributor Panel
+2024-11,Cardiostat ,312495.99,3987,AstraZeneca,South,IQVIA
+2024-11,Cardiostat XR ,904033.54,7919,Local Generic,Gulf,Third Party Estimate
+2024-11,CARDIOSTAT XR,731053.75,7181,Novartis,West,Distributor Panel
+2024-11,CardiostatXR,1336527.39,14083,Pfizer,Central,Third Party Estimate
+2024-11,CardiostatXR,490808.43,4644,AbbVie,South,Local Market Audit
+2024-11,GlucoFree,447235.66,9125,AstraZeneca,Gulf,Distributor Panel
+2024-11,GlucoFree,1126025.19,12648,Pfizer,Central,Local Market Audit
+2024-11,GlucoFree ,839306.41,7929,Pfizer,South,Distributor Panel
+2024-11,GLUCOFREE,1296896.4,9889,Pfizer,North,IQVIA
+2024-11,GlucoFree,2182992.9,15653,AstraZeneca,East,Distributor Panel
+2024-11,GlucoFree,1189660.89,13765,Local Generic,West,Third Party Estimate
+2024-11,GLUCOFREE XR,1683618.78,16793,Sanofi,East,Third Party Estimate
+2024-11,GlucoFreeXR,834008.65,13782,Sanofi,Central,Third Party Estimate
+2024-11,GlucoFreeXR,1329274.18,16865,Sanofi,North,IQVIA
+2024-11,Bronchion,1683538.49,22255,Local Generic,Gulf,Distributor Panel
+2024-11,Bronchion,1524415.98,13809,AstraZeneca,South,Distributor Panel
+2024-11,Bronchion,1370084.84,23618,Sanofi,North,Third Party Estimate
+2024-11,Bronchion,2055207.43,15626,Novartis,East,Local Market Audit
+2024-11,BRONCHION COLD,1136614.65,20270,Pfizer,South,Third Party Estimate
+2024-11,Bronchion Cold ,1109117.88,13961,AstraZeneca,Central,Distributor Panel
+2024-11,Bronchion Cold,536413.97,11238,Novartis,North,Local Market Audit
+2024-11,BRONCHION COLD,1380384.85,20750,Novartis,Gulf,Local Market Audit
+2024-11,Immunex,847162.14,7244,Novartis,West,IQVIA
+2024-11,Immunex,719577.96,7673,AbbVie,North,IQVIA
+2024-11,Immunex,778473.98,10569,Pfizer,Central,IQVIA
+2024-11,ImmunexJunior,740761.08,12592,AstraZeneca,Central,Distributor Panel
+2024-11,IMMUNEX JUNIOR,1229200.38,13280,AstraZeneca,South,IQVIA
+2024-11,IMMUNEX JUNIOR,1126668.46,9588,Local Generic,Gulf,Local Market Audit
+2024-11,Immunex Junior,1371938.66,11763,Local Generic,East,IQVIA
+2024-11,GastroEase,1361439.89,12492,Novartis,Central,Distributor Panel
+2024-11,GastroEase ,957496.93,10202,Pfizer,West,Distributor Panel
+2024-11,GastroEase ,575965.26,6103,Sanofi,East,Distributor Panel
+2024-11,GastroEase ,764529.02,14476,Pfizer,Gulf,Third Party Estimate
+2024-11,GastroEase DSR ,583534.31,8037,Novartis,West,IQVIA
+2024-11,GastroEaseDSR,2698348.15,20105,Novartis,Central,IQVIA
+2024-11,GastroEase DSR ,845601.67,15377,AstraZeneca,East,IQVIA
+2024-11,GastroEase DSR,445031.77,5358,Local Generic,Gulf,Local Market Audit
+2024-11,GASTROEASE DSR,316050.81,4945,AstraZeneca,South,Third Party Estimate
+2024-11,AllerSafe,1127033.59,9570,Local Generic,South,Third Party Estimate
+2024-11,AllerSafe ,1022597.96,9996,AbbVie,West,Distributor Panel
+2024-11,AllerSafe,396515.49,7175,AbbVie,Central,Third Party Estimate
+2024-11,AllerSafe Plus,719302.65,13972,Novartis,Gulf,Third Party Estimate
+2024-11,AllerSafe Plus,900028.97,15124,Pfizer,South,Third Party Estimate
+2024-11,AllerSafe Plus ,1254410.71,17210,AbbVie,North,Distributor Panel
+2024-11,AllerSafe Plus,1583740.88,12503,Pfizer,West,Third Party Estimate
+2024-11,Neuroton OD,1564446.59,17644,Novartis,West,Distributor Panel
+2024-11,NeurotonOD,1213717.05,14127,Local Generic,Gulf,Third Party Estimate
+2024-11,Neuroton OD ,1326459.41,13393,Local Generic,East,Third Party Estimate
+2024-12,Cardiostat,1686758.9,16280,Sanofi,Central,Distributor Panel
+2024-12,Cardiostat,212128.03,4304,Sanofi,South,IQVIA
+2024-12,Cardiostat,1487535.77,19214,AbbVie,North,Distributor Panel
+2024-12,CARDIOSTAT,493403.16,9797,Novartis,Gulf,Local Market Audit
+2024-12,Cardiostat,744140.04,14022,Sanofi,East,IQVIA
+2024-12,Cardiostat,833328.56,8667,AbbVie,West,Third Party Estimate
+2024-12,Cardiostat XR,808711.91,10693,AbbVie,East,IQVIA
+2024-12,CardiostatXR,1279897.36,16640,Novartis,North,Distributor Panel
+2024-12,Cardiostat XR,759417.27,11835,AstraZeneca,West,Local Market Audit
+2024-12,Cardiostat XR ,601271.7,8209,Novartis,Gulf,IQVIA
+2024-12,CardiostatXR,974694.47,18050,Sanofi,Central,IQVIA
+2024-12,CARDIOSTAT XR,1353249.08,15011,Sanofi,South,IQVIA
+2024-12,GlucoFree ,498688.79,7241,Local Generic,Central,Local Market Audit
+2024-12,GLUCOFREE,432966.1,4604,AstraZeneca,East,Third Party Estimate
+2024-12,GlucoFree ,998127.39,8097,Sanofi,West,Third Party Estimate
+2024-12,GLUCOFREE,743046.5,14659,Sanofi,Gulf,Third Party Estimate
+2024-12,GlucoFree,695119.37,5997,AbbVie,South,Third Party Estimate
+2024-12,GLUCOFREE XR,1457080.07,13216,AbbVie,North,Local Market Audit
+2024-12,GlucoFreeXR,251877.47,5288,AbbVie,South,Third Party Estimate
+2024-12,GlucoFree XR,1341557.59,15766,Novartis,West,Local Market Audit
+2024-12,GlucoFreeXR,528701.62,7602,Local Generic,Central,Local Market Audit
+2024-12,GlucoFree XR ,2282596.3,16715,Pfizer,East,IQVIA
+2024-12,Bronchion,737094.38,8810,Local Generic,East,IQVIA
+2024-12,BRONCHION,2115584.26,18590,Novartis,Central,IQVIA
+2024-12,Bronchion,2963220.14,22175,AbbVie,Gulf,IQVIA
+2024-12,BRONCHION COLD,2288736.07,27896,AbbVie,Central,Local Market Audit
+2024-12,BronchionCold,553367.18,8469,AbbVie,North,Third Party Estimate
+2024-12,BronchionCold,709965.52,14111,Local Generic,East,IQVIA
+2024-12,BRONCHION COLD,1292374.0,14342,Sanofi,South,Local Market Audit
+2024-12,Immunex,3576325.91,29581,Local Generic,West,Local Market Audit
+2024-12,Immunex,948053.95,12746,Local Generic,East,IQVIA
+2024-12,Immunex ,2792727.12,22081,Pfizer,Central,Third Party Estimate
+2024-12,IMMUNEX,1571240.87,11730,Sanofi,North,Local Market Audit
+2024-12,Immunex ,1221109.99,11632,Pfizer,Gulf,Distributor Panel
+2024-12,Immunex Junior,2194176.07,25776,Novartis,West,Distributor Panel
+2024-12,ImmunexJunior,1368561.41,16104,AbbVie,Gulf,IQVIA
+2024-12,Immunex Junior ,2274456.31,21467,Local Generic,Central,Local Market Audit
+2024-12,GASTROEASE,533686.13,9611,AstraZeneca,West,Local Market Audit
+2024-12,GastroEase,1588146.53,18911,AbbVie,South,Third Party Estimate
+2024-12,GastroEase,884581.54,14388,Sanofi,East,Local Market Audit
+2024-12,GASTROEASE DSR,1628342.32,12084,Pfizer,West,IQVIA
+2024-12,GastroEase DSR,1479616.47,14155,AbbVie,East,Local Market Audit
+2024-12,GastroEase DSR ,554168.89,9080,AstraZeneca,South,Third Party Estimate
+2024-12,AllerSafe ,402344.77,4660,Local Generic,South,Third Party Estimate
+2024-12,AllerSafe,354672.23,5516,Sanofi,North,Third Party Estimate
+2024-12,ALLERSAFE,1160796.6,9187,Sanofi,East,Local Market Audit
+2024-12,AllerSafe,1192014.79,9910,Sanofi,Central,Distributor Panel
+2024-12,AllerSafe,1099161.62,8378,AstraZeneca,West,Third Party Estimate
+2024-12,ALLERSAFE PLUS,916321.18,11071,Local Generic,North,Third Party Estimate
+2024-12,AllerSafe Plus,1584806.24,15578,Pfizer,West,IQVIA
+2024-12,AllerSafePlus,315683.6,4690,AstraZeneca,South,IQVIA
+2024-12,NEUROTON OD,1161227.37,10676,AstraZeneca,East,IQVIA
+2024-12,Neuroton OD ,753884.26,12331,Sanofi,Central,Third Party Estimate
+2024-12,Neuroton OD ,610735.34,5430,Novartis,West,Distributor Panel
+2025-01,Cardiostat,1748617.9,14067,AbbVie,East,Distributor Panel
+2025-01,Cardiostat,1038300.17,8848,AstraZeneca,North,Distributor Panel
+2025-01,Cardiostat ,970796.72,12948,Novartis,South,Third Party Estimate
+2025-01,CARDIOSTAT XR,636502.61,7098,Local Generic,South,Third Party Estimate
+2025-01,Cardiostat XR ,1291313.54,9930,Pfizer,Gulf,Third Party Estimate
+2025-01,Cardiostat XR ,1156769.48,11770,AbbVie,North,IQVIA
+2025-01,GlucoFree,481988.36,7903,AstraZeneca,North,Local Market Audit
+2025-01,GLUCOFREE,738163.79,16262,AbbVie,East,IQVIA
+2025-01,GlucoFree,982445.11,8988,Pfizer,Gulf,Distributor Panel
+2025-01,GlucoFree,1023980.48,18095,AstraZeneca,West,IQVIA
+2025-01,GlucoFree XR,863822.31,12238,Sanofi,South,IQVIA
+2025-01,GLUCOFREE XR,1386703.86,15750,Novartis,North,IQVIA
+2025-01,GlucoFree XR,1394492.37,18421,Local Generic,Central,IQVIA
+2025-01,GlucoFree XR ,1245938.54,15338,Sanofi,Gulf,Local Market Audit
+2025-01,GlucoFree XR,1198704.28,9422,Pfizer,East,Local Market Audit
+2025-01,Bronchion,1729700.64,29001,AbbVie,West,Third Party Estimate
+2025-01,BRONCHION,2030365.03,27268,Sanofi,Gulf,IQVIA
+2025-01,Bronchion ,1656131.46,25882,AbbVie,East,Third Party Estimate
+2025-01,Bronchion ,1123593.4,13189,Sanofi,Central,Local Market Audit
+2025-01,BRONCHION COLD,2314592.85,21005,AbbVie,Gulf,IQVIA
+2025-01,Bronchion Cold ,699860.95,13325,Sanofi,West,Local Market Audit
+2025-01,BRONCHION COLD,732226.05,9957,AstraZeneca,North,Third Party Estimate
+2025-01,Bronchion Cold,1354158.8,13911,AstraZeneca,Central,IQVIA
+2025-01,BronchionCold,999905.67,18525,Sanofi,South,Distributor Panel
+2025-01,Bronchion Cold,1662907.07,17914,Local Generic,East,Third Party Estimate
+2025-01,Immunex ,1375693.27,18774,Local Generic,South,Third Party Estimate
+2025-01,IMMUNEX,1870708.1,24161,Novartis,West,Local Market Audit
+2025-01,Immunex,901397.74,8804,AbbVie,North,IQVIA
+2025-01,Immunex ,280822.1,6070,AbbVie,Central,Third Party Estimate
+2025-01,Immunex Junior,337474.49,7286,Pfizer,East,Local Market Audit
+2025-01,IMMUNEX JUNIOR,655388.26,6147,AbbVie,Central,Local Market Audit
+2025-01,Immunex Junior ,690125.12,7752,AbbVie,Gulf,IQVIA
+2025-01,Immunex Junior ,478636.47,8047,AbbVie,West,Third Party Estimate
+2025-01,IMMUNEX JUNIOR,750349.26,7459,Sanofi,South,Third Party Estimate
+2025-01,Immunex Junior ,383818.77,7010,AbbVie,North,Third Party Estimate
+2025-01,GastroEase ,816534.13,8578,AstraZeneca,North,Distributor Panel
+2025-01,GastroEase ,1479207.06,11394,AbbVie,West,IQVIA
+2025-01,GastroEase ,1375372.2,12928,Local Generic,Central,Third Party Estimate
+2025-01,GastroEase ,448436.14,3934,Sanofi,South,Third Party Estimate
+2025-01,GastroEase,808334.69,8017,AstraZeneca,East,Third Party Estimate
+2025-01,GASTROEASE DSR,1961600.83,16263,AstraZeneca,East,Local Market Audit
+2025-01,GastroEase DSR ,500926.75,9418,Novartis,West,Local Market Audit
+2025-01,GastroEase DSR ,603306.51,6575,AbbVie,Central,Distributor Panel
+2025-01,GastroEase DSR,358308.94,7243,Sanofi,Gulf,Distributor Panel
+2025-01,ALLERSAFE,1290180.52,15018,Pfizer,Gulf,Local Market Audit
+2025-01,AllerSafe,870126.17,11252,Pfizer,South,Distributor Panel
+2025-01,AllerSafe,952072.1,7438,Local Generic,Central,IQVIA
+2025-01,AllerSafe,1722154.07,12621,Pfizer,East,IQVIA
+2025-01,ALLERSAFE,1706662.53,18313,Local Generic,North,IQVIA
+2025-01,AllerSafe Plus,1158310.24,12543,Novartis,East,Distributor Panel
+2025-01,ALLERSAFE PLUS,610934.0,10778,AbbVie,South,Third Party Estimate
+2025-01,AllerSafe Plus ,1269107.39,18580,Sanofi,Gulf,Distributor Panel
+2025-01,AllerSafe Plus ,784791.94,11168,Sanofi,West,Local Market Audit
+2025-01,Neuroton OD ,2265715.42,17137,AstraZeneca,Central,Distributor Panel
+2025-01,Neuroton OD,532685.24,4508,Pfizer,West,Distributor Panel
+2025-01,Neuroton OD ,1073664.89,9070,Pfizer,South,Third Party Estimate
+2025-01,NEUROTON OD,1881488.35,14185,AstraZeneca,North,IQVIA
+2025-02,CARDIOSTAT,588237.63,8218,Local Generic,West,Third Party Estimate
+2025-02,Cardiostat ,1572790.78,12162,Local Generic,Gulf,Distributor Panel
+2025-02,CARDIOSTAT,1621674.28,19438,Sanofi,East,IQVIA
+2025-02,CARDIOSTAT,392196.07,4780,AstraZeneca,Central,Distributor Panel
+2025-02,Cardiostat,644820.7,6619,Local Generic,South,Local Market Audit
+2025-02,Cardiostat XR ,670558.82,9077,AstraZeneca,North,IQVIA
+2025-02,CardiostatXR,1120270.72,13928,Pfizer,Central,IQVIA
+2025-02,CardiostatXR,1004618.11,17671,AstraZeneca,East,IQVIA
+2025-02,GLUCOFREE,1895326.97,16786,Local Generic,East,Third Party Estimate
+2025-02,GLUCOFREE,762637.26,13867,Sanofi,South,Third Party Estimate
+2025-02,GlucoFree ,431561.24,5051,Pfizer,Central,IQVIA
+2025-02,GLUCOFREE,287410.99,5011,AbbVie,West,IQVIA
+2025-02,GlucoFree ,909466.48,10923,Sanofi,Gulf,Third Party Estimate
+2025-02,GlucoFree ,1250029.38,14400,Local Generic,North,Third Party Estimate
+2025-02,GlucoFree XR,2165385.37,15810,Local Generic,South,Local Market Audit
+2025-02,GlucoFreeXR,1349275.62,11640,Pfizer,Central,Third Party Estimate
+2025-02,GlucoFree XR,514564.75,5181,AstraZeneca,Gulf,Local Market Audit
+2025-02,GlucoFreeXR,808443.54,5810,Sanofi,West,Third Party Estimate
+2025-02,Bronchion,627070.14,8475,Novartis,South,Local Market Audit
+2025-02,Bronchion,1309616.3,28975,Pfizer,Gulf,IQVIA
+2025-02,Bronchion ,1232423.0,16560,Sanofi,West,Third Party Estimate
+2025-02,BronchionCold,2871569.88,22557,Pfizer,Gulf,Third Party Estimate
+2025-02,Bronchion Cold,1193196.53,14452,Local Generic,Central,Third Party Estimate
+2025-02,BRONCHION COLD,1218289.85,22810,Local Generic,South,IQVIA
+2025-02,BronchionCold,2540052.33,21471,AstraZeneca,North,IQVIA
+2025-02,Bronchion Cold,1444188.48,22822,AstraZeneca,West,Local Market Audit
+2025-02,Bronchion Cold,3235392.15,24849,Local Generic,East,Local Market Audit
+2025-02,Immunex ,3743766.79,28948,Pfizer,East,Distributor Panel
+2025-02,Immunex,1537181.82,16765,Sanofi,South,Third Party Estimate
+2025-02,Immunex,1315432.63,10385,AbbVie,Central,Distributor Panel
+2025-02,Immunex Junior,811657.3,11716,Novartis,North,Distributor Panel
+2025-02,ImmunexJunior,880789.18,17408,Novartis,Gulf,IQVIA
+2025-02,ImmunexJunior,1680348.75,20481,Novartis,South,Third Party Estimate
+2025-02,GastroEase ,888135.11,8822,AstraZeneca,East,Third Party Estimate
+2025-02,GastroEase ,418044.34,5556,Pfizer,West,Third Party Estimate
+2025-02,GastroEase,298391.72,4440,Sanofi,North,IQVIA
+2025-02,GASTROEASE,959403.59,8975,Sanofi,Central,Third Party Estimate
+2025-02,GASTROEASE,1047895.79,9942,Novartis,Gulf,Distributor Panel
+2025-02,GastroEaseDSR,1204536.77,9857,Local Generic,South,Local Market Audit
+2025-02,GastroEaseDSR,462808.91,3491,AstraZeneca,Central,Distributor Panel
+2025-02,GASTROEASE DSR,2702848.81,19316,AstraZeneca,West,Distributor Panel
+2025-02,GastroEase DSR,411771.21,4301,Sanofi,East,IQVIA
+2025-02,AllerSafe,1077848.32,7928,Local Generic,Gulf,Distributor Panel
+2025-02,AllerSafe ,1580053.42,13562,Sanofi,North,Local Market Audit
+2025-02,AllerSafe ,1373351.62,17731,AstraZeneca,South,Distributor Panel
+2025-02,AllerSafe,287538.76,4983,AstraZeneca,East,Third Party Estimate
+2025-02,AllerSafe ,516546.42,4743,AstraZeneca,West,Third Party Estimate
+2025-02,AllerSafe,858368.26,16285,AstraZeneca,Central,IQVIA
+2025-02,AllerSafe Plus,964075.45,7894,Pfizer,Gulf,Third Party Estimate
+2025-02,ALLERSAFE PLUS,1034431.18,11858,Local Generic,North,IQVIA
+2025-02,AllerSafePlus,2064464.6,15577,Novartis,East,IQVIA
+2025-02,ALLERSAFE PLUS,1365114.86,18497,Novartis,South,Third Party Estimate
+2025-02,ALLERSAFE PLUS,788087.61,8583,Pfizer,West,Local Market Audit
+2025-02,AllerSafePlus,1040484.86,18734,AstraZeneca,Central,Third Party Estimate
+2025-02,NeurotonOD,624494.52,12202,AstraZeneca,Central,Local Market Audit
+2025-02,Neuroton OD,987110.54,13891,Local Generic,South,Distributor Panel
+2025-02,Neuroton OD ,1396661.14,15849,Local Generic,Gulf,IQVIA
+2025-02,Neuroton OD ,1825238.11,21201,Sanofi,North,IQVIA
+2025-03,Cardiostat,957605.77,10019,Pfizer,West,Third Party Estimate
+2025-03,Cardiostat,893963.62,6951,Local Generic,East,Local Market Audit
+2025-03,CARDIOSTAT,795188.99,15271,Novartis,North,Local Market Audit
+2025-03,Cardiostat,940852.27,9006,Pfizer,Central,Third Party Estimate
+2025-03,Cardiostat,1270992.23,12548,Sanofi,Gulf,Local Market Audit
+2025-03,Cardiostat,796921.09,5856,Sanofi,South,Local Market Audit
+2025-03,Cardiostat XR,1275622.84,14593,Pfizer,Central,IQVIA
+2025-03,Cardiostat XR,578346.71,4464,Novartis,Gulf,IQVIA
+2025-03,Cardiostat XR ,1268518.37,17226,Pfizer,West,IQVIA
+2025-03,GlucoFree ,953797.19,17629,Novartis,Central,IQVIA
+2025-03,GlucoFree,1355961.71,11249,Sanofi,North,IQVIA
+2025-03,GlucoFree,1189232.88,11793,Pfizer,East,IQVIA
+2025-03,GlucoFree XR ,1169460.63,14848,Local Generic,Central,Third Party Estimate
+2025-03,GlucoFree XR,795286.43,6588,Novartis,South,Distributor Panel
+2025-03,GlucoFreeXR,1853347.58,13610,Sanofi,Gulf,Local Market Audit
+2025-03,BRONCHION,1124975.99,11945,Pfizer,West,Local Market Audit
+2025-03,Bronchion,1373086.91,13990,AbbVie,East,Distributor Panel
+2025-03,BRONCHION,908322.06,8581,Pfizer,Central,Distributor Panel
+2025-03,Bronchion ,854288.71,7696,AstraZeneca,South,Distributor Panel
+2025-03,Bronchion Cold,692005.31,5768,AbbVie,Central,Local Market Audit
+2025-03,Bronchion Cold ,483110.24,4358,AstraZeneca,East,Local Market Audit
+2025-03,BronchionCold,951024.38,8060,Local Generic,West,Third Party Estimate
+2025-03,Bronchion Cold,900154.7,7290,Sanofi,South,IQVIA
+2025-03,BRONCHION COLD,496196.47,5079,Sanofi,North,Third Party Estimate
+2025-03,IMMUNEX,296957.03,4125,Sanofi,Gulf,Local Market Audit
+2025-03,IMMUNEX,749913.29,10969,Pfizer,Central,Local Market Audit
+2025-03,IMMUNEX,915806.58,16769,AbbVie,East,IQVIA
+2025-03,IMMUNEX,831482.3,11239,Sanofi,North,Distributor Panel
+2025-03,IMMUNEX JUNIOR,582441.31,4520,Novartis,Central,Local Market Audit
+2025-03,Immunex Junior ,1006928.17,12500,Local Generic,Gulf,Local Market Audit
+2025-03,ImmunexJunior,535428.13,5312,Novartis,West,Distributor Panel
+2025-03,IMMUNEX JUNIOR,842996.68,6991,AstraZeneca,East,Third Party Estimate
+2025-03,GastroEase,1146135.5,12282,AbbVie,Gulf,Third Party Estimate
+2025-03,GastroEase ,537299.81,6673,Local Generic,North,Third Party Estimate
+2025-03,GastroEase,922463.81,11102,Novartis,West,Local Market Audit
+2025-03,GASTROEASE,496763.37,7385,Sanofi,East,Third Party Estimate
+2025-03,GastroEaseDSR,1251372.96,14346,Novartis,Central,IQVIA
+2025-03,GastroEase DSR ,920542.03,11962,AbbVie,South,Third Party Estimate
+2025-03,GastroEaseDSR,966123.47,10471,AbbVie,East,IQVIA
+2025-03,GastroEase DSR,489744.22,6973,Sanofi,Gulf,IQVIA
+2025-03,GastroEase DSR,946804.1,10103,Sanofi,North,Local Market Audit
+2025-03,GASTROEASE DSR,396350.19,5003,Sanofi,West,Local Market Audit
+2025-03,AllerSafe,1735846.93,17970,Pfizer,East,Distributor Panel
+2025-03,AllerSafe ,1170569.99,9804,AbbVie,Gulf,IQVIA
+2025-03,ALLERSAFE,1759361.61,12659,AbbVie,Central,Local Market Audit
+2025-03,ALLERSAFE,552818.28,8513,AstraZeneca,North,Third Party Estimate
+2025-03,AllerSafe,1390593.8,17975,Sanofi,West,Local Market Audit
+2025-03,AllerSafePlus,1166265.13,9111,Local Generic,Gulf,IQVIA
+2025-03,AllerSafePlus,1716753.97,13816,Novartis,West,Third Party Estimate
+2025-03,AllerSafePlus,996590.86,11961,Sanofi,South,IQVIA
+2025-03,ALLERSAFE PLUS,1983618.72,14959,Sanofi,Central,Third Party Estimate
+2025-03,AllerSafe Plus ,775286.72,9442,Novartis,East,Third Party Estimate
+2025-03,AllerSafePlus,760614.26,5577,Pfizer,North,Local Market Audit
+2025-03,Neuroton OD,527457.39,5155,Novartis,Gulf,Local Market Audit
+2025-03,NEUROTON OD,490449.6,6006,Novartis,Central,Distributor Panel
+2025-03,NeurotonOD,1349530.05,15302,AstraZeneca,South,IQVIA
+2025-04,Cardiostat,441035.12,5204,AbbVie,East,Local Market Audit
+2025-04,Cardiostat ,526570.54,7075,Novartis,West,Distributor Panel
+2025-04,Cardiostat ,1419208.38,12549,Sanofi,Central,Local Market Audit
+2025-04,Cardiostat ,430783.07,4932,AstraZeneca,North,Local Market Audit
+2025-04,Cardiostat XR ,1508623.17,14179,Sanofi,Central,Distributor Panel
+2025-04,CARDIOSTAT XR,1350946.07,11078,AbbVie,West,Local Market Audit
+2025-04,Cardiostat XR ,927240.67,8087,AbbVie,Gulf,Local Market Audit
+2025-04,Cardiostat XR,1334675.48,16200,Novartis,South,Local Market Audit
+2025-04,Cardiostat XR,944804.46,9833,Local Generic,North,Local Market Audit
+2025-04,GlucoFree ,1041869.69,13714,Novartis,West,Distributor Panel
+2025-04,GlucoFree,675418.21,7597,Local Generic,Central,Third Party Estimate
+2025-04,GLUCOFREE,824315.56,9939,AbbVie,North,IQVIA
+2025-04,GLUCOFREE,439794.51,3914,Sanofi,South,Third Party Estimate
+2025-04,GLUCOFREE,638279.97,12079,Local Generic,Gulf,Third Party Estimate
+2025-04,GLUCOFREE,457003.08,6390,Novartis,East,IQVIA
+2025-04,GlucoFree XR,863559.47,14156,Local Generic,South,Distributor Panel
+2025-04,GlucoFree XR,404916.17,6541,Local Generic,East,Local Market Audit
+2025-04,GlucoFree XR,1530578.18,12297,AbbVie,North,Distributor Panel
+2025-04,Bronchion,537095.64,7938,Pfizer,North,Third Party Estimate
+2025-04,BRONCHION,410626.04,5331,Local Generic,Central,IQVIA
+2025-04,BRONCHION,488950.17,9025,Local Generic,Gulf,Local Market Audit
+2025-04,Bronchion,259525.6,4699,Sanofi,West,Local Market Audit
+2025-04,Bronchion ,1266542.8,13130,Pfizer,South,Local Market Audit
+2025-04,Bronchion,503840.51,6654,AbbVie,East,Distributor Panel
+2025-04,BronchionCold,812955.55,6640,Pfizer,West,IQVIA
+2025-04,Bronchion Cold ,888267.16,7533,Pfizer,South,Local Market Audit
+2025-04,Bronchion Cold ,982648.39,9635,Local Generic,Gulf,Local Market Audit
+2025-04,Immunex ,458537.41,4559,AstraZeneca,South,Local Market Audit
+2025-04,IMMUNEX,1795788.74,12929,Pfizer,East,IQVIA
+2025-04,IMMUNEX,724226.67,8450,AstraZeneca,West,IQVIA
+2025-04,IMMUNEX,413211.34,4473,Novartis,North,Third Party Estimate
+2025-04,Immunex ,533896.54,7896,Local Generic,Gulf,Distributor Panel
+2025-04,ImmunexJunior,2156117.72,20233,Pfizer,East,Local Market Audit
+2025-04,IMMUNEX JUNIOR,1534043.41,19779,AstraZeneca,Gulf,IQVIA
+2025-04,IMMUNEX JUNIOR,2157829.8,17813,AstraZeneca,North,Third Party Estimate
+2025-04,Immunex Junior,1050644.19,12073,Pfizer,Central,Third Party Estimate
+2025-04,GASTROEASE,403803.77,6566,Novartis,South,IQVIA
+2025-04,GASTROEASE,904167.64,12122,Novartis,North,Third Party Estimate
+2025-04,GastroEase ,539954.85,7317,Local Generic,Gulf,Local Market Audit
+2025-04,GastroEase DSR ,583064.77,6847,Novartis,West,Third Party Estimate
+2025-04,GastroEase DSR,413290.04,4828,Sanofi,North,Local Market Audit
+2025-04,GastroEase DSR ,1001294.49,14419,Sanofi,East,Third Party Estimate
+2025-04,GastroEase DSR,869608.88,8478,Sanofi,South,Local Market Audit
+2025-04,GASTROEASE DSR,951300.75,15935,Pfizer,Gulf,IQVIA
+2025-04,AllerSafe,1558418.93,14716,AbbVie,West,IQVIA
+2025-04,ALLERSAFE,821950.7,8325,AbbVie,Gulf,Distributor Panel
+2025-04,AllerSafe ,3094712.76,27239,Local Generic,Central,Distributor Panel
+2025-04,AllerSafe ,1532001.64,18773,Local Generic,South,Local Market Audit
+2025-04,AllerSafe,1504190.92,11349,Local Generic,East,IQVIA
+2025-04,ALLERSAFE PLUS,861683.49,8431,Pfizer,East,IQVIA
+2025-04,AllerSafe Plus ,2313201.36,20543,AbbVie,Central,IQVIA
+2025-04,ALLERSAFE PLUS,2620828.77,20440,AbbVie,West,Distributor Panel
+2025-04,AllerSafe Plus ,2809665.15,20519,AstraZeneca,Gulf,Distributor Panel
+2025-04,Neuroton OD ,1246704.13,9349,Local Generic,Gulf,Distributor Panel
+2025-04,Neuroton OD,601387.15,4907,Pfizer,North,IQVIA
+2025-04,NeurotonOD,1730359.26,18239,Local Generic,Central,Third Party Estimate
+2025-04,NEUROTON OD,388476.08,6195,Novartis,East,Third Party Estimate
+2025-04,NEUROTON OD,397239.53,7161,Novartis,South,Local Market Audit
+2025-04,NEUROTON OD,673220.76,5524,Sanofi,West,Third Party Estimate
+2025-05,Cardiostat,440262.59,7745,Sanofi,Gulf,IQVIA
+2025-05,Cardiostat,1154336.37,12672,Pfizer,Central,IQVIA
+2025-05,Cardiostat,425067.5,9304,Pfizer,North,Local Market Audit
+2025-05,Cardiostat,1141980.82,14153,AbbVie,East,Third Party Estimate
+2025-05,Cardiostat,1362044.74,15875,Local Generic,West,Distributor Panel
+2025-05,Cardiostat ,1398908.7,10409,AbbVie,South,IQVIA
+2025-05,Cardiostat XR,2410815.1,18143,AstraZeneca,East,IQVIA
+2025-05,CARDIOSTAT XR,1340504.57,12030,Sanofi,North,Third Party Estimate
+2025-05,Cardiostat XR ,1966233.22,15405,Local Generic,Central,Local Market Audit
+2025-05,CardiostatXR,658216.14,4841,Pfizer,South,Distributor Panel
+2025-05,Cardiostat XR ,648967.84,5648,Novartis,Gulf,Third Party Estimate
+2025-05,GlucoFree ,2227295.44,17003,Sanofi,Gulf,Local Market Audit
+2025-05,GlucoFree,1331018.5,14099,Novartis,Central,Third Party Estimate
+2025-05,GlucoFree ,1863089.79,15016,Novartis,North,Third Party Estimate
+2025-05,GLUCOFREE,578662.52,6005,Novartis,South,Local Market Audit
+2025-05,GlucoFree,2150668.24,19290,AbbVie,East,IQVIA
+2025-05,GlucoFree ,591796.83,7785,Sanofi,West,Local Market Audit
+2025-05,GlucoFreeXR,1254215.75,13672,Novartis,Gulf,IQVIA
+2025-05,GlucoFree XR ,1855772.32,14116,Local Generic,West,Third Party Estimate
+2025-05,GlucoFreeXR,1118417.32,16066,Pfizer,North,IQVIA
+2025-05,GLUCOFREE XR,535761.61,5291,Local Generic,East,IQVIA
+2025-05,GlucoFree XR ,1651469.57,13100,AstraZeneca,Central,IQVIA
+2025-05,BRONCHION,1249185.13,10344,AstraZeneca,North,Local Market Audit
+2025-05,Bronchion ,545966.73,5679,Sanofi,Central,Local Market Audit
+2025-05,Bronchion ,2552605.83,20497,Local Generic,South,Third Party Estimate
+2025-05,Bronchion,400409.04,6803,AstraZeneca,West,Distributor Panel
+2025-05,Bronchion,1026215.6,9294,Local Generic,East,Third Party Estimate
+2025-05,BRONCHION COLD,2064568.12,16697,Local Generic,West,Local Market Audit
+2025-05,BRONCHION COLD,2274212.54,17138,AbbVie,East,Third Party Estimate
+2025-05,BRONCHION COLD,1144201.56,10631,Pfizer,Gulf,Third Party Estimate
+2025-05,BronchionCold,855392.84,9507,AbbVie,North,Third Party Estimate
+2025-05,Immunex ,2017266.23,18075,Pfizer,Central,Local Market Audit
+2025-05,Immunex,1036512.39,10351,Local Generic,East,Distributor Panel
+2025-05,Immunex ,1238390.58,12405,Local Generic,Gulf,Third Party Estimate
+2025-05,Immunex Junior,1373579.83,17297,Local Generic,South,Local Market Audit
+2025-05,IMMUNEX JUNIOR,1029131.58,12026,Pfizer,Gulf,IQVIA
+2025-05,Immunex Junior,726224.01,11701,Pfizer,Central,Distributor Panel
+2025-05,Immunex Junior ,812640.03,13747,Novartis,East,IQVIA
+2025-05,IMMUNEX JUNIOR,507835.1,5555,Local Generic,North,Third Party Estimate
+2025-05,GastroEase,1237424.45,15488,Pfizer,West,IQVIA
+2025-05,GASTROEASE,664887.0,6126,Pfizer,Gulf,Third Party Estimate
+2025-05,GASTROEASE,500472.29,9271,AbbVie,East,Third Party Estimate
+2025-05,GASTROEASE DSR,2209855.85,18332,AbbVie,East,IQVIA
+2025-05,GastroEase DSR ,1047590.9,10917,Pfizer,Central,IQVIA
+2025-05,GastroEase DSR,2488662.52,18200,Novartis,South,Local Market Audit
+2025-05,GastroEase DSR,516514.94,4267,Pfizer,North,Local Market Audit
+2025-05,GastroEaseDSR,746518.44,12377,Pfizer,West,IQVIA
+2025-05,GASTROEASE DSR,493693.4,6207,AbbVie,Gulf,IQVIA
+2025-05,AllerSafe,1792000.77,17952,AstraZeneca,East,Distributor Panel
+2025-05,AllerSafe,1314993.68,20251,Local Generic,North,IQVIA
+2025-05,ALLERSAFE,556699.31,9523,Novartis,Gulf,Local Market Audit
+2025-05,AllerSafe ,1070109.48,18706,Pfizer,West,Distributor Panel
+2025-05,ALLERSAFE PLUS,1668375.51,12421,AstraZeneca,West,Local Market Audit
+2025-05,ALLERSAFE PLUS,545401.29,7726,Local Generic,South,Distributor Panel
+2025-05,ALLERSAFE PLUS,2460195.08,20010,AbbVie,Gulf,Local Market Audit
+2025-05,AllerSafe Plus,1326793.13,15393,AstraZeneca,Central,Local Market Audit
+2025-05,AllerSafe Plus ,665371.99,6968,Pfizer,North,Distributor Panel
+2025-05,Neuroton OD,490517.07,7382,Pfizer,East,Third Party Estimate
+2025-05,Neuroton OD,412644.3,7506,Novartis,Gulf,Distributor Panel
+2025-05,NeurotonOD,1420568.21,15523,Local Generic,Central,Distributor Panel
+2025-06,Cardiostat ,1252052.98,16095,AbbVie,Central,Local Market Audit
+2025-06,CARDIOSTAT,659709.82,7034,Local Generic,North,Local Market Audit
+2025-06,Cardiostat,715150.27,6226,Local Generic,Gulf,Distributor Panel
+2025-06,Cardiostat ,1914485.66,17495,Local Generic,West,Third Party Estimate
+2025-06,Cardiostat ,552298.07,7024,AstraZeneca,South,Distributor Panel
+2025-06,Cardiostat XR,667683.33,8937,Local Generic,West,IQVIA
+2025-06,CARDIOSTAT XR,782969.31,5810,AstraZeneca,Central,IQVIA
+2025-06,Cardiostat XR ,583722.88,5978,Pfizer,South,Third Party Estimate
+2025-06,Cardiostat XR ,1775315.51,15515,AbbVie,Gulf,IQVIA
+2025-06,Cardiostat XR,573787.94,9098,Local Generic,North,Third Party Estimate
+2025-06,GLUCOFREE,945656.53,7343,Novartis,South,IQVIA
+2025-06,GlucoFree,1074197.9,11452,AbbVie,Central,Third Party Estimate
+2025-06,GlucoFree,1273609.55,9288,Local Generic,North,Local Market Audit
+2025-06,GlucoFree,2156970.87,18309,Sanofi,East,Distributor Panel
+2025-06,GlucoFree ,740553.6,11351,Novartis,Gulf,Distributor Panel
+2025-06,GlucoFreeXR,498337.4,4816,Sanofi,West,Distributor Panel
+2025-06,GLUCOFREE XR,635145.5,4902,AbbVie,Central,Distributor Panel
+2025-06,GlucoFree XR,336701.88,3670,AstraZeneca,Gulf,Local Market Audit
+2025-06,Bronchion ,849902.78,11574,Novartis,North,Distributor Panel
+2025-06,Bronchion ,742194.16,6914,Novartis,West,Local Market Audit
+2025-06,BRONCHION,495878.75,10886,Pfizer,Gulf,Local Market Audit
+2025-06,Bronchion,617706.73,7489,Pfizer,Central,Local Market Audit
+2025-06,Bronchion,1241750.95,13716,Pfizer,South,Third Party Estimate
+2025-06,BRONCHION,1515068.96,12523,Sanofi,East,Third Party Estimate
+2025-06,BRONCHION COLD,1164631.71,9878,Pfizer,South,Distributor Panel
+2025-06,Bronchion Cold ,1513561.65,13155,AbbVie,North,Distributor Panel
+2025-06,BRONCHION COLD,1031643.17,8796,AstraZeneca,Central,Local Market Audit
+2025-06,Bronchion Cold,1127287.55,16409,Sanofi,West,Local Market Audit
+2025-06,Bronchion Cold,1083073.7,16963,Local Generic,East,Local Market Audit
+2025-06,BRONCHION COLD,858879.29,8490,Novartis,Gulf,IQVIA
+2025-06,Immunex,661672.95,6389,Pfizer,West,Third Party Estimate
+2025-06,IMMUNEX,1230346.01,11033,Novartis,North,Distributor Panel
+2025-06,Immunex,1044065.61,11174,Sanofi,East,IQVIA
+2025-06,Immunex ,1106153.14,8219,Novartis,Central,Distributor Panel
+2025-06,ImmunexJunior,396441.09,5247,AbbVie,South,Distributor Panel
+2025-06,Immunex Junior ,771800.26,12337,Sanofi,North,Distributor Panel
+2025-06,IMMUNEX JUNIOR,867097.53,7988,Sanofi,Central,Distributor Panel
+2025-06,GastroEase,418089.5,7846,Novartis,Gulf,IQVIA
+2025-06,GASTROEASE,649068.02,4930,Novartis,Central,Third Party Estimate
+2025-06,GastroEase,476871.04,4920,Sanofi,East,Third Party Estimate
+2025-06,GastroEase,1720479.13,15162,Novartis,North,Local Market Audit
+2025-06,GastroEase,780551.99,11314,Sanofi,South,Third Party Estimate
+2025-06,GastroEase DSR,1520787.72,11225,Novartis,West,Distributor Panel
+2025-06,GastroEase DSR,1328590.44,18321,Local Generic,North,Local Market Audit
+2025-06,GastroEase DSR,1685390.91,18314,Novartis,Gulf,Third Party Estimate
+2025-06,AllerSafe,830401.37,8360,AstraZeneca,Central,Third Party Estimate
+2025-06,AllerSafe,1786722.08,18831,Novartis,West,Distributor Panel
+2025-06,ALLERSAFE,1161267.96,20621,Pfizer,Gulf,Local Market Audit
+2025-06,AllerSafe,627180.7,10617,Novartis,East,Distributor Panel
+2025-06,ALLERSAFE,2845182.51,20602,AstraZeneca,South,IQVIA
+2025-06,AllerSafe,637355.95,6064,Sanofi,North,IQVIA
+2025-06,AllerSafe Plus,1628203.24,15586,Sanofi,Gulf,Local Market Audit
+2025-06,AllerSafe Plus,1640767.62,26554,AstraZeneca,South,IQVIA
+2025-06,AllerSafePlus,2002615.92,24636,Local Generic,West,Local Market Audit
+2025-06,ALLERSAFE PLUS,1853583.56,24452,AstraZeneca,East,Third Party Estimate
+2025-06,AllerSafe Plus ,1054828.24,9226,Sanofi,Central,Local Market Audit
+2025-06,NEUROTON OD,1002101.83,7444,Local Generic,North,Distributor Panel
+2025-06,Neuroton OD ,537439.3,4163,Local Generic,West,Local Market Audit
+2025-06,Neuroton OD ,395386.81,4624,Local Generic,South,Third Party Estimate
+2025-06,Neuroton OD,361315.64,6225,AstraZeneca,Central,IQVIA
+2025-06,Neuroton OD,556252.79,10031,Local Generic,Gulf,IQVIA
+2025-06,NEUROTON OD,305790.55,5776,Local Generic,East,IQVIA
+2025-07,Cardiostat ,1266686.25,19724,AstraZeneca,North,Third Party Estimate
+2025-07,CARDIOSTAT,1204910.84,15747,Novartis,Central,IQVIA
+2025-07,Cardiostat,1474494.24,14095,Pfizer,East,IQVIA
+2025-07,Cardiostat XR,1213153.61,14365,Novartis,Central,IQVIA
+2025-07,CardiostatXR,454836.92,7709,Novartis,East,Third Party Estimate
+2025-07,Cardiostat XR,2177918.96,17683,AbbVie,North,Local Market Audit
+2025-07,GlucoFree,662644.6,8639,Pfizer,South,IQVIA
+2025-07,GlucoFree,1076039.37,12553,AstraZeneca,North,Local Market Audit
+2025-07,GlucoFree,1962365.13,15113,AstraZeneca,East,Distributor Panel
+2025-07,GlucoFree XR,1065401.61,9464,Pfizer,North,Local Market Audit
+2025-07,GlucoFree XR ,1363219.17,18074,AbbVie,East,Third Party Estimate
+2025-07,GlucoFreeXR,1513710.05,15153,Novartis,West,IQVIA
+2025-07,GlucoFree XR ,693339.55,11133,Sanofi,Central,Distributor Panel
+2025-07,GlucoFree XR ,1338926.25,12076,AstraZeneca,South,Distributor Panel
+2025-07,BRONCHION,1273972.0,13311,AbbVie,Gulf,IQVIA
+2025-07,BRONCHION,1413730.31,14872,Local Generic,South,IQVIA
+2025-07,Bronchion,493205.42,7669,Sanofi,West,Third Party Estimate
+2025-07,Bronchion,367486.57,7254,Sanofi,Central,Local Market Audit
+2025-07,Bronchion Cold,1891266.0,16309,Local Generic,West,Local Market Audit
+2025-07,Bronchion Cold ,1252342.46,11269,Sanofi,South,IQVIA
+2025-07,Bronchion Cold ,1377672.22,13742,AstraZeneca,Gulf,Local Market Audit
+2025-07,BRONCHION COLD,236606.52,4050,Pfizer,North,IQVIA
+2025-07,BRONCHION COLD,1285587.73,15202,AbbVie,East,Local Market Audit
+2025-07,Immunex,392012.99,7732,AstraZeneca,West,Local Market Audit
+2025-07,Immunex ,917080.7,11095,Local Generic,Gulf,Third Party Estimate
+2025-07,Immunex,999141.46,14373,Local Generic,East,Local Market Audit
+2025-07,Immunex,911216.73,12866,AstraZeneca,South,Third Party Estimate
+2025-07,Immunex,557684.75,6716,Novartis,North,Third Party Estimate
+2025-07,Immunex Junior ,1270488.12,11873,AbbVie,Gulf,Local Market Audit
+2025-07,IMMUNEX JUNIOR,589311.12,5537,Sanofi,Central,IQVIA
+2025-07,ImmunexJunior,512436.06,5009,Pfizer,North,Local Market Audit
+2025-07,IMMUNEX JUNIOR,430992.51,7820,AstraZeneca,East,IQVIA
+2025-07,GastroEase,1032545.79,7494,AstraZeneca,South,Third Party Estimate
+2025-07,GastroEase,221613.48,4115,Pfizer,Central,Distributor Panel
+2025-07,GASTROEASE,1282099.37,15480,Sanofi,Gulf,Third Party Estimate
+2025-07,GastroEase,887296.75,15484,Sanofi,East,Third Party Estimate
+2025-07,GASTROEASE,1536152.11,16570,Pfizer,North,Third Party Estimate
+2025-07,GASTROEASE DSR,330447.25,6135,Novartis,Central,Local Market Audit
+2025-07,GastroEaseDSR,2547767.32,18280,AbbVie,North,Local Market Audit
+2025-07,GastroEase DSR ,947760.87,9093,Pfizer,East,Third Party Estimate
+2025-07,GastroEase DSR,752627.44,7308,Novartis,Gulf,Third Party Estimate
+2025-07,GastroEaseDSR,370674.6,6331,AstraZeneca,West,IQVIA
+2025-07,GastroEaseDSR,803985.62,10748,Novartis,South,IQVIA
+2025-07,AllerSafe ,676341.75,7619,Sanofi,Central,Third Party Estimate
+2025-07,AllerSafe ,2309009.93,17195,Pfizer,East,Distributor Panel
+2025-07,ALLERSAFE,1088560.35,8611,AbbVie,Gulf,Distributor Panel
+2025-07,AllerSafe,1923579.54,14202,Pfizer,North,Third Party Estimate
+2025-07,AllerSafe,1589148.64,12381,AstraZeneca,West,IQVIA
+2025-07,AllerSafe Plus ,1286568.19,15942,Pfizer,Gulf,Local Market Audit
+2025-07,AllerSafePlus,1300117.41,11975,AbbVie,Central,Third Party Estimate
+2025-07,AllerSafe Plus,1849286.3,15067,Pfizer,North,Local Market Audit
+2025-07,AllerSafe Plus ,1932885.82,14196,AbbVie,West,Local Market Audit
+2025-07,Neuroton OD ,960976.98,17203,Pfizer,East,Local Market Audit
+2025-07,Neuroton OD,687982.37,10539,AstraZeneca,North,Third Party Estimate
+2025-07,Neuroton OD ,469227.48,5914,AbbVie,Gulf,Local Market Audit
+2025-07,Neuroton OD ,212968.53,4514,Sanofi,South,Distributor Panel
+2025-07,NeurotonOD,768289.88,13141,AbbVie,West,IQVIA
+2025-07,Neuroton OD ,902666.72,10271,AstraZeneca,Central,Local Market Audit
+2025-08,Cardiostat ,995438.92,15586,AbbVie,South,Third Party Estimate
+2025-08,Cardiostat ,839859.59,13936,Sanofi,North,Third Party Estimate
+2025-08,CARDIOSTAT,1781565.57,14922,Pfizer,Central,Local Market Audit
+2025-08,Cardiostat,1240954.93,10070,Pfizer,Gulf,Local Market Audit
+2025-08,Cardiostat,1252661.44,13550,Pfizer,East,Third Party Estimate
+2025-08,CARDIOSTAT XR,933552.4,17206,Local Generic,Central,Local Market Audit
+2025-08,Cardiostat XR ,1411415.83,11904,Novartis,North,Distributor Panel
+2025-08,Cardiostat XR,1208241.09,8799,Sanofi,West,Distributor Panel
+2025-08,Cardiostat XR,302208.99,4075,Local Generic,Gulf,Third Party Estimate
+2025-08,CardiostatXR,1480249.75,17552,Sanofi,South,Third Party Estimate
+2025-08,GlucoFree ,435076.13,7197,AbbVie,North,Distributor Panel
+2025-08,GlucoFree,2114371.6,19287,Local Generic,South,IQVIA
+2025-08,GlucoFree,337511.91,6152,AstraZeneca,West,Third Party Estimate
+2025-08,GlucoFree,679043.11,5833,Local Generic,Central,Third Party Estimate
+2025-08,GlucoFree,620542.95,12901,AbbVie,East,Local Market Audit
+2025-08,GlucoFreeXR,1120574.41,8282,AbbVie,West,Third Party Estimate
+2025-08,GlucoFree XR ,2242696.34,18761,Pfizer,Central,Distributor Panel
+2025-08,GlucoFreeXR,1123021.18,15610,Sanofi,Gulf,Third Party Estimate
+2025-08,GlucoFree XR ,1833383.38,14047,Pfizer,North,IQVIA
+2025-08,Bronchion ,857656.59,8632,Novartis,South,Third Party Estimate
+2025-08,Bronchion,628116.91,7626,AstraZeneca,East,Third Party Estimate
+2025-08,BRONCHION,591287.87,7203,AbbVie,Central,Distributor Panel
+2025-08,Bronchion Cold ,861342.2,15314,Local Generic,West,Distributor Panel
+2025-08,BRONCHION COLD,2498354.39,18489,Pfizer,South,IQVIA
+2025-08,BRONCHION COLD,464334.33,4433,Pfizer,North,IQVIA
+2025-08,BRONCHION COLD,1519233.3,13151,AbbVie,East,Distributor Panel
+2025-08,Immunex ,1665877.6,14613,Sanofi,South,IQVIA
+2025-08,Immunex,438528.0,7476,Local Generic,Gulf,IQVIA
+2025-08,Immunex,597365.03,5879,Novartis,East,Distributor Panel
+2025-08,Immunex ,518980.56,9644,Sanofi,North,Local Market Audit
+2025-08,Immunex Junior ,1377939.91,12493,Sanofi,North,Third Party Estimate
+2025-08,IMMUNEX JUNIOR,1147103.1,15632,Local Generic,West,IQVIA
+2025-08,Immunex Junior ,983364.7,7054,AstraZeneca,Gulf,IQVIA
+2025-08,Immunex Junior,471099.44,6810,Novartis,South,IQVIA
+2025-08,IMMUNEX JUNIOR,1026590.3,10966,Novartis,Central,Distributor Panel
+2025-08,IMMUNEX JUNIOR,327302.17,6847,Novartis,East,IQVIA
+2025-08,GastroEase,521145.8,5351,AbbVie,East,Third Party Estimate
+2025-08,GASTROEASE,952029.96,11471,Sanofi,Gulf,Local Market Audit
+2025-08,GastroEase,1021041.94,7897,AbbVie,West,IQVIA
+2025-08,GASTROEASE,1541739.35,15292,Novartis,North,Third Party Estimate
+2025-08,GastroEase DSR,796970.25,10149,AbbVie,West,Local Market Audit
+2025-08,GastroEase DSR ,372545.49,5396,Sanofi,Gulf,Distributor Panel
+2025-08,GastroEaseDSR,562295.21,9056,AbbVie,East,Local Market Audit
+2025-08,GastroEaseDSR,603903.35,9228,Sanofi,South,Local Market Audit
+2025-08,GastroEase DSR,739279.59,16101,Local Generic,North,Distributor Panel
+2025-08,GASTROEASE DSR,915921.77,7598,AstraZeneca,Central,IQVIA
+2025-08,AllerSafe,1283872.69,12495,AstraZeneca,East,Third Party Estimate
+2025-08,AllerSafe,1271904.11,16916,Novartis,Central,Local Market Audit
+2025-08,AllerSafe,502779.94,5443,AbbVie,South,IQVIA
+2025-08,AllerSafe ,621394.9,6084,Novartis,Gulf,IQVIA
+2025-08,AllerSafe,886410.39,7423,AbbVie,North,Distributor Panel
+2025-08,AllerSafe,585783.52,7035,Sanofi,West,IQVIA
+2025-08,AllerSafePlus,1137589.02,15141,AbbVie,West,IQVIA
+2025-08,AllerSafe Plus,1351485.33,14704,AbbVie,North,Distributor Panel
+2025-08,AllerSafe Plus,1690811.75,18405,Sanofi,Gulf,IQVIA
+2025-08,Neuroton OD ,420885.49,5562,Novartis,South,Local Market Audit
+2025-08,NeurotonOD,652143.45,4989,AstraZeneca,North,IQVIA
+2025-08,Neuroton OD,1227939.58,17625,Pfizer,Central,IQVIA
+2025-09,Cardiostat ,1224717.76,9218,Pfizer,North,Local Market Audit
+2025-09,Cardiostat ,1238918.76,10631,Local Generic,East,Third Party Estimate
+2025-09,Cardiostat ,1269484.17,13346,Local Generic,Central,Third Party Estimate
+2025-09,CARDIOSTAT,946925.92,8275,Pfizer,West,Distributor Panel
+2025-09,CARDIOSTAT,834534.09,15786,Local Generic,South,Local Market Audit
+2025-09,Cardiostat XR ,418951.63,6393,Novartis,North,Third Party Estimate
+2025-09,CardiostatXR,677094.14,5535,Sanofi,West,Third Party Estimate
+2025-09,CARDIOSTAT XR,1237715.81,13319,Novartis,Gulf,Distributor Panel
+2025-09,GlucoFree,940516.63,8535,Novartis,West,Third Party Estimate
+2025-09,GlucoFree ,433719.15,6392,Novartis,Central,Distributor Panel
+2025-09,GlucoFree,433461.75,4542,Sanofi,South,IQVIA
+2025-09,GLUCOFREE,984241.49,11446,AbbVie,Gulf,Third Party Estimate
+2025-09,GlucoFree,1035478.67,11912,Pfizer,North,IQVIA
+2025-09,GLUCOFREE,1916332.85,14391,Sanofi,East,Local Market Audit
+2025-09,GlucoFree XR,670230.99,6299,Novartis,South,IQVIA
+2025-09,GLUCOFREE XR,564499.68,5665,Pfizer,Central,IQVIA
+2025-09,GlucoFree XR ,822014.88,7910,AbbVie,East,Third Party Estimate
+2025-09,GlucoFreeXR,646637.81,5245,AbbVie,West,Local Market Audit
+2025-09,GlucoFreeXR,597048.42,7652,Local Generic,Gulf,Distributor Panel
+2025-09,GlucoFree XR ,853374.81,13636,Local Generic,North,Distributor Panel
+2025-09,Bronchion,602717.11,6830,Local Generic,South,Third Party Estimate
+2025-09,Bronchion,658603.4,10646,Pfizer,East,Local Market Audit
+2025-09,Bronchion,775392.94,16884,AbbVie,North,IQVIA
+2025-09,Bronchion,1246559.87,13867,Pfizer,West,Distributor Panel
+2025-09,BronchionCold,1090130.31,14744,AbbVie,Central,Third Party Estimate
+2025-09,Bronchion Cold ,1510943.42,15602,Sanofi,Gulf,Distributor Panel
+2025-09,BronchionCold,772670.64,9843,AstraZeneca,South,Third Party Estimate
+2025-09,Bronchion Cold,520914.26,5522,Novartis,North,Third Party Estimate
+2025-09,Immunex ,486394.9,4215,Sanofi,Gulf,Local Market Audit
+2025-09,Immunex ,1890357.91,14271,Local Generic,South,IQVIA
+2025-09,Immunex ,1075044.46,9819,AstraZeneca,East,Local Market Audit
+2025-09,Immunex,762102.15,9753,AbbVie,Central,Third Party Estimate
+2025-09,Immunex Junior ,1620417.42,18803,AstraZeneca,East,Distributor Panel
+2025-09,IMMUNEX JUNIOR,354978.14,7752,AbbVie,South,Local Market Audit
+2025-09,IMMUNEX JUNIOR,1557443.91,14938,Sanofi,North,Third Party Estimate
+2025-09,Immunex Junior ,555522.69,7610,Pfizer,Gulf,Local Market Audit
+2025-09,Immunex Junior ,557904.12,9835,Sanofi,Central,IQVIA
+2025-09,GASTROEASE,900847.87,9719,Pfizer,East,Distributor Panel
+2025-09,GastroEase,483718.75,7595,Sanofi,North,Local Market Audit
+2025-09,GastroEase ,361659.53,4596,AbbVie,Central,Third Party Estimate
+2025-09,GastroEase,863103.41,6518,Novartis,South,Third Party Estimate
+2025-09,GASTROEASE,2123568.0,17490,Local Generic,West,Local Market Audit
+2025-09,GastroEase,709575.46,7266,Sanofi,Gulf,IQVIA
+2025-09,GastroEaseDSR,435512.0,5007,AstraZeneca,Central,Distributor Panel
+2025-09,GastroEase DSR ,1015507.42,11369,AbbVie,West,IQVIA
+2025-09,GastroEase DSR,1332216.49,11305,Novartis,South,Distributor Panel
+2025-09,GASTROEASE DSR,1478792.14,15789,AstraZeneca,Gulf,Distributor Panel
+2025-09,GastroEase DSR ,447232.52,5434,Local Generic,East,IQVIA
+2025-09,AllerSafe,1160217.68,21030,Sanofi,Central,Third Party Estimate
+2025-09,AllerSafe,751169.61,14792,Local Generic,West,Local Market Audit
+2025-09,AllerSafe ,1293772.05,11217,Novartis,North,Local Market Audit
+2025-09,AllerSafe,966184.52,16183,Local Generic,Gulf,IQVIA
+2025-09,AllerSafe,1935118.3,17538,Pfizer,East,IQVIA
+2025-09,AllerSafe,390177.05,6906,Novartis,South,Local Market Audit
+2025-09,AllerSafe Plus ,511581.36,9043,AbbVie,West,Local Market Audit
+2025-09,AllerSafePlus,2040809.28,16257,AstraZeneca,North,Third Party Estimate
+2025-09,AllerSafe Plus,1356347.81,15758,Novartis,Gulf,Local Market Audit
+2025-09,Neuroton OD ,1224557.31,11295,Sanofi,South,Distributor Panel
+2025-09,Neuroton OD ,1240471.96,10253,AbbVie,Central,Third Party Estimate
+2025-09,Neuroton OD ,488536.06,5525,Pfizer,Gulf,Distributor Panel
+2025-09,Neuroton OD ,636683.93,4903,Pfizer,West,Distributor Panel
+2025-10,CARDIOSTAT,812013.3,6429,Sanofi,West,Third Party Estimate
+2025-10,Cardiostat,1160690.15,10816,Local Generic,Gulf,Distributor Panel
+2025-10,Cardiostat,1518733.99,12684,Local Generic,East,Distributor Panel
+2025-10,Cardiostat ,1139462.65,9135,AbbVie,North,Third Party Estimate
+2025-10,CardiostatXR,2018098.42,14867,AstraZeneca,Central,Third Party Estimate
+2025-10,CARDIOSTAT XR,556793.84,4421,Novartis,Gulf,IQVIA
+2025-10,Cardiostat XR ,1767936.86,13218,Sanofi,East,Local Market Audit
+2025-10,CARDIOSTAT XR,2161039.92,18857,Pfizer,North,Local Market Audit
+2025-10,GlucoFree,274572.85,5288,AstraZeneca,West,IQVIA
+2025-10,GlucoFree ,734321.38,6593,Novartis,North,Local Market Audit
+2025-10,GlucoFree,585258.6,6761,Novartis,Central,Local Market Audit
+2025-10,GLUCOFREE,1792030.99,14651,Pfizer,East,IQVIA
+2025-10,GlucoFree,918586.27,16967,Novartis,South,IQVIA
+2025-10,GlucoFree,1097579.25,11088,Sanofi,Gulf,Local Market Audit
+2025-10,GlucoFree XR,2075573.58,16463,AbbVie,South,Third Party Estimate
+2025-10,GlucoFree XR,723477.94,13985,Novartis,Gulf,Distributor Panel
+2025-10,GlucoFreeXR,337064.79,5038,Pfizer,West,Local Market Audit
+2025-10,GlucoFreeXR,2729767.05,20584,AbbVie,East,Distributor Panel
+2025-10,GlucoFreeXR,354402.2,5907,Pfizer,Central,Local Market Audit
+2025-10,GlucoFreeXR,1910786.9,18539,AbbVie,North,IQVIA
+2025-10,Bronchion,975495.87,12650,Novartis,Central,Distributor Panel
+2025-10,Bronchion,926940.35,14393,Local Generic,West,IQVIA
+2025-10,Bronchion,976921.62,8038,Sanofi,East,IQVIA
+2025-10,Bronchion Cold ,510492.97,9301,AstraZeneca,Central,Local Market Audit
+2025-10,BRONCHION COLD,1288062.08,14253,Pfizer,Gulf,IQVIA
+2025-10,Bronchion Cold ,606246.8,4966,Local Generic,North,IQVIA
+2025-10,Bronchion Cold ,1087305.06,13296,Local Generic,East,Local Market Audit
+2025-10,Bronchion Cold,1175521.44,12093,AbbVie,South,IQVIA
+2025-10,BRONCHION COLD,1344221.89,16817,Sanofi,West,Third Party Estimate
+2025-10,Immunex,980904.78,11644,Pfizer,South,Local Market Audit
+2025-10,Immunex ,758755.72,15060,Novartis,Gulf,Distributor Panel
+2025-10,IMMUNEX,462793.04,4527,Sanofi,North,Local Market Audit
+2025-10,IMMUNEX JUNIOR,1623816.77,13280,AbbVie,West,Distributor Panel
+2025-10,IMMUNEX JUNIOR,818545.76,11243,AstraZeneca,North,Distributor Panel
+2025-10,Immunex Junior,936906.07,10093,Sanofi,Central,Third Party Estimate
+2025-10,Immunex Junior,1677891.05,18400,Novartis,Gulf,Local Market Audit
+2025-10,IMMUNEX JUNIOR,1417764.15,21192,Pfizer,South,Distributor Panel
+2025-10,IMMUNEX JUNIOR,1054508.3,18030,Local Generic,East,Third Party Estimate
+2025-10,GastroEase,1659088.23,13425,Pfizer,North,Distributor Panel
+2025-10,GastroEase ,644353.43,13771,AbbVie,Gulf,Third Party Estimate
+2025-10,GastroEase ,355667.28,4389,AstraZeneca,West,IQVIA
+2025-10,GastroEase,1367524.44,14179,Pfizer,Central,Distributor Panel
+2025-10,GASTROEASE,2501913.26,20512,Pfizer,South,Distributor Panel
+2025-10,GastroEase ,1562532.21,18119,Local Generic,East,IQVIA
+2025-10,GastroEaseDSR,1283914.18,12917,Novartis,Central,Third Party Estimate
+2025-10,GASTROEASE DSR,1720181.52,12949,Pfizer,West,Distributor Panel
+2025-10,GASTROEASE DSR,1323273.46,18620,AstraZeneca,East,Distributor Panel
+2025-10,AllerSafe,644644.39,9370,Pfizer,Central,Distributor Panel
+2025-10,ALLERSAFE,1790901.2,14394,AbbVie,West,Third Party Estimate
+2025-10,AllerSafe,383861.91,4298,AbbVie,North,Local Market Audit
+2025-10,AllerSafe,1249167.77,9309,AstraZeneca,East,Distributor Panel
+2025-10,AllerSafe,352349.54,5069,Sanofi,South,Third Party Estimate
+2025-10,AllerSafe Plus,714608.3,12790,Novartis,South,Third Party Estimate
+2025-10,ALLERSAFE PLUS,1265921.63,12974,Pfizer,Gulf,Distributor Panel
+2025-10,AllerSafePlus,880637.1,7030,AstraZeneca,Central,IQVIA
+2025-10,AllerSafe Plus ,714224.47,12899,Pfizer,East,IQVIA
+2025-10,NeurotonOD,809144.41,9462,Novartis,South,IQVIA
+2025-10,Neuroton OD ,786964.37,9933,Local Generic,East,Distributor Panel
+2025-10,Neuroton OD,1007756.55,13817,Novartis,Central,Distributor Panel
+2025-10,Neuroton OD,266770.55,4502,Pfizer,West,Local Market Audit
+2025-11,CARDIOSTAT,1993619.59,18559,AbbVie,Central,IQVIA
+2025-11,Cardiostat ,869325.49,6242,AstraZeneca,Gulf,IQVIA
+2025-11,Cardiostat ,2501412.87,20702,Local Generic,East,Third Party Estimate
+2025-11,Cardiostat,1079848.55,8679,Novartis,North,Distributor Panel
+2025-11,CARDIOSTAT,1242946.68,9016,AbbVie,South,Distributor Panel
+2025-11,Cardiostat XR,1592313.86,18969,Sanofi,Gulf,IQVIA
+2025-11,Cardiostat XR ,1098344.62,10716,AbbVie,South,Local Market Audit
+2025-11,CARDIOSTAT XR,2107472.33,15190,AbbVie,West,Local Market Audit
+2025-11,GlucoFree ,1475850.22,10663,Local Generic,East,Local Market Audit
+2025-11,GlucoFree,373415.89,8035,AbbVie,Gulf,Distributor Panel
+2025-11,GlucoFree,2303293.21,17271,Novartis,Central,IQVIA
+2025-11,GlucoFree,1954381.1,17678,Novartis,North,Third Party Estimate
+2025-11,GLUCOFREE,885046.44,10635,Local Generic,West,Distributor Panel
+2025-11,GlucoFreeXR,1578787.34,13707,AbbVie,East,Third Party Estimate
+2025-11,GlucoFreeXR,1795109.36,14441,AbbVie,Gulf,Local Market Audit
+2025-11,GlucoFree XR,1724208.97,14641,Novartis,North,IQVIA
+2025-11,Bronchion,1072425.21,10632,Novartis,Gulf,Distributor Panel
+2025-11,Bronchion ,1732072.64,17568,Sanofi,West,Distributor Panel
+2025-11,BRONCHION,919516.46,14843,Pfizer,Central,Local Market Audit
+2025-11,Bronchion,1704309.58,17105,Pfizer,South,Distributor Panel
+2025-11,Bronchion ,853816.88,11802,AbbVie,East,Local Market Audit
+2025-11,BRONCHION COLD,1147403.92,21202,Pfizer,East,IQVIA
+2025-11,Bronchion Cold ,1270942.68,20003,Pfizer,Gulf,Distributor Panel
+2025-11,Bronchion Cold ,1408151.53,10427,Local Generic,North,Third Party Estimate
+2025-11,Bronchion Cold,1481312.88,16811,Local Generic,West,IQVIA
+2025-11,Immunex,3561497.74,25996,Local Generic,West,Local Market Audit
+2025-11,Immunex,1252580.17,20915,Sanofi,Gulf,Third Party Estimate
+2025-11,Immunex,2591338.15,23807,Local Generic,East,Distributor Panel
+2025-11,Immunex,928746.7,6953,Novartis,North,IQVIA
+2025-11,Immunex ,1578747.51,23094,Novartis,Central,Local Market Audit
+2025-11,IMMUNEX,1156148.93,12701,Local Generic,South,Third Party Estimate
+2025-11,IMMUNEX JUNIOR,557939.37,6090,Local Generic,South,Local Market Audit
+2025-11,Immunex Junior ,484834.67,6927,Local Generic,Gulf,Local Market Audit
+2025-11,IMMUNEX JUNIOR,2009565.96,21066,Sanofi,North,Local Market Audit
+2025-11,Immunex Junior ,1307909.85,14283,AstraZeneca,East,Distributor Panel
+2025-11,Immunex Junior,1067649.48,19709,Sanofi,West,Third Party Estimate
+2025-11,GastroEase ,778093.11,9973,Local Generic,East,Local Market Audit
+2025-11,GastroEase ,2411732.2,19323,AstraZeneca,South,Third Party Estimate
+2025-11,GASTROEASE,1033208.21,14224,AbbVie,West,IQVIA
+2025-11,GastroEase,1033747.13,14799,AbbVie,North,Third Party Estimate
+2025-11,GastroEase,1436630.39,17335,Sanofi,Gulf,Third Party Estimate
+2025-11,GastroEase,1556477.9,14761,Sanofi,Central,Third Party Estimate
+2025-11,GastroEase DSR,855867.15,14943,Local Generic,South,IQVIA
+2025-11,GastroEaseDSR,2007409.83,16849,Sanofi,Central,IQVIA
+2025-11,GASTROEASE DSR,830233.64,12774,Novartis,Gulf,Third Party Estimate
+2025-11,GastroEaseDSR,1775771.29,14661,Sanofi,East,Third Party Estimate
+2025-11,GastroEase DSR,539338.46,7859,Pfizer,North,IQVIA
+2025-11,GastroEase DSR ,1056635.98,19303,AbbVie,West,IQVIA
+2025-11,AllerSafe,1100909.37,16073,Local Generic,East,IQVIA
+2025-11,ALLERSAFE,2088610.18,19474,Local Generic,Gulf,Distributor Panel
+2025-11,AllerSafe ,439179.7,4726,Pfizer,North,IQVIA
+2025-11,ALLERSAFE,1889312.06,18439,Pfizer,West,Third Party Estimate
+2025-11,AllerSafe Plus ,1014175.68,13760,Novartis,Central,IQVIA
+2025-11,AllerSafe Plus ,987915.91,9905,Sanofi,East,Third Party Estimate
+2025-11,AllerSafePlus,428457.27,5125,AbbVie,Gulf,Distributor Panel
+2025-11,AllerSafe Plus,1097477.12,16083,AbbVie,South,Third Party Estimate
+2025-11,Neuroton OD ,1029558.41,11770,AstraZeneca,Central,IQVIA
+2025-11,Neuroton OD,817168.35,13931,Pfizer,North,Local Market Audit
+2025-11,NEUROTON OD,780951.78,8532,Pfizer,West,Local Market Audit
+2025-11,NEUROTON OD,1016997.95,11302,Pfizer,Gulf,Third Party Estimate
+2025-11,NEUROTON OD,932131.69,8081,Pfizer,East,Distributor Panel
+2025-12,Cardiostat ,729486.05,10824,Local Generic,North,Third Party Estimate
+2025-12,Cardiostat,1495859.75,12977,Pfizer,East,Third Party Estimate
+2025-12,Cardiostat,773936.93,13556,Novartis,South,IQVIA
+2025-12,Cardiostat,788474.49,6178,Pfizer,Central,Third Party Estimate
+2025-12,Cardiostat ,1336600.24,11019,Novartis,West,Third Party Estimate
+2025-12,Cardiostat,505252.85,8995,Local Generic,Gulf,Distributor Panel
+2025-12,CardiostatXR,1661362.07,13700,AstraZeneca,Central,Distributor Panel
+2025-12,CARDIOSTAT XR,1590528.44,11875,Novartis,East,Third Party Estimate
+2025-12,Cardiostat XR ,247981.74,3998,Pfizer,South,IQVIA
+2025-12,Cardiostat XR,637961.72,9979,AstraZeneca,North,Third Party Estimate
+2025-12,CARDIOSTAT XR,868482.85,8321,Pfizer,West,Distributor Panel
+2025-12,GlucoFree,1254803.36,9844,Sanofi,East,Third Party Estimate
+2025-12,GLUCOFREE,906100.98,8552,Pfizer,North,Local Market Audit
+2025-12,GlucoFree,450212.16,6288,AstraZeneca,South,IQVIA
+2025-12,GlucoFree ,691252.94,6858,Sanofi,West,Distributor Panel
+2025-12,GlucoFree XR ,1071571.28,18281,Pfizer,South,Distributor Panel
+2025-12,GlucoFree XR ,306542.12,6136,AbbVie,Gulf,Third Party Estimate
+2025-12,GLUCOFREE XR,1048477.51,8946,AstraZeneca,North,Third Party Estimate
+2025-12,GlucoFreeXR,1279095.92,11411,Sanofi,West,Distributor Panel
+2025-12,GLUCOFREE XR,1141667.17,11137,Novartis,East,Distributor Panel
+2025-12,GlucoFree XR ,1219148.87,14088,AbbVie,Central,Distributor Panel
+2025-12,Bronchion ,710406.17,8909,Local Generic,Central,Distributor Panel
+2025-12,BRONCHION,2472609.86,23864,AbbVie,West,Distributor Panel
+2025-12,BRONCHION,1707458.39,12234,AbbVie,East,Distributor Panel
+2025-12,Bronchion Cold,1282396.27,9715,AstraZeneca,North,Distributor Panel
+2025-12,Bronchion Cold ,778269.12,7345,Pfizer,Central,Distributor Panel
+2025-12,Bronchion Cold,1868635.39,13614,Local Generic,East,Third Party Estimate
+2025-12,Bronchion Cold ,2053465.74,22423,Local Generic,South,IQVIA
+2025-12,IMMUNEX,3302506.09,25854,Pfizer,East,Third Party Estimate
+2025-12,Immunex,1528155.57,30366,Sanofi,North,IQVIA
+2025-12,Immunex,2311498.91,18346,Sanofi,South,Distributor Panel
+2025-12,Immunex Junior,1717480.33,15839,Pfizer,Central,Local Market Audit
+2025-12,ImmunexJunior,1731170.55,29335,Pfizer,East,Local Market Audit
+2025-12,Immunex Junior ,1503497.2,14624,Novartis,North,IQVIA
+2025-12,ImmunexJunior,1010812.4,12907,AbbVie,Gulf,IQVIA
+2025-12,GASTROEASE,1329734.94,9724,Pfizer,North,Local Market Audit
+2025-12,GASTROEASE,747480.02,14178,Sanofi,Gulf,Local Market Audit
+2025-12,GastroEase,1043025.56,18105,AbbVie,Central,Distributor Panel
+2025-12,GastroEase ,646642.15,6553,Novartis,West,Local Market Audit
+2025-12,GastroEase,606942.39,9817,Sanofi,East,Third Party Estimate
+2025-12,GastroEase,578971.87,7353,Sanofi,South,Third Party Estimate
+2025-12,GastroEase DSR ,1873766.6,13441,Sanofi,North,Distributor Panel
+2025-12,GastroEaseDSR,982885.3,7174,Pfizer,Central,Local Market Audit
+2025-12,GastroEase DSR,532005.48,7624,AstraZeneca,West,Local Market Audit
+2025-12,GastroEaseDSR,1067223.27,10593,AstraZeneca,Gulf,Third Party Estimate
+2025-12,AllerSafe,337153.53,3739,Local Generic,East,IQVIA
+2025-12,AllerSafe ,612256.78,8263,AstraZeneca,North,Local Market Audit
+2025-12,AllerSafe ,1705898.74,13997,AstraZeneca,Gulf,Third Party Estimate
+2025-12,ALLERSAFE PLUS,951817.65,12947,AstraZeneca,West,IQVIA
+2025-12,AllerSafe Plus ,768435.05,10886,AstraZeneca,South,IQVIA
+2025-12,ALLERSAFE PLUS,912715.56,6882,AstraZeneca,East,Local Market Audit
+2025-12,AllerSafe Plus,795150.36,6631,Pfizer,Gulf,Distributor Panel
+2025-12,AllerSafe Plus ,2301083.06,18995,AbbVie,Central,Local Market Audit
+2025-12,ALLERSAFE PLUS,579317.33,9817,Sanofi,North,Distributor Panel
+2025-12,NeurotonOD,670961.72,9831,Pfizer,South,Third Party Estimate
+2025-12,Neuroton OD ,575592.71,6415,Local Generic,Gulf,Local Market Audit
+2025-12,NEUROTON OD,1577371.64,12723,Pfizer,Central,Third Party Estimate

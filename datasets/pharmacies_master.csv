@@ -1,0 +1,1201 @@
+pharmacy_id,pharmacy_name,city,region,channel,active_flag
+PH0001,Al-Shifa Pharmacy,Dubai,Gulf,retail,1
+PH0002,Prime Pharmacy,Qena,South,hospital,1
+PH0003,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0004,HealthPlus Pharmacy,Qena,South,retail,1
+PH0005,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH0006,LifeCare Pharmacy,Ismailia,East,retail,1
+PH0007,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0008,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0009,El-Nour Pharmacy,Damanhur,North,hospital,1
+PH0010,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0011,El-Nour Pharmacy,Port Said,East,retail,1
+PH0012,LifeCare Pharmacy,Sohag,South,hospital,0
+PH0013,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0014,Prime Pharmacy,Ismailia,East,hospital,1
+PH0015,LifeCare Pharmacy,Dubai,Gulf,retail,1
+PH0016,Al-Shifa Pharmacy,Asyut,South,hospital,1
+PH0017,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0018,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0019,HealthPlus Pharmacy,Alexandria,North,hospital,0
+PH0020,Medico Pharmacy,Ismailia,East,hospital,1
+PH0021,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0022,Medico Pharmacy,Giza,Central,hospital,1
+PH0023,LifeCare Pharmacy,Siwa,West,retail,1
+PH0024,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0025,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH0026,El-Nour Pharmacy,Siwa,West,retail,0
+PH0027,Al-Shifa Pharmacy,Damanhur,North,hospital,0
+PH0028,LifeCare Pharmacy,Ismailia,East,retail,1
+PH0029,HealthPlus Pharmacy,Jeddah,Gulf,hospital,1
+PH0030,Al-Shifa Pharmacy,Cairo,Central,hospital,1
+PH0031,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0032,Medico Pharmacy,Cairo,Central,retail,1
+PH0033,LifeCare Pharmacy,Suez,East,hospital,1
+PH0034,El-Nour Pharmacy,Alexandria,North,hospital,1
+PH0035,Medico Pharmacy,Cairo,Central,hospital,1
+PH0036,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0037,Prime Pharmacy,Qena,South,retail,1
+PH0038,Prime Pharmacy,Suez,East,retail,0
+PH0039,LifeCare Pharmacy,Giza,Central,retail,1
+PH0040,HealthPlus Pharmacy,Damanhur,North,retail,1
+PH0041,LifeCare Pharmacy,Damanhur,North,retail,1
+PH0042,LifeCare Pharmacy,Tanta,North,retail,1
+PH0043,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0044,Medico Pharmacy,Giza,Central,hospital,1
+PH0045,Medico Pharmacy,Asyut,South,retail,1
+PH0046,El-Nour Pharmacy,Siwa,West,retail,1
+PH0047,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0048,HealthPlus Pharmacy,Alexandria,North,retail,1
+PH0049,LifeCare Pharmacy,Marsa Matruh,West,hospital,1
+PH0050,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0051,El-Nour Pharmacy,Jeddah,Gulf,hospital,1
+PH0052,Medico Pharmacy,Asyut,South,retail,1
+PH0053,El-Nour Pharmacy,Marsa Matruh,West,hospital,1
+PH0054,Prime Pharmacy,Suez,East,hospital,1
+PH0055,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0056,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0057,HealthPlus Pharmacy,Alexandria,North,hospital,1
+PH0058,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0059,Prime Pharmacy,Asyut,South,hospital,1
+PH0060,HealthPlus Pharmacy,Marsa Matruh,West,retail,0
+PH0061,Medico Pharmacy,Cairo,Central,retail,1
+PH0062,LifeCare Pharmacy,Giza,Central,retail,0
+PH0063,LifeCare Pharmacy,Ismailia,East,retail,1
+PH0064,El-Nour Pharmacy,Suez,East,retail,1
+PH0065,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0066,LifeCare Pharmacy,Sohag,South,retail,0
+PH0067,Prime Pharmacy,Sohag,South,retail,1
+PH0068,HealthPlus Pharmacy,Jeddah,Gulf,retail,1
+PH0069,LifeCare Pharmacy,Dubai,Gulf,retail,0
+PH0070,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0071,Prime Pharmacy,Qena,South,retail,1
+PH0072,El-Nour Pharmacy,Port Said,East,retail,1
+PH0073,Al-Shifa Pharmacy,Siwa,West,hospital,1
+PH0074,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH0075,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0076,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0077,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH0078,LifeCare Pharmacy,Tanta,North,retail,1
+PH0079,Medico Pharmacy,Port Said,East,hospital,0
+PH0080,LifeCare Pharmacy,Dubai,Gulf,hospital,0
+PH0081,Prime Pharmacy,Sohag,South,hospital,1
+PH0082,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0083,Medico Pharmacy,Tanta,North,retail,1
+PH0084,LifeCare Pharmacy,Asyut,South,retail,1
+PH0085,Al-Shifa Pharmacy,Ismailia,East,retail,0
+PH0086,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0087,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0088,Medico Pharmacy,Ismailia,East,retail,1
+PH0089,HealthPlus Pharmacy,Suez,East,retail,1
+PH0090,Prime Pharmacy,Cairo,Central,retail,1
+PH0091,El-Nour Pharmacy,Cairo,Central,hospital,1
+PH0092,El-Nour Pharmacy,Port Said,East,retail,1
+PH0093,Medico Pharmacy,Port Said,East,retail,1
+PH0094,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0095,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0096,Medico Pharmacy,Tanta,North,hospital,1
+PH0097,Medico Pharmacy,Giza,Central,retail,1
+PH0098,Prime Pharmacy,Giza,Central,retail,1
+PH0099,Prime Pharmacy,Tanta,North,retail,1
+PH0100,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0101,Medico Pharmacy,Asyut,South,retail,1
+PH0102,Prime Pharmacy,Tanta,North,retail,1
+PH0103,Medico Pharmacy,Jeddah,Gulf,retail,1
+PH0104,El-Nour Pharmacy,Jeddah,Gulf,hospital,1
+PH0105,Prime Pharmacy,Asyut,South,retail,1
+PH0106,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0107,Medico Pharmacy,Siwa,West,retail,0
+PH0108,HealthPlus Pharmacy,Jeddah,Gulf,retail,1
+PH0109,Medico Pharmacy,Qena,South,retail,1
+PH0110,HealthPlus Pharmacy,Qena,South,retail,1
+PH0111,Prime Pharmacy,Sohag,South,retail,1
+PH0112,HealthPlus Pharmacy,Suez,East,retail,1
+PH0113,LifeCare Pharmacy,Asyut,South,retail,1
+PH0114,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0115,Medico Pharmacy,Alexandria,North,hospital,1
+PH0116,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0117,Medico Pharmacy,Tanta,North,hospital,1
+PH0118,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0119,Prime Pharmacy,Tanta,North,hospital,1
+PH0120,LifeCare Pharmacy,Dubai,Gulf,hospital,1
+PH0121,HealthPlus Pharmacy,Cairo,Central,retail,0
+PH0122,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0123,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH0124,Medico Pharmacy,Suez,East,retail,1
+PH0125,Medico Pharmacy,Siwa,West,retail,1
+PH0126,Al-Shifa Pharmacy,Cairo,Central,retail,0
+PH0127,El-Nour Pharmacy,Damanhur,North,hospital,1
+PH0128,LifeCare Pharmacy,Asyut,South,retail,1
+PH0129,LifeCare Pharmacy,Dubai,Gulf,retail,1
+PH0130,HealthPlus Pharmacy,Suez,East,hospital,1
+PH0131,LifeCare Pharmacy,Dubai,Gulf,hospital,1
+PH0132,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0133,LifeCare Pharmacy,Siwa,West,retail,0
+PH0134,Prime Pharmacy,Jeddah,Gulf,hospital,1
+PH0135,HealthPlus Pharmacy,Jeddah,Gulf,hospital,1
+PH0136,Al-Shifa Pharmacy,Port Said,East,retail,1
+PH0137,Medico Pharmacy,Riyadh,Gulf,hospital,1
+PH0138,Prime Pharmacy,Tanta,North,hospital,0
+PH0139,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0140,HealthPlus Pharmacy,Riyadh,Gulf,hospital,1
+PH0141,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0142,Medico Pharmacy,Asyut,South,retail,1
+PH0143,Medico Pharmacy,Siwa,West,hospital,1
+PH0144,Al-Shifa Pharmacy,Sohag,South,retail,1
+PH0145,HealthPlus Pharmacy,Giza,Central,hospital,1
+PH0146,Medico Pharmacy,Alexandria,North,retail,1
+PH0147,Prime Pharmacy,Qena,South,retail,1
+PH0148,Medico Pharmacy,Alexandria,North,retail,1
+PH0149,Medico Pharmacy,Port Said,East,retail,1
+PH0150,HealthPlus Pharmacy,Suez,East,retail,0
+PH0151,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0152,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0153,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0154,HealthPlus Pharmacy,Jeddah,Gulf,retail,0
+PH0155,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0156,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0157,LifeCare Pharmacy,Damanhur,North,retail,1
+PH0158,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0159,El-Nour Pharmacy,Siwa,West,retail,1
+PH0160,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0161,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH0162,Medico Pharmacy,Alexandria,North,retail,1
+PH0163,Medico Pharmacy,Cairo,Central,retail,1
+PH0164,Medico Pharmacy,Siwa,West,retail,1
+PH0165,Prime Pharmacy,Cairo,Central,retail,1
+PH0166,Prime Pharmacy,Qena,South,retail,1
+PH0167,LifeCare Pharmacy,Asyut,South,retail,1
+PH0168,LifeCare Pharmacy,Siwa,West,retail,1
+PH0169,El-Nour Pharmacy,Port Said,East,retail,1
+PH0170,LifeCare Pharmacy,Port Said,East,retail,1
+PH0171,Al-Shifa Pharmacy,Cairo,Central,hospital,1
+PH0172,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0173,Medico Pharmacy,Giza,Central,retail,1
+PH0174,HealthPlus Pharmacy,Riyadh,Gulf,retail,0
+PH0175,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0176,LifeCare Pharmacy,Giza,Central,hospital,1
+PH0177,Prime Pharmacy,Cairo,Central,hospital,0
+PH0178,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0179,LifeCare Pharmacy,Riyadh,Gulf,hospital,0
+PH0180,Medico Pharmacy,Siwa,West,retail,0
+PH0181,LifeCare Pharmacy,Suez,East,retail,1
+PH0182,Medico Pharmacy,Riyadh,Gulf,hospital,1
+PH0183,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0184,El-Nour Pharmacy,Tanta,North,retail,1
+PH0185,LifeCare Pharmacy,Giza,Central,retail,1
+PH0186,El-Nour Pharmacy,Giza,Central,retail,1
+PH0187,Medico Pharmacy,Cairo,Central,hospital,0
+PH0188,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0189,HealthPlus Pharmacy,Qena,South,retail,1
+PH0190,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0191,Medico Pharmacy,Damanhur,North,hospital,1
+PH0192,Medico Pharmacy,Port Said,East,hospital,1
+PH0193,LifeCare Pharmacy,Marsa Matruh,West,retail,1
+PH0194,Al-Shifa Pharmacy,Cairo,Central,hospital,1
+PH0195,HealthPlus Pharmacy,Siwa,West,retail,0
+PH0196,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0197,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH0198,HealthPlus Pharmacy,Suez,East,retail,1
+PH0199,LifeCare Pharmacy,Ismailia,East,retail,0
+PH0200,Prime Pharmacy,Sohag,South,retail,1
+PH0201,Prime Pharmacy,Siwa,West,hospital,0
+PH0202,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0203,Medico Pharmacy,Tanta,North,retail,1
+PH0204,LifeCare Pharmacy,Sohag,South,retail,1
+PH0205,Medico Pharmacy,Suez,East,retail,1
+PH0206,Medico Pharmacy,Port Said,East,hospital,1
+PH0207,Medico Pharmacy,Jeddah,Gulf,hospital,0
+PH0208,Prime Pharmacy,Damanhur,North,retail,1
+PH0209,Medico Pharmacy,Ismailia,East,hospital,1
+PH0210,Medico Pharmacy,Jeddah,Gulf,retail,1
+PH0211,El-Nour Pharmacy,Ismailia,East,retail,1
+PH0212,HealthPlus Pharmacy,Suez,East,retail,1
+PH0213,El-Nour Pharmacy,Dubai,Gulf,retail,1
+PH0214,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0215,Prime Pharmacy,Siwa,West,retail,1
+PH0216,LifeCare Pharmacy,Siwa,West,retail,1
+PH0217,Medico Pharmacy,Port Said,East,retail,1
+PH0218,Medico Pharmacy,Siwa,West,hospital,1
+PH0219,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0220,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0221,Prime Pharmacy,Damanhur,North,hospital,1
+PH0222,Al-Shifa Pharmacy,Giza,Central,hospital,1
+PH0223,LifeCare Pharmacy,Qena,South,retail,1
+PH0224,Prime Pharmacy,Giza,Central,hospital,1
+PH0225,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0226,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0227,Medico Pharmacy,Tanta,North,retail,1
+PH0228,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0229,Medico Pharmacy,Ismailia,East,hospital,1
+PH0230,El-Nour Pharmacy,Port Said,East,retail,1
+PH0231,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0232,HealthPlus Pharmacy,Jeddah,Gulf,retail,0
+PH0233,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0234,HealthPlus Pharmacy,Jeddah,Gulf,retail,1
+PH0235,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0236,LifeCare Pharmacy,Giza,Central,retail,0
+PH0237,Al-Shifa Pharmacy,Riyadh,Gulf,retail,0
+PH0238,El-Nour Pharmacy,Alexandria,North,retail,1
+PH0239,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0240,Prime Pharmacy,Siwa,West,retail,1
+PH0241,Prime Pharmacy,Giza,Central,retail,1
+PH0242,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0243,LifeCare Pharmacy,Ismailia,East,retail,1
+PH0244,Prime Pharmacy,Sohag,South,retail,1
+PH0245,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0246,LifeCare Pharmacy,Tanta,North,retail,1
+PH0247,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0248,HealthPlus Pharmacy,Qena,South,retail,1
+PH0249,LifeCare Pharmacy,Asyut,South,hospital,1
+PH0250,LifeCare Pharmacy,Cairo,Central,hospital,1
+PH0251,El-Nour Pharmacy,Giza,Central,retail,1
+PH0252,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0253,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0254,Medico Pharmacy,Cairo,Central,retail,1
+PH0255,Medico Pharmacy,Port Said,East,retail,1
+PH0256,Prime Pharmacy,Cairo,Central,retail,1
+PH0257,Medico Pharmacy,Marsa Matruh,West,hospital,1
+PH0258,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0259,El-Nour Pharmacy,Tanta,North,retail,1
+PH0260,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0261,Prime Pharmacy,Siwa,West,retail,1
+PH0262,HealthPlus Pharmacy,Jeddah,Gulf,retail,1
+PH0263,LifeCare Pharmacy,Sohag,South,retail,1
+PH0264,El-Nour Pharmacy,Siwa,West,retail,1
+PH0265,LifeCare Pharmacy,Port Said,East,retail,1
+PH0266,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0267,LifeCare Pharmacy,Damanhur,North,retail,1
+PH0268,Medico Pharmacy,Giza,Central,retail,1
+PH0269,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0270,El-Nour Pharmacy,Port Said,East,retail,1
+PH0271,LifeCare Pharmacy,Asyut,South,hospital,1
+PH0272,Al-Shifa Pharmacy,Port Said,East,retail,1
+PH0273,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0274,Prime Pharmacy,Ismailia,East,hospital,1
+PH0275,LifeCare Pharmacy,Suez,East,retail,1
+PH0276,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0277,Medico Pharmacy,Damanhur,North,retail,1
+PH0278,Prime Pharmacy,Ismailia,East,retail,1
+PH0279,LifeCare Pharmacy,Cairo,Central,retail,0
+PH0280,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0281,Medico Pharmacy,Siwa,West,retail,1
+PH0282,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0283,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0284,El-Nour Pharmacy,Sohag,South,retail,0
+PH0285,Al-Shifa Pharmacy,Ismailia,East,retail,1
+PH0286,Medico Pharmacy,Alexandria,North,retail,1
+PH0287,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0288,El-Nour Pharmacy,Tanta,North,retail,1
+PH0289,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0290,Medico Pharmacy,Siwa,West,retail,1
+PH0291,HealthPlus Pharmacy,Ismailia,East,retail,1
+PH0292,El-Nour Pharmacy,Riyadh,Gulf,retail,1
+PH0293,Medico Pharmacy,Giza,Central,hospital,1
+PH0294,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0295,LifeCare Pharmacy,Dubai,Gulf,hospital,1
+PH0296,Prime Pharmacy,Suez,East,hospital,1
+PH0297,LifeCare Pharmacy,Asyut,South,retail,1
+PH0298,Prime Pharmacy,Qena,South,retail,1
+PH0299,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0300,Prime Pharmacy,Giza,Central,retail,1
+PH0301,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0302,HealthPlus Pharmacy,Port Said,East,retail,1
+PH0303,Al-Shifa Pharmacy,Siwa,West,hospital,1
+PH0304,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0305,HealthPlus Pharmacy,Giza,Central,hospital,1
+PH0306,HealthPlus Pharmacy,Dubai,Gulf,retail,1
+PH0307,LifeCare Pharmacy,Port Said,East,hospital,1
+PH0308,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH0309,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0310,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0311,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0312,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0313,Prime Pharmacy,Giza,Central,hospital,1
+PH0314,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0315,Prime Pharmacy,Suez,East,retail,0
+PH0316,El-Nour Pharmacy,Qena,South,retail,1
+PH0317,Prime Pharmacy,Siwa,West,retail,1
+PH0318,El-Nour Pharmacy,Jeddah,Gulf,retail,0
+PH0319,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0320,Medico Pharmacy,Sohag,South,retail,0
+PH0321,El-Nour Pharmacy,Asyut,South,retail,1
+PH0322,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0323,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0324,Medico Pharmacy,Qena,South,retail,1
+PH0325,HealthPlus Pharmacy,Dubai,Gulf,retail,0
+PH0326,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0327,HealthPlus Pharmacy,Marsa Matruh,West,hospital,1
+PH0328,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0329,LifeCare Pharmacy,Asyut,South,hospital,1
+PH0330,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0331,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0332,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0333,LifeCare Pharmacy,Marsa Matruh,West,hospital,0
+PH0334,Medico Pharmacy,Ismailia,East,retail,1
+PH0335,Al-Shifa Pharmacy,Sohag,South,retail,0
+PH0336,Prime Pharmacy,Ismailia,East,retail,1
+PH0337,Medico Pharmacy,Asyut,South,retail,1
+PH0338,HealthPlus Pharmacy,Qena,South,retail,1
+PH0339,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0340,El-Nour Pharmacy,Jeddah,Gulf,hospital,1
+PH0341,LifeCare Pharmacy,Sohag,South,retail,1
+PH0342,Medico Pharmacy,Giza,Central,retail,1
+PH0343,LifeCare Pharmacy,Damanhur,North,retail,1
+PH0344,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0345,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0346,HealthPlus Pharmacy,Ismailia,East,retail,0
+PH0347,Medico Pharmacy,Cairo,Central,retail,1
+PH0348,El-Nour Pharmacy,Siwa,West,retail,1
+PH0349,Prime Pharmacy,Tanta,North,retail,1
+PH0350,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0351,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0352,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0353,El-Nour Pharmacy,Marsa Matruh,West,hospital,1
+PH0354,HealthPlus Pharmacy,Tanta,North,retail,0
+PH0355,Prime Pharmacy,Giza,Central,retail,1
+PH0356,Al-Shifa Pharmacy,Ismailia,East,retail,1
+PH0357,Prime Pharmacy,Suez,East,retail,0
+PH0358,Medico Pharmacy,Siwa,West,retail,0
+PH0359,El-Nour Pharmacy,Port Said,East,retail,1
+PH0360,LifeCare Pharmacy,Tanta,North,retail,1
+PH0361,Prime Pharmacy,Ismailia,East,retail,1
+PH0362,Medico Pharmacy,Siwa,West,retail,1
+PH0363,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0364,El-Nour Pharmacy,Siwa,West,retail,1
+PH0365,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0366,Prime Pharmacy,Alexandria,North,hospital,1
+PH0367,Prime Pharmacy,Alexandria,North,retail,1
+PH0368,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0369,El-Nour Pharmacy,Suez,East,retail,1
+PH0370,Prime Pharmacy,Giza,Central,retail,1
+PH0371,Medico Pharmacy,Alexandria,North,retail,1
+PH0372,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0373,Medico Pharmacy,Qena,South,retail,1
+PH0374,Prime Pharmacy,Asyut,South,retail,1
+PH0375,Al-Shifa Pharmacy,Damanhur,North,retail,0
+PH0376,Al-Shifa Pharmacy,Dubai,Gulf,hospital,1
+PH0377,Prime Pharmacy,Qena,South,retail,1
+PH0378,LifeCare Pharmacy,Port Said,East,hospital,1
+PH0379,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0380,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0381,Medico Pharmacy,Siwa,West,hospital,1
+PH0382,Prime Pharmacy,Alexandria,North,retail,0
+PH0383,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0384,El-Nour Pharmacy,Asyut,South,hospital,1
+PH0385,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0386,HealthPlus Pharmacy,Dubai,Gulf,hospital,1
+PH0387,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0388,El-Nour Pharmacy,Riyadh,Gulf,retail,1
+PH0389,LifeCare Pharmacy,Qena,South,retail,0
+PH0390,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0391,Prime Pharmacy,Alexandria,North,hospital,1
+PH0392,HealthPlus Pharmacy,Port Said,East,retail,1
+PH0393,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0394,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0395,LifeCare Pharmacy,Marsa Matruh,West,retail,1
+PH0396,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0397,Al-Shifa Pharmacy,Riyadh,Gulf,hospital,1
+PH0398,El-Nour Pharmacy,Sohag,South,retail,1
+PH0399,LifeCare Pharmacy,Marsa Matruh,West,retail,1
+PH0400,HealthPlus Pharmacy,Tanta,North,retail,0
+PH0401,Prime Pharmacy,Sohag,South,retail,0
+PH0402,Medico Pharmacy,Sohag,South,retail,0
+PH0403,Medico Pharmacy,Suez,East,retail,1
+PH0404,El-Nour Pharmacy,Asyut,South,retail,1
+PH0405,El-Nour Pharmacy,Siwa,West,hospital,1
+PH0406,Prime Pharmacy,Marsa Matruh,West,retail,0
+PH0407,El-Nour Pharmacy,Siwa,West,retail,1
+PH0408,El-Nour Pharmacy,Sohag,South,retail,1
+PH0409,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0410,Medico Pharmacy,Alexandria,North,retail,0
+PH0411,LifeCare Pharmacy,Port Said,East,retail,0
+PH0412,El-Nour Pharmacy,Giza,Central,retail,1
+PH0413,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH0414,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0415,HealthPlus Pharmacy,Siwa,West,hospital,1
+PH0416,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0417,El-Nour Pharmacy,Tanta,North,hospital,1
+PH0418,Prime Pharmacy,Giza,Central,hospital,1
+PH0419,Al-Shifa Pharmacy,Dubai,Gulf,hospital,1
+PH0420,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0421,Prime Pharmacy,Giza,Central,retail,1
+PH0422,Medico Pharmacy,Cairo,Central,retail,1
+PH0423,Medico Pharmacy,Sohag,South,retail,1
+PH0424,Prime Pharmacy,Giza,Central,retail,1
+PH0425,HealthPlus Pharmacy,Dubai,Gulf,retail,1
+PH0426,Al-Shifa Pharmacy,Riyadh,Gulf,hospital,1
+PH0427,Prime Pharmacy,Siwa,West,hospital,1
+PH0428,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0429,Al-Shifa Pharmacy,Marsa Matruh,West,retail,0
+PH0430,Prime Pharmacy,Sohag,South,retail,1
+PH0431,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0432,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH0433,LifeCare Pharmacy,Siwa,West,retail,1
+PH0434,Medico Pharmacy,Port Said,East,retail,1
+PH0435,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH0436,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0437,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0438,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH0439,El-Nour Pharmacy,Damanhur,North,hospital,1
+PH0440,Medico Pharmacy,Sohag,South,retail,1
+PH0441,Prime Pharmacy,Sohag,South,retail,1
+PH0442,HealthPlus Pharmacy,Damanhur,North,retail,1
+PH0443,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0444,LifeCare Pharmacy,Tanta,North,hospital,1
+PH0445,HealthPlus Pharmacy,Ismailia,East,retail,1
+PH0446,Prime Pharmacy,Suez,East,retail,1
+PH0447,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0448,Medico Pharmacy,Tanta,North,retail,1
+PH0449,Al-Shifa Pharmacy,Dubai,Gulf,hospital,1
+PH0450,Prime Pharmacy,Cairo,Central,hospital,1
+PH0451,Prime Pharmacy,Siwa,West,retail,1
+PH0452,LifeCare Pharmacy,Sohag,South,retail,1
+PH0453,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH0454,El-Nour Pharmacy,Port Said,East,retail,1
+PH0455,Prime Pharmacy,Port Said,East,retail,1
+PH0456,HealthPlus Pharmacy,Ismailia,East,hospital,1
+PH0457,Prime Pharmacy,Riyadh,Gulf,hospital,1
+PH0458,LifeCare Pharmacy,Suez,East,hospital,1
+PH0459,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0460,HealthPlus Pharmacy,Jeddah,Gulf,hospital,0
+PH0461,HealthPlus Pharmacy,Asyut,South,hospital,1
+PH0462,Prime Pharmacy,Damanhur,North,retail,1
+PH0463,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH0464,LifeCare Pharmacy,Qena,South,retail,1
+PH0465,LifeCare Pharmacy,Giza,Central,retail,1
+PH0466,Medico Pharmacy,Marsa Matruh,West,hospital,0
+PH0467,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0468,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0469,Prime Pharmacy,Siwa,West,retail,1
+PH0470,Prime Pharmacy,Alexandria,North,retail,1
+PH0471,Medico Pharmacy,Alexandria,North,retail,0
+PH0472,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0473,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH0474,Prime Pharmacy,Siwa,West,hospital,1
+PH0475,El-Nour Pharmacy,Qena,South,retail,1
+PH0476,Prime Pharmacy,Giza,Central,hospital,1
+PH0477,Medico Pharmacy,Alexandria,North,retail,0
+PH0478,LifeCare Pharmacy,Giza,Central,retail,1
+PH0479,Prime Pharmacy,Ismailia,East,hospital,1
+PH0480,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0481,Medico Pharmacy,Alexandria,North,retail,1
+PH0482,El-Nour Pharmacy,Dubai,Gulf,retail,1
+PH0483,El-Nour Pharmacy,Qena,South,retail,1
+PH0484,Prime Pharmacy,Ismailia,East,retail,1
+PH0485,LifeCare Pharmacy,Giza,Central,hospital,1
+PH0486,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0487,Medico Pharmacy,Cairo,Central,retail,1
+PH0488,Prime Pharmacy,Tanta,North,retail,0
+PH0489,Medico Pharmacy,Giza,Central,retail,1
+PH0490,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0491,LifeCare Pharmacy,Sohag,South,hospital,1
+PH0492,Medico Pharmacy,Damanhur,North,retail,1
+PH0493,LifeCare Pharmacy,Sohag,South,retail,1
+PH0494,El-Nour Pharmacy,Tanta,North,retail,1
+PH0495,Prime Pharmacy,Asyut,South,retail,1
+PH0496,HealthPlus Pharmacy,Alexandria,North,retail,1
+PH0497,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0498,Prime Pharmacy,Alexandria,North,retail,0
+PH0499,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0500,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0501,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0502,Prime Pharmacy,Siwa,West,retail,1
+PH0503,Medico Pharmacy,Ismailia,East,retail,1
+PH0504,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0505,LifeCare Pharmacy,Giza,Central,retail,1
+PH0506,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0507,Medico Pharmacy,Suez,East,hospital,1
+PH0508,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH0509,HealthPlus Pharmacy,Ismailia,East,retail,1
+PH0510,El-Nour Pharmacy,Cairo,Central,hospital,1
+PH0511,Medico Pharmacy,Dubai,Gulf,retail,1
+PH0512,LifeCare Pharmacy,Dubai,Gulf,retail,1
+PH0513,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0514,El-Nour Pharmacy,Giza,Central,retail,1
+PH0515,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0516,Prime Pharmacy,Giza,Central,retail,1
+PH0517,HealthPlus Pharmacy,Asyut,South,retail,0
+PH0518,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0519,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0520,Prime Pharmacy,Qena,South,hospital,1
+PH0521,Prime Pharmacy,Damanhur,North,hospital,0
+PH0522,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0523,El-Nour Pharmacy,Dubai,Gulf,retail,1
+PH0524,El-Nour Pharmacy,Siwa,West,hospital,1
+PH0525,Prime Pharmacy,Alexandria,North,hospital,1
+PH0526,El-Nour Pharmacy,Siwa,West,retail,1
+PH0527,El-Nour Pharmacy,Port Said,East,retail,1
+PH0528,HealthPlus Pharmacy,Ismailia,East,retail,0
+PH0529,Al-Shifa Pharmacy,Riyadh,Gulf,retail,0
+PH0530,Medico Pharmacy,Qena,South,retail,1
+PH0531,Prime Pharmacy,Giza,Central,retail,1
+PH0532,Prime Pharmacy,Jeddah,Gulf,hospital,1
+PH0533,El-Nour Pharmacy,Alexandria,North,retail,1
+PH0534,Al-Shifa Pharmacy,Giza,Central,retail,0
+PH0535,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0536,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0537,LifeCare Pharmacy,Damanhur,North,retail,1
+PH0538,Prime Pharmacy,Tanta,North,hospital,1
+PH0539,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0540,Al-Shifa Pharmacy,Tanta,North,retail,1
+PH0541,HealthPlus Pharmacy,Alexandria,North,retail,1
+PH0542,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0543,El-Nour Pharmacy,Giza,Central,retail,1
+PH0544,HealthPlus Pharmacy,Marsa Matruh,West,hospital,1
+PH0545,Prime Pharmacy,Qena,South,retail,1
+PH0546,Medico Pharmacy,Sohag,South,retail,1
+PH0547,Al-Shifa Pharmacy,Sohag,South,retail,1
+PH0548,LifeCare Pharmacy,Tanta,North,retail,1
+PH0549,LifeCare Pharmacy,Marsa Matruh,West,retail,1
+PH0550,Medico Pharmacy,Siwa,West,hospital,1
+PH0551,Prime Pharmacy,Suez,East,hospital,1
+PH0552,Prime Pharmacy,Sohag,South,retail,1
+PH0553,Al-Shifa Pharmacy,Ismailia,East,retail,0
+PH0554,HealthPlus Pharmacy,Jeddah,Gulf,hospital,1
+PH0555,Medico Pharmacy,Suez,East,retail,1
+PH0556,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0557,Medico Pharmacy,Cairo,Central,hospital,0
+PH0558,Prime Pharmacy,Sohag,South,retail,1
+PH0559,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0560,Medico Pharmacy,Dubai,Gulf,retail,1
+PH0561,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0562,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0563,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0564,El-Nour Pharmacy,Ismailia,East,retail,1
+PH0565,Al-Shifa Pharmacy,Jeddah,Gulf,hospital,1
+PH0566,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0567,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0568,Prime Pharmacy,Siwa,West,retail,1
+PH0569,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0570,El-Nour Pharmacy,Suez,East,retail,0
+PH0571,Al-Shifa Pharmacy,Dubai,Gulf,retail,1
+PH0572,Medico Pharmacy,Qena,South,retail,1
+PH0573,El-Nour Pharmacy,Jeddah,Gulf,retail,1
+PH0574,Al-Shifa Pharmacy,Dubai,Gulf,retail,1
+PH0575,Prime Pharmacy,Dubai,Gulf,retail,0
+PH0576,HealthPlus Pharmacy,Qena,South,retail,1
+PH0577,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0578,El-Nour Pharmacy,Jeddah,Gulf,retail,1
+PH0579,Medico Pharmacy,Sohag,South,retail,1
+PH0580,Prime Pharmacy,Asyut,South,hospital,1
+PH0581,HealthPlus Pharmacy,Damanhur,North,retail,1
+PH0582,Al-Shifa Pharmacy,Ismailia,East,retail,1
+PH0583,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0584,Medico Pharmacy,Tanta,North,retail,1
+PH0585,HealthPlus Pharmacy,Jeddah,Gulf,retail,1
+PH0586,LifeCare Pharmacy,Dubai,Gulf,retail,1
+PH0587,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0588,Medico Pharmacy,Cairo,Central,retail,1
+PH0589,Prime Pharmacy,Jeddah,Gulf,hospital,1
+PH0590,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0591,Al-Shifa Pharmacy,Suez,East,hospital,1
+PH0592,Medico Pharmacy,Marsa Matruh,West,hospital,1
+PH0593,Medico Pharmacy,Giza,Central,retail,1
+PH0594,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0595,LifeCare Pharmacy,Sohag,South,retail,1
+PH0596,Medico Pharmacy,Sohag,South,retail,1
+PH0597,HealthPlus Pharmacy,Damanhur,North,hospital,1
+PH0598,El-Nour Pharmacy,Port Said,East,hospital,1
+PH0599,El-Nour Pharmacy,Marsa Matruh,West,retail,0
+PH0600,El-Nour Pharmacy,Dubai,Gulf,retail,1
+PH0601,El-Nour Pharmacy,Ismailia,East,hospital,1
+PH0602,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0603,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH0604,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0605,Al-Shifa Pharmacy,Port Said,East,hospital,1
+PH0606,HealthPlus Pharmacy,Suez,East,hospital,1
+PH0607,Medico Pharmacy,Dubai,Gulf,hospital,1
+PH0608,LifeCare Pharmacy,Port Said,East,retail,1
+PH0609,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0610,Prime Pharmacy,Qena,South,retail,1
+PH0611,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0612,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0613,Prime Pharmacy,Siwa,West,retail,1
+PH0614,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0615,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH0616,HealthPlus Pharmacy,Port Said,East,hospital,1
+PH0617,El-Nour Pharmacy,Port Said,East,retail,1
+PH0618,LifeCare Pharmacy,Marsa Matruh,West,retail,1
+PH0619,Prime Pharmacy,Tanta,North,hospital,1
+PH0620,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0621,Prime Pharmacy,Suez,East,hospital,1
+PH0622,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH0623,Prime Pharmacy,Sohag,South,retail,1
+PH0624,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0625,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0626,Medico Pharmacy,Tanta,North,retail,1
+PH0627,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0628,LifeCare Pharmacy,Suez,East,retail,1
+PH0629,HealthPlus Pharmacy,Dubai,Gulf,retail,1
+PH0630,Prime Pharmacy,Dubai,Gulf,retail,1
+PH0631,HealthPlus Pharmacy,Dubai,Gulf,retail,0
+PH0632,LifeCare Pharmacy,Asyut,South,hospital,0
+PH0633,Medico Pharmacy,Giza,Central,retail,1
+PH0634,El-Nour Pharmacy,Asyut,South,retail,1
+PH0635,Prime Pharmacy,Giza,Central,retail,1
+PH0636,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH0637,El-Nour Pharmacy,Riyadh,Gulf,hospital,1
+PH0638,LifeCare Pharmacy,Sohag,South,retail,1
+PH0639,El-Nour Pharmacy,Cairo,Central,hospital,1
+PH0640,HealthPlus Pharmacy,Ismailia,East,retail,1
+PH0641,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0642,El-Nour Pharmacy,Alexandria,North,hospital,1
+PH0643,HealthPlus Pharmacy,Siwa,West,hospital,1
+PH0644,HealthPlus Pharmacy,Siwa,West,retail,1
+PH0645,El-Nour Pharmacy,Sohag,South,retail,1
+PH0646,Medico Pharmacy,Asyut,South,retail,1
+PH0647,Al-Shifa Pharmacy,Jeddah,Gulf,retail,1
+PH0648,El-Nour Pharmacy,Dubai,Gulf,hospital,1
+PH0649,El-Nour Pharmacy,Tanta,North,retail,1
+PH0650,El-Nour Pharmacy,Jeddah,Gulf,retail,1
+PH0651,Medico Pharmacy,Qena,South,hospital,1
+PH0652,LifeCare Pharmacy,Giza,Central,retail,1
+PH0653,El-Nour Pharmacy,Port Said,East,retail,0
+PH0654,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0655,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0656,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH0657,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0658,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0659,El-Nour Pharmacy,Asyut,South,retail,0
+PH0660,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH0661,El-Nour Pharmacy,Siwa,West,retail,1
+PH0662,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0663,El-Nour Pharmacy,Cairo,Central,hospital,0
+PH0664,HealthPlus Pharmacy,Suez,East,retail,1
+PH0665,Al-Shifa Pharmacy,Ismailia,East,retail,1
+PH0666,Medico Pharmacy,Sohag,South,hospital,1
+PH0667,LifeCare Pharmacy,Qena,South,retail,0
+PH0668,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0669,El-Nour Pharmacy,Dubai,Gulf,hospital,0
+PH0670,HealthPlus Pharmacy,Siwa,West,hospital,1
+PH0671,LifeCare Pharmacy,Siwa,West,retail,0
+PH0672,HealthPlus Pharmacy,Alexandria,North,retail,0
+PH0673,El-Nour Pharmacy,Suez,East,retail,0
+PH0674,Medico Pharmacy,Cairo,Central,retail,1
+PH0675,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0676,Medico Pharmacy,Suez,East,retail,0
+PH0677,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0678,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0679,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH0680,LifeCare Pharmacy,Giza,Central,retail,0
+PH0681,El-Nour Pharmacy,Siwa,West,retail,1
+PH0682,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0683,Prime Pharmacy,Sohag,South,retail,1
+PH0684,Prime Pharmacy,Suez,East,retail,1
+PH0685,Medico Pharmacy,Asyut,South,retail,0
+PH0686,El-Nour Pharmacy,Cairo,Central,hospital,1
+PH0687,LifeCare Pharmacy,Asyut,South,retail,1
+PH0688,Prime Pharmacy,Siwa,West,retail,1
+PH0689,El-Nour Pharmacy,Giza,Central,retail,0
+PH0690,Medico Pharmacy,Alexandria,North,hospital,0
+PH0691,Medico Pharmacy,Tanta,North,retail,1
+PH0692,Medico Pharmacy,Giza,Central,retail,1
+PH0693,LifeCare Pharmacy,Siwa,West,hospital,1
+PH0694,LifeCare Pharmacy,Suez,East,retail,1
+PH0695,Medico Pharmacy,Cairo,Central,retail,1
+PH0696,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0697,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0698,Prime Pharmacy,Cairo,Central,retail,0
+PH0699,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0700,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0701,Medico Pharmacy,Tanta,North,retail,1
+PH0702,El-Nour Pharmacy,Cairo,Central,retail,0
+PH0703,Prime Pharmacy,Sohag,South,retail,1
+PH0704,Medico Pharmacy,Qena,South,retail,1
+PH0705,Al-Shifa Pharmacy,Asyut,South,hospital,1
+PH0706,El-Nour Pharmacy,Riyadh,Gulf,retail,0
+PH0707,HealthPlus Pharmacy,Port Said,East,hospital,1
+PH0708,El-Nour Pharmacy,Siwa,West,retail,1
+PH0709,HealthPlus Pharmacy,Qena,South,retail,1
+PH0710,LifeCare Pharmacy,Port Said,East,retail,1
+PH0711,LifeCare Pharmacy,Sohag,South,retail,1
+PH0712,Al-Shifa Pharmacy,Asyut,South,hospital,1
+PH0713,Medico Pharmacy,Port Said,East,retail,0
+PH0714,LifeCare Pharmacy,Suez,East,retail,1
+PH0715,LifeCare Pharmacy,Siwa,West,retail,1
+PH0716,HealthPlus Pharmacy,Giza,Central,hospital,1
+PH0717,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0718,HealthPlus Pharmacy,Dubai,Gulf,retail,0
+PH0719,Al-Shifa Pharmacy,Cairo,Central,hospital,1
+PH0720,El-Nour Pharmacy,Cairo,Central,hospital,1
+PH0721,LifeCare Pharmacy,Sohag,South,retail,1
+PH0722,El-Nour Pharmacy,Ismailia,East,hospital,1
+PH0723,Al-Shifa Pharmacy,Jeddah,Gulf,retail,1
+PH0724,El-Nour Pharmacy,Ismailia,East,retail,1
+PH0725,Medico Pharmacy,Damanhur,North,retail,1
+PH0726,Medico Pharmacy,Marsa Matruh,West,hospital,0
+PH0727,Medico Pharmacy,Port Said,East,hospital,1
+PH0728,El-Nour Pharmacy,Cairo,Central,hospital,1
+PH0729,Al-Shifa Pharmacy,Tanta,North,hospital,1
+PH0730,Medico Pharmacy,Tanta,North,retail,1
+PH0731,El-Nour Pharmacy,Damanhur,North,retail,0
+PH0732,Medico Pharmacy,Giza,Central,hospital,1
+PH0733,LifeCare Pharmacy,Qena,South,retail,0
+PH0734,Medico Pharmacy,Ismailia,East,retail,0
+PH0735,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0736,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0737,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH0738,Medico Pharmacy,Port Said,East,retail,1
+PH0739,Al-Shifa Pharmacy,Alexandria,North,hospital,1
+PH0740,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0741,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH0742,Medico Pharmacy,Suez,East,retail,1
+PH0743,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0744,El-Nour Pharmacy,Qena,South,retail,1
+PH0745,HealthPlus Pharmacy,Giza,Central,retail,0
+PH0746,Medico Pharmacy,Tanta,North,hospital,1
+PH0747,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH0748,Prime Pharmacy,Tanta,North,retail,0
+PH0749,Medico Pharmacy,Cairo,Central,retail,1
+PH0750,LifeCare Pharmacy,Asyut,South,retail,1
+PH0751,Prime Pharmacy,Damanhur,North,retail,1
+PH0752,Prime Pharmacy,Giza,Central,hospital,1
+PH0753,Medico Pharmacy,Alexandria,North,retail,1
+PH0754,El-Nour Pharmacy,Port Said,East,hospital,1
+PH0755,LifeCare Pharmacy,Giza,Central,retail,1
+PH0756,HealthPlus Pharmacy,Cairo,Central,hospital,0
+PH0757,Medico Pharmacy,Port Said,East,retail,0
+PH0758,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH0759,HealthPlus Pharmacy,Suez,East,retail,1
+PH0760,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0761,Al-Shifa Pharmacy,Damanhur,North,hospital,1
+PH0762,Al-Shifa Pharmacy,Tanta,North,retail,1
+PH0763,LifeCare Pharmacy,Marsa Matruh,West,retail,0
+PH0764,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0765,LifeCare Pharmacy,Marsa Matruh,West,hospital,1
+PH0766,Al-Shifa Pharmacy,Siwa,West,hospital,1
+PH0767,Prime Pharmacy,Cairo,Central,retail,1
+PH0768,El-Nour Pharmacy,Qena,South,retail,1
+PH0769,Medico Pharmacy,Asyut,South,retail,1
+PH0770,Al-Shifa Pharmacy,Port Said,East,hospital,1
+PH0771,El-Nour Pharmacy,Giza,Central,retail,1
+PH0772,Medico Pharmacy,Sohag,South,retail,1
+PH0773,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0774,Medico Pharmacy,Dubai,Gulf,retail,1
+PH0775,Prime Pharmacy,Cairo,Central,retail,1
+PH0776,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0777,LifeCare Pharmacy,Dubai,Gulf,retail,1
+PH0778,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH0779,Prime Pharmacy,Port Said,East,retail,0
+PH0780,LifeCare Pharmacy,Siwa,West,retail,1
+PH0781,Medico Pharmacy,Jeddah,Gulf,retail,1
+PH0782,Al-Shifa Pharmacy,Damanhur,North,retail,0
+PH0783,El-Nour Pharmacy,Giza,Central,retail,1
+PH0784,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0785,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH0786,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0787,El-Nour Pharmacy,Port Said,East,retail,1
+PH0788,Medico Pharmacy,Suez,East,retail,0
+PH0789,HealthPlus Pharmacy,Damanhur,North,hospital,1
+PH0790,Prime Pharmacy,Port Said,East,retail,1
+PH0791,LifeCare Pharmacy,Siwa,West,hospital,1
+PH0792,Medico Pharmacy,Cairo,Central,retail,1
+PH0793,LifeCare Pharmacy,Port Said,East,hospital,1
+PH0794,Al-Shifa Pharmacy,Port Said,East,retail,1
+PH0795,Al-Shifa Pharmacy,Suez,East,retail,1
+PH0796,El-Nour Pharmacy,Giza,Central,retail,1
+PH0797,HealthPlus Pharmacy,Jeddah,Gulf,retail,1
+PH0798,Prime Pharmacy,Qena,South,retail,1
+PH0799,LifeCare Pharmacy,Suez,East,retail,1
+PH0800,HealthPlus Pharmacy,Sohag,South,hospital,1
+PH0801,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0802,LifeCare Pharmacy,Tanta,North,retail,1
+PH0803,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0804,Medico Pharmacy,Qena,South,hospital,1
+PH0805,Prime Pharmacy,Alexandria,North,retail,1
+PH0806,El-Nour Pharmacy,Siwa,West,retail,1
+PH0807,Al-Shifa Pharmacy,Riyadh,Gulf,hospital,0
+PH0808,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0809,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH0810,Al-Shifa Pharmacy,Tanta,North,retail,1
+PH0811,Medico Pharmacy,Tanta,North,retail,0
+PH0812,Prime Pharmacy,Giza,Central,hospital,1
+PH0813,LifeCare Pharmacy,Suez,East,retail,1
+PH0814,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH0815,HealthPlus Pharmacy,Qena,South,retail,1
+PH0816,El-Nour Pharmacy,Port Said,East,retail,1
+PH0817,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH0818,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0819,El-Nour Pharmacy,Tanta,North,retail,1
+PH0820,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0821,Prime Pharmacy,Suez,East,retail,1
+PH0822,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0823,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0824,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH0825,LifeCare Pharmacy,Port Said,East,retail,1
+PH0826,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0827,El-Nour Pharmacy,Alexandria,North,hospital,1
+PH0828,El-Nour Pharmacy,Riyadh,Gulf,hospital,1
+PH0829,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0830,El-Nour Pharmacy,Siwa,West,retail,1
+PH0831,Al-Shifa Pharmacy,Asyut,South,hospital,1
+PH0832,El-Nour Pharmacy,Suez,East,hospital,1
+PH0833,Prime Pharmacy,Alexandria,North,retail,1
+PH0834,HealthPlus Pharmacy,Suez,East,retail,0
+PH0835,Al-Shifa Pharmacy,Dubai,Gulf,retail,1
+PH0836,Al-Shifa Pharmacy,Siwa,West,hospital,0
+PH0837,Prime Pharmacy,Riyadh,Gulf,hospital,1
+PH0838,Prime Pharmacy,Asyut,South,retail,1
+PH0839,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0840,Medico Pharmacy,Giza,Central,hospital,1
+PH0841,Prime Pharmacy,Cairo,Central,hospital,1
+PH0842,El-Nour Pharmacy,Sohag,South,hospital,0
+PH0843,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0844,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0845,Prime Pharmacy,Cairo,Central,hospital,0
+PH0846,Prime Pharmacy,Cairo,Central,retail,1
+PH0847,Medico Pharmacy,Port Said,East,retail,1
+PH0848,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0849,El-Nour Pharmacy,Siwa,West,hospital,1
+PH0850,Al-Shifa Pharmacy,Ismailia,East,retail,1
+PH0851,Medico Pharmacy,Qena,South,hospital,1
+PH0852,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0853,Medico Pharmacy,Siwa,West,retail,1
+PH0854,El-Nour Pharmacy,Alexandria,North,retail,1
+PH0855,HealthPlus Pharmacy,Alexandria,North,retail,1
+PH0856,Medico Pharmacy,Cairo,Central,hospital,1
+PH0857,Medico Pharmacy,Ismailia,East,retail,1
+PH0858,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH0859,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0860,Al-Shifa Pharmacy,Port Said,East,retail,0
+PH0861,LifeCare Pharmacy,Port Said,East,retail,1
+PH0862,El-Nour Pharmacy,Jeddah,Gulf,retail,1
+PH0863,Medico Pharmacy,Asyut,South,retail,1
+PH0864,Medico Pharmacy,Qena,South,retail,1
+PH0865,Medico Pharmacy,Jeddah,Gulf,retail,1
+PH0866,El-Nour Pharmacy,Cairo,Central,retail,0
+PH0867,HealthPlus Pharmacy,Damanhur,North,retail,0
+PH0868,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0869,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0870,Medico Pharmacy,Port Said,East,hospital,0
+PH0871,Al-Shifa Pharmacy,Dubai,Gulf,hospital,1
+PH0872,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0873,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0874,HealthPlus Pharmacy,Port Said,East,retail,1
+PH0875,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH0876,Prime Pharmacy,Dubai,Gulf,hospital,0
+PH0877,Prime Pharmacy,Qena,South,retail,1
+PH0878,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0879,Prime Pharmacy,Jeddah,Gulf,hospital,1
+PH0880,Medico Pharmacy,Giza,Central,hospital,1
+PH0881,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0882,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0883,El-Nour Pharmacy,Riyadh,Gulf,retail,1
+PH0884,El-Nour Pharmacy,Ismailia,East,retail,1
+PH0885,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0886,Medico Pharmacy,Qena,South,retail,1
+PH0887,El-Nour Pharmacy,Riyadh,Gulf,hospital,1
+PH0888,Prime Pharmacy,Siwa,West,retail,0
+PH0889,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH0890,Prime Pharmacy,Marsa Matruh,West,retail,0
+PH0891,HealthPlus Pharmacy,Port Said,East,retail,1
+PH0892,LifeCare Pharmacy,Dubai,Gulf,hospital,1
+PH0893,Prime Pharmacy,Alexandria,North,retail,0
+PH0894,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0895,El-Nour Pharmacy,Qena,South,retail,1
+PH0896,Al-Shifa Pharmacy,Dubai,Gulf,retail,1
+PH0897,Al-Shifa Pharmacy,Jeddah,Gulf,retail,1
+PH0898,Prime Pharmacy,Giza,Central,retail,1
+PH0899,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0900,LifeCare Pharmacy,Giza,Central,hospital,1
+PH0901,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0902,Prime Pharmacy,Giza,Central,retail,0
+PH0903,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH0904,Prime Pharmacy,Cairo,Central,hospital,0
+PH0905,HealthPlus Pharmacy,Marsa Matruh,West,retail,1
+PH0906,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH0907,Al-Shifa Pharmacy,Giza,Central,hospital,1
+PH0908,El-Nour Pharmacy,Sohag,South,retail,1
+PH0909,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0910,El-Nour Pharmacy,Qena,South,retail,1
+PH0911,Prime Pharmacy,Jeddah,Gulf,hospital,1
+PH0912,El-Nour Pharmacy,Damanhur,North,retail,1
+PH0913,El-Nour Pharmacy,Ismailia,East,retail,1
+PH0914,LifeCare Pharmacy,Port Said,East,hospital,1
+PH0915,Medico Pharmacy,Siwa,West,retail,1
+PH0916,HealthPlus Pharmacy,Tanta,North,retail,1
+PH0917,Prime Pharmacy,Jeddah,Gulf,retail,1
+PH0918,HealthPlus Pharmacy,Dubai,Gulf,retail,1
+PH0919,Al-Shifa Pharmacy,Riyadh,Gulf,hospital,1
+PH0920,Prime Pharmacy,Siwa,West,retail,1
+PH0921,Prime Pharmacy,Qena,South,retail,1
+PH0922,LifeCare Pharmacy,Giza,Central,retail,0
+PH0923,El-Nour Pharmacy,Jeddah,Gulf,retail,1
+PH0924,El-Nour Pharmacy,Cairo,Central,retail,1
+PH0925,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0926,Prime Pharmacy,Riyadh,Gulf,hospital,1
+PH0927,HealthPlus Pharmacy,Asyut,South,hospital,1
+PH0928,HealthPlus Pharmacy,Asyut,South,hospital,1
+PH0929,El-Nour Pharmacy,Giza,Central,retail,1
+PH0930,Prime Pharmacy,Tanta,North,retail,1
+PH0931,Prime Pharmacy,Suez,East,retail,1
+PH0932,LifeCare Pharmacy,Port Said,East,retail,1
+PH0933,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH0934,Al-Shifa Pharmacy,Qena,South,hospital,1
+PH0935,LifeCare Pharmacy,Asyut,South,retail,1
+PH0936,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH0937,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH0938,LifeCare Pharmacy,Suez,East,retail,1
+PH0939,LifeCare Pharmacy,Tanta,North,hospital,1
+PH0940,Prime Pharmacy,Sohag,South,retail,1
+PH0941,Prime Pharmacy,Alexandria,North,retail,1
+PH0942,LifeCare Pharmacy,Giza,Central,hospital,1
+PH0943,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0944,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0945,HealthPlus Pharmacy,Ismailia,East,retail,1
+PH0946,LifeCare Pharmacy,Port Said,East,hospital,1
+PH0947,LifeCare Pharmacy,Cairo,Central,retail,1
+PH0948,Prime Pharmacy,Qena,South,hospital,0
+PH0949,Al-Shifa Pharmacy,Qena,South,retail,1
+PH0950,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH0951,Al-Shifa Pharmacy,Dubai,Gulf,retail,1
+PH0952,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH0953,Al-Shifa Pharmacy,Jeddah,Gulf,hospital,1
+PH0954,LifeCare Pharmacy,Port Said,East,retail,1
+PH0955,El-Nour Pharmacy,Siwa,West,retail,1
+PH0956,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH0957,HealthPlus Pharmacy,Suez,East,retail,1
+PH0958,El-Nour Pharmacy,Sohag,South,retail,1
+PH0959,LifeCare Pharmacy,Ismailia,East,retail,1
+PH0960,Medico Pharmacy,Dubai,Gulf,hospital,1
+PH0961,Medico Pharmacy,Dubai,Gulf,retail,1
+PH0962,Medico Pharmacy,Cairo,Central,retail,1
+PH0963,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0964,LifeCare Pharmacy,Cairo,Central,retail,0
+PH0965,Medico Pharmacy,Ismailia,East,retail,1
+PH0966,Prime Pharmacy,Cairo,Central,retail,1
+PH0967,HealthPlus Pharmacy,Ismailia,East,hospital,1
+PH0968,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH0969,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0970,Medico Pharmacy,Jeddah,Gulf,retail,1
+PH0971,LifeCare Pharmacy,Alexandria,North,retail,1
+PH0972,HealthPlus Pharmacy,Qena,South,retail,1
+PH0973,Medico Pharmacy,Qena,South,hospital,1
+PH0974,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH0975,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH0976,Prime Pharmacy,Cairo,Central,retail,0
+PH0977,El-Nour Pharmacy,Giza,Central,retail,1
+PH0978,Medico Pharmacy,Marsa Matruh,West,hospital,0
+PH0979,Prime Pharmacy,Siwa,West,hospital,1
+PH0980,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH0981,HealthPlus Pharmacy,Asyut,South,retail,1
+PH0982,El-Nour Pharmacy,Asyut,South,retail,1
+PH0983,Prime Pharmacy,Damanhur,North,retail,1
+PH0984,LifeCare Pharmacy,Suez,East,retail,1
+PH0985,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0986,Prime Pharmacy,Port Said,East,retail,1
+PH0987,HealthPlus Pharmacy,Sohag,South,retail,1
+PH0988,Al-Shifa Pharmacy,Port Said,East,hospital,1
+PH0989,Medico Pharmacy,Giza,Central,retail,1
+PH0990,Medico Pharmacy,Dubai,Gulf,hospital,1
+PH0991,Medico Pharmacy,Asyut,South,hospital,1
+PH0992,Prime Pharmacy,Cairo,Central,retail,1
+PH0993,HealthPlus Pharmacy,Alexandria,North,retail,1
+PH0994,El-Nour Pharmacy,Tanta,North,retail,1
+PH0995,Medico Pharmacy,Riyadh,Gulf,retail,0
+PH0996,HealthPlus Pharmacy,Giza,Central,retail,1
+PH0997,El-Nour Pharmacy,Qena,South,retail,1
+PH0998,El-Nour Pharmacy,Jeddah,Gulf,hospital,1
+PH0999,Prime Pharmacy,Cairo,Central,retail,1
+PH1000,LifeCare Pharmacy,Qena,South,retail,1
+PH1001,Medico Pharmacy,Suez,East,retail,1
+PH1002,Prime Pharmacy,Qena,South,retail,1
+PH1003,HealthPlus Pharmacy,Damanhur,North,hospital,1
+PH1004,Al-Shifa Pharmacy,Suez,East,retail,0
+PH1005,HealthPlus Pharmacy,Sohag,South,retail,0
+PH1006,HealthPlus Pharmacy,Sohag,South,retail,1
+PH1007,HealthPlus Pharmacy,Suez,East,hospital,0
+PH1008,Medico Pharmacy,Giza,Central,retail,1
+PH1009,Medico Pharmacy,Sohag,South,retail,0
+PH1010,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH1011,LifeCare Pharmacy,Dubai,Gulf,hospital,1
+PH1012,El-Nour Pharmacy,Siwa,West,retail,1
+PH1013,Medico Pharmacy,Ismailia,East,retail,1
+PH1014,LifeCare Pharmacy,Ismailia,East,retail,1
+PH1015,Al-Shifa Pharmacy,Ismailia,East,retail,0
+PH1016,LifeCare Pharmacy,Jeddah,Gulf,retail,0
+PH1017,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH1018,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH1019,Prime Pharmacy,Alexandria,North,hospital,0
+PH1020,HealthPlus Pharmacy,Marsa Matruh,West,hospital,1
+PH1021,Medico Pharmacy,Siwa,West,hospital,1
+PH1022,HealthPlus Pharmacy,Giza,Central,retail,1
+PH1023,HealthPlus Pharmacy,Qena,South,hospital,1
+PH1024,Medico Pharmacy,Marsa Matruh,West,hospital,1
+PH1025,Prime Pharmacy,Sohag,South,retail,0
+PH1026,Prime Pharmacy,Port Said,East,retail,1
+PH1027,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH1028,Al-Shifa Pharmacy,Qena,South,retail,1
+PH1029,Medico Pharmacy,Giza,Central,retail,1
+PH1030,Medico Pharmacy,Siwa,West,retail,1
+PH1031,HealthPlus Pharmacy,Qena,South,retail,1
+PH1032,LifeCare Pharmacy,Damanhur,North,retail,1
+PH1033,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH1034,LifeCare Pharmacy,Alexandria,North,hospital,1
+PH1035,Al-Shifa Pharmacy,Jeddah,Gulf,hospital,1
+PH1036,HealthPlus Pharmacy,Suez,East,retail,1
+PH1037,LifeCare Pharmacy,Damanhur,North,hospital,1
+PH1038,Al-Shifa Pharmacy,Marsa Matruh,West,retail,1
+PH1039,Al-Shifa Pharmacy,Port Said,East,retail,1
+PH1040,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH1041,Prime Pharmacy,Qena,South,retail,1
+PH1042,HealthPlus Pharmacy,Suez,East,retail,1
+PH1043,Medico Pharmacy,Riyadh,Gulf,retail,0
+PH1044,Prime Pharmacy,Marsa Matruh,West,hospital,1
+PH1045,HealthPlus Pharmacy,Suez,East,retail,1
+PH1046,LifeCare Pharmacy,Alexandria,North,retail,1
+PH1047,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH1048,Al-Shifa Pharmacy,Suez,East,retail,1
+PH1049,LifeCare Pharmacy,Giza,Central,hospital,1
+PH1050,Al-Shifa Pharmacy,Qena,South,hospital,1
+PH1051,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH1052,Medico Pharmacy,Alexandria,North,retail,0
+PH1053,El-Nour Pharmacy,Tanta,North,retail,1
+PH1054,Medico Pharmacy,Cairo,Central,retail,1
+PH1055,Prime Pharmacy,Qena,South,retail,1
+PH1056,Prime Pharmacy,Cairo,Central,retail,1
+PH1057,HealthPlus Pharmacy,Suez,East,hospital,1
+PH1058,Prime Pharmacy,Giza,Central,retail,1
+PH1059,Prime Pharmacy,Giza,Central,hospital,1
+PH1060,Medico Pharmacy,Siwa,West,retail,0
+PH1061,Medico Pharmacy,Tanta,North,retail,1
+PH1062,LifeCare Pharmacy,Ismailia,East,retail,1
+PH1063,Medico Pharmacy,Marsa Matruh,West,hospital,1
+PH1064,Medico Pharmacy,Siwa,West,hospital,1
+PH1065,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH1066,LifeCare Pharmacy,Siwa,West,retail,1
+PH1067,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH1068,HealthPlus Pharmacy,Marsa Matruh,West,hospital,1
+PH1069,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH1070,El-Nour Pharmacy,Suez,East,retail,1
+PH1071,HealthPlus Pharmacy,Ismailia,East,retail,1
+PH1072,Al-Shifa Pharmacy,Jeddah,Gulf,retail,1
+PH1073,El-Nour Pharmacy,Damanhur,North,retail,1
+PH1074,El-Nour Pharmacy,Qena,South,retail,1
+PH1075,Al-Shifa Pharmacy,Asyut,South,retail,1
+PH1076,El-Nour Pharmacy,Siwa,West,retail,1
+PH1077,Medico Pharmacy,Asyut,South,retail,1
+PH1078,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH1079,Prime Pharmacy,Alexandria,North,retail,0
+PH1080,El-Nour Pharmacy,Marsa Matruh,West,retail,1
+PH1081,LifeCare Pharmacy,Dubai,Gulf,retail,1
+PH1082,LifeCare Pharmacy,Riyadh,Gulf,retail,0
+PH1083,HealthPlus Pharmacy,Damanhur,North,retail,0
+PH1084,El-Nour Pharmacy,Siwa,West,hospital,1
+PH1085,Medico Pharmacy,Asyut,South,retail,1
+PH1086,Medico Pharmacy,Sohag,South,hospital,1
+PH1087,Prime Pharmacy,Alexandria,North,retail,1
+PH1088,El-Nour Pharmacy,Cairo,Central,retail,1
+PH1089,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH1090,Prime Pharmacy,Dubai,Gulf,retail,1
+PH1091,LifeCare Pharmacy,Cairo,Central,retail,1
+PH1092,Medico Pharmacy,Giza,Central,retail,1
+PH1093,Prime Pharmacy,Damanhur,North,retail,1
+PH1094,HealthPlus Pharmacy,Tanta,North,retail,1
+PH1095,LifeCare Pharmacy,Riyadh,Gulf,retail,1
+PH1096,HealthPlus Pharmacy,Port Said,East,hospital,1
+PH1097,LifeCare Pharmacy,Cairo,Central,retail,1
+PH1098,El-Nour Pharmacy,Port Said,East,hospital,1
+PH1099,El-Nour Pharmacy,Giza,Central,retail,1
+PH1100,Prime Pharmacy,Port Said,East,retail,1
+PH1101,Prime Pharmacy,Giza,Central,retail,1
+PH1102,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH1103,Prime Pharmacy,Ismailia,East,retail,1
+PH1104,LifeCare Pharmacy,Asyut,South,retail,1
+PH1105,Prime Pharmacy,Asyut,South,hospital,1
+PH1106,Prime Pharmacy,Riyadh,Gulf,retail,1
+PH1107,Prime Pharmacy,Tanta,North,retail,1
+PH1108,El-Nour Pharmacy,Qena,South,retail,1
+PH1109,Prime Pharmacy,Dubai,Gulf,hospital,1
+PH1110,El-Nour Pharmacy,Siwa,West,hospital,1
+PH1111,El-Nour Pharmacy,Port Said,East,hospital,1
+PH1112,El-Nour Pharmacy,Alexandria,North,retail,0
+PH1113,LifeCare Pharmacy,Qena,South,retail,1
+PH1114,LifeCare Pharmacy,Qena,South,retail,1
+PH1115,Prime Pharmacy,Giza,Central,retail,1
+PH1116,Medico Pharmacy,Riyadh,Gulf,hospital,1
+PH1117,HealthPlus Pharmacy,Asyut,South,retail,1
+PH1118,Medico Pharmacy,Qena,South,hospital,0
+PH1119,Al-Shifa Pharmacy,Port Said,East,hospital,0
+PH1120,Al-Shifa Pharmacy,Siwa,West,retail,1
+PH1121,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH1122,Medico Pharmacy,Suez,East,hospital,0
+PH1123,Al-Shifa Pharmacy,Damanhur,North,retail,1
+PH1124,Al-Shifa Pharmacy,Cairo,Central,retail,0
+PH1125,El-Nour Pharmacy,Asyut,South,hospital,1
+PH1126,HealthPlus Pharmacy,Riyadh,Gulf,retail,0
+PH1127,Medico Pharmacy,Cairo,Central,retail,1
+PH1128,HealthPlus Pharmacy,Sohag,South,retail,1
+PH1129,Medico Pharmacy,Suez,East,retail,1
+PH1130,Al-Shifa Pharmacy,Qena,South,hospital,1
+PH1131,Prime Pharmacy,Sohag,South,retail,1
+PH1132,El-Nour Pharmacy,Damanhur,North,retail,1
+PH1133,El-Nour Pharmacy,Giza,Central,hospital,1
+PH1134,Medico Pharmacy,Suez,East,retail,1
+PH1135,HealthPlus Pharmacy,Alexandria,North,hospital,1
+PH1136,Al-Shifa Pharmacy,Jeddah,Gulf,retail,1
+PH1137,Al-Shifa Pharmacy,Port Said,East,retail,1
+PH1138,Prime Pharmacy,Asyut,South,hospital,1
+PH1139,Al-Shifa Pharmacy,Marsa Matruh,West,hospital,1
+PH1140,Medico Pharmacy,Asyut,South,retail,1
+PH1141,El-Nour Pharmacy,Damanhur,North,retail,1
+PH1142,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH1143,LifeCare Pharmacy,Siwa,West,retail,1
+PH1144,El-Nour Pharmacy,Jeddah,Gulf,retail,1
+PH1145,HealthPlus Pharmacy,Siwa,West,retail,1
+PH1146,Al-Shifa Pharmacy,Riyadh,Gulf,retail,1
+PH1147,Al-Shifa Pharmacy,Port Said,East,retail,1
+PH1148,Medico Pharmacy,Port Said,East,retail,1
+PH1149,LifeCare Pharmacy,Marsa Matruh,West,retail,0
+PH1150,El-Nour Pharmacy,Ismailia,East,retail,1
+PH1151,LifeCare Pharmacy,Alexandria,North,hospital,0
+PH1152,El-Nour Pharmacy,Ismailia,East,retail,1
+PH1153,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH1154,Al-Shifa Pharmacy,Qena,South,retail,1
+PH1155,Prime Pharmacy,Cairo,Central,retail,1
+PH1156,El-Nour Pharmacy,Cairo,Central,retail,1
+PH1157,Medico Pharmacy,Jeddah,Gulf,retail,1
+PH1158,Al-Shifa Pharmacy,Alexandria,North,retail,1
+PH1159,El-Nour Pharmacy,Riyadh,Gulf,retail,1
+PH1160,Medico Pharmacy,Riyadh,Gulf,retail,1
+PH1161,Medico Pharmacy,Dubai,Gulf,hospital,0
+PH1162,HealthPlus Pharmacy,Cairo,Central,hospital,1
+PH1163,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH1164,El-Nour Pharmacy,Siwa,West,retail,1
+PH1165,LifeCare Pharmacy,Suez,East,hospital,1
+PH1166,Prime Pharmacy,Giza,Central,retail,1
+PH1167,Al-Shifa Pharmacy,Marsa Matruh,West,retail,0
+PH1168,El-Nour Pharmacy,Suez,East,retail,1
+PH1169,HealthPlus Pharmacy,Cairo,Central,retail,1
+PH1170,HealthPlus Pharmacy,Port Said,East,retail,1
+PH1171,Prime Pharmacy,Dubai,Gulf,hospital,1
+PH1172,HealthPlus Pharmacy,Sohag,South,hospital,1
+PH1173,HealthPlus Pharmacy,Marsa Matruh,West,hospital,1
+PH1174,Prime Pharmacy,Ismailia,East,retail,1
+PH1175,Al-Shifa Pharmacy,Ismailia,East,hospital,1
+PH1176,Prime Pharmacy,Siwa,West,hospital,1
+PH1177,LifeCare Pharmacy,Jeddah,Gulf,retail,1
+PH1178,HealthPlus Pharmacy,Asyut,South,retail,1
+PH1179,LifeCare Pharmacy,Cairo,Central,retail,1
+PH1180,Medico Pharmacy,Ismailia,East,retail,1
+PH1181,Al-Shifa Pharmacy,Giza,Central,retail,1
+PH1182,LifeCare Pharmacy,Siwa,West,retail,1
+PH1183,El-Nour Pharmacy,Tanta,North,hospital,1
+PH1184,LifeCare Pharmacy,Marsa Matruh,West,hospital,1
+PH1185,Medico Pharmacy,Alexandria,North,hospital,0
+PH1186,LifeCare Pharmacy,Siwa,West,retail,1
+PH1187,Medico Pharmacy,Damanhur,North,retail,1
+PH1188,Medico Pharmacy,Marsa Matruh,West,retail,1
+PH1189,Medico Pharmacy,Alexandria,North,hospital,1
+PH1190,Prime Pharmacy,Damanhur,North,hospital,1
+PH1191,Al-Shifa Pharmacy,Sohag,South,hospital,1
+PH1192,Al-Shifa Pharmacy,Suez,East,retail,1
+PH1193,LifeCare Pharmacy,Damanhur,North,retail,1
+PH1194,HealthPlus Pharmacy,Riyadh,Gulf,retail,1
+PH1195,Al-Shifa Pharmacy,Cairo,Central,retail,1
+PH1196,Prime Pharmacy,Sohag,South,hospital,1
+PH1197,Prime Pharmacy,Marsa Matruh,West,retail,1
+PH1198,El-Nour Pharmacy,Dubai,Gulf,retail,1
+PH1199,El-Nour Pharmacy,Riyadh,Gulf,retail,1
+PH1200,Medico Pharmacy,Marsa Matruh,West,retail,1

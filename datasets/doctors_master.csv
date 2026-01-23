@@ -1,0 +1,2001 @@
+doctor_id,doctor_name,specialty,clinic_name,city,region,tier,active_flag,last_updated
+D0001,Dr Omar El-Sayed,Cardiology,Elite Clinic,Dubai,Gulf,C,1,2023-05-23
+D0002,Dr Mohamed Hassan,Internal Medicine,Hope Clinic,Jeddah,Gulf,C,1,2023-04-06
+D0003,Dr Youssef Hassan,General Practice,Noor Clinic,Cairo,Central,B,1,2024-07-12
+D0004,Dr Khaled Mahmoud,Cardiology,Care Clinic,Giza,Central,C,1,2024-03-08
+D0005,Dr Khaled Mostafa,Internal Medicine,Shifa Clinic,Sohag,South,A,1,2025-05-17
+D0006,Dr Ahmed Mostafa,ENT,Shifa Clinic,Damanhur,North,C,0,2024-01-23
+D0007,Dr Omar Hassan,Neurology,Shifa Clinic,Jeddah,Gulf,C,1,2023-02-16
+D0008,Dr Khaled Hassan,Internal Medicine,Shifa Clinic,Alexandria,North,B,1,2025-05-04
+D0009,Dr Hassan Saad,Gastroenterology,Care Clinic,Ismailia,East,C,1,2023-03-15
+D0010,Dr Omar Mostafa,Pulmonology,Care Clinic,Cairo,Central,B,1,2024-10-17
+D0011,Dr Youssef Mahmoud,Cardiology,Life Clinic,Riyadh,Gulf,B,1,2023-11-20
+D0012,Dr Youssef Hassan,Neurology,Shifa Clinic,Qena,South,B,1,2024-10-20
+D0013,Dr Hassan Ali,General Practice,Shifa Clinic,Asyut,South,C,1,2024-03-14
+D0014,Dr Ahmed Hassan,General Practice,Elite Clinic,Asyut,South,B,1,2025-05-31
+D0015,Dr Youssef Mostafa,Pediatrics,Shifa Clinic,Qena,South,C,1,2024-09-02
+D0016,Dr Ali Saad,Internal Medicine,Shifa Clinic,Cairo,Central,C,1,2023-10-01
+D0017,Dr Omar Mahmoud,Pediatrics,Hope Clinic,Tanta,North,B,1,2025-01-09
+D0018,Dr Hassan Mostafa,Internal Medicine,Care Clinic,Qena,South,C,1,2024-10-16
+D0019,Dr Ahmed Mostafa,Pulmonology,Shifa Clinic,Sohag,South,C,1,2024-06-27
+D0020,Dr Ali Mahmoud,Internal Medicine,Care Clinic,Marsa Matruh,West,C,1,2025-05-01
+D0021,Dr Ali Mostafa,Internal Medicine,Care Clinic,Alexandria,North,A,1,2023-03-12
+D0022,Dr Ali Mostafa,ENT,Noor Clinic,Qena,South,C,1,2024-06-24
+D0023,Dr Omar Mahmoud,Endocrinology,Noor Clinic,Qena,South,C,1,2024-11-18
+D0024,Dr Hassan Mostafa,Internal Medicine,Care Clinic,Giza,Central,B,1,2023-01-22
+D0025,Dr Ahmed El-Sayed,Cardiology,Shifa Clinic,Cairo,Central,A,1,2023-08-23
+D0026,Dr Mohamed Saad,Endocrinology,Hope Clinic,Damanhur,North,B,1,2024-07-06
+D0027,Dr Ahmed El-Sayed,Endocrinology,Elite Clinic,Giza,Central,C,1,2023-07-14
+D0028,Dr Omar Saad,Pediatrics,Elite Clinic,Siwa,West,B,1,2023-02-25
+D0029,Dr Mohamed Hassan,Pediatrics,Care Clinic,Alexandria,North,C,1,2023-04-22
+D0030,Dr Ali El-Sayed,Pulmonology,Noor Clinic,Giza,Central,B,1,2023-09-13
+D0031,Dr Ahmed Hassan,Cardiology,Care Clinic,Cairo,Central,C,1,2023-01-16
+D0032,Dr Mohamed Ali,ENT,Life Clinic,Siwa,West,B,1,2023-03-02
+D0033,Dr Ali Mostafa,ENT,Elite Clinic,Siwa,West,B,1,2025-01-18
+D0034,Dr Hassan Saad,Pulmonology,Hope Clinic,Riyadh,Gulf,B,1,2023-03-01
+D0035,Dr Ali Mostafa,Neurology,Care Clinic,Damanhur,North,A,1,2024-05-29
+D0036,Dr Omar Hassan,Internal Medicine,Noor Clinic,Damanhur,North,C,1,2023-03-11
+D0037,Dr Youssef Saad,Endocrinology,Hope Clinic,Damanhur,North,C,1,2023-03-25
+D0038,Dr Khaled Ali,Gastroenterology,Care Clinic,Giza,Central,B,1,2023-09-02
+D0039,Dr Ahmed Ali,Gastroenterology,Hope Clinic,Jeddah,Gulf,B,0,2023-03-16
+D0040,Dr Khaled El-Sayed,Internal Medicine,Care Clinic,Cairo,Central,C,1,2023-05-16
+D0041,Dr Hassan Saad,Pulmonology,Hope Clinic,Suez,East,B,1,2023-11-06
+D0042,Dr Mohamed Mahmoud,General Practice,Life Clinic,Damanhur,North,B,1,2025-06-18
+D0043,Dr Omar Mahmoud,General Practice,Care Clinic,Damanhur,North,B,1,2023-08-04
+D0044,Dr Ahmed El-Sayed,Gastroenterology,Elite Clinic,Jeddah,Gulf,C,1,2025-05-16
+D0045,Dr Khaled Hassan,Cardiology,Elite Clinic,Siwa,West,A,1,2024-10-14
+D0046,Dr Mohamed Mostafa,General Practice,Life Clinic,Siwa,West,A,1,2024-12-08
+D0047,Dr Khaled El-Sayed,General Practice,Shifa Clinic,Port Said,East,A,1,2023-11-12
+D0048,Dr Ali Ali,Endocrinology,Hope Clinic,Qena,South,C,1,2024-07-27
+D0049,Dr Mohamed Ali,Endocrinology,Life Clinic,Dubai,Gulf,C,0,2025-04-10
+D0050,Dr Ali Saad,Neurology,Care Clinic,Qena,South,C,1,2024-11-16
+D0051,Dr Mohamed Hassan,Internal Medicine,Noor Clinic,Ismailia,East,B,1,2024-04-26
+D0052,Dr Khaled Mahmoud,Endocrinology,Life Clinic,Suez,East,B,1,2024-02-13
+D0053,Dr Khaled El-Sayed,General Practice,Life Clinic,Suez,East,B,0,2024-07-03
+D0054,Dr Omar Mahmoud,Gastroenterology,Noor Clinic,Ismailia,East,A,1,2023-12-20
+D0055,Dr Omar Ali,Pediatrics,Life Clinic,Cairo,Central,C,1,2023-02-15
+D0056,Dr Hassan Mahmoud,Neurology,Elite Clinic,Cairo,Central,B,0,2023-12-05
+D0057,Dr Youssef Saad,Gastroenterology,Shifa Clinic,Damanhur,North,C,1,2023-12-01
+D0058,Dr Omar Hassan,Endocrinology,Hope Clinic,Cairo,Central,B,0,2024-11-24
+D0059,Dr Mohamed Ali,Pediatrics,Hope Clinic,Giza,Central,C,1,2023-10-21
+D0060,Dr Youssef Saad,ENT,Care Clinic,Giza,Central,B,1,2024-06-07
+D0061,Dr Ahmed Hassan,Gastroenterology,Elite Clinic,Dubai,Gulf,C,1,2023-12-10
+D0062,Dr Hassan El-Sayed,Endocrinology,Noor Clinic,Ismailia,East,A,1,2024-05-01
+D0063,Dr Omar El-Sayed,Pediatrics,Life Clinic,Marsa Matruh,West,B,1,2024-11-02
+D0064,Dr Ahmed Mostafa,Pulmonology,Care Clinic,Marsa Matruh,West,C,1,2024-04-20
+D0065,Dr Hassan Mahmoud,Pulmonology,Noor Clinic,Tanta,North,C,1,2024-07-26
+D0066,Dr Youssef Ali,General Practice,Shifa Clinic,Giza,Central,B,1,2025-06-01
+D0067,Dr Mohamed Mahmoud,Gastroenterology,Noor Clinic,Qena,South,C,1,2024-10-03
+D0068,Dr Ahmed Hassan,Gastroenterology,Care Clinic,Damanhur,North,B,1,2024-07-07
+D0069,Dr Khaled Mostafa,Pulmonology,Noor Clinic,Sohag,South,C,1,2024-02-22
+D0070,Dr Hassan Saad,Endocrinology,Life Clinic,Marsa Matruh,West,C,1,2025-02-27
+D0071,Dr Youssef Ali,ENT,Hope Clinic,Giza,Central,A,1,2025-02-10
+D0072,Dr Mohamed Mahmoud,General Practice,Noor Clinic,Jeddah,Gulf,C,1,2024-05-14
+D0073,Dr Omar Hassan,Pediatrics,Noor Clinic,Marsa Matruh,West,B,1,2024-02-19
+D0074,Dr Omar El-Sayed,General Practice,Life Clinic,Qena,South,A,1,2024-07-31
+D0075,Dr Youssef Mahmoud,Pulmonology,Care Clinic,Riyadh,Gulf,C,1,2023-09-24
+D0076,Dr Ali Ali,Neurology,Shifa Clinic,Siwa,West,C,1,2025-02-09
+D0077,Dr Mohamed Saad,Cardiology,Life Clinic,Tanta,North,C,1,2023-12-25
+D0078,Dr Hassan Hassan,Cardiology,Care Clinic,Dubai,Gulf,C,1,2023-01-21
+D0079,Dr Khaled Mahmoud,Internal Medicine,Care Clinic,Sohag,South,C,1,2024-12-17
+D0080,Dr Khaled Mostafa,Pulmonology,Elite Clinic,Cairo,Central,C,1,2023-01-27
+D0081,Dr Mohamed El-Sayed,Endocrinology,Elite Clinic,Siwa,West,A,1,2024-10-04
+D0082,Dr Khaled Mostafa,Internal Medicine,Noor Clinic,Port Said,East,C,1,2023-02-12
+D0083,Dr Youssef Ali,Internal Medicine,Life Clinic,Riyadh,Gulf,C,1,2025-05-19
+D0084,Dr Hassan Saad,ENT,Shifa Clinic,Siwa,West,C,1,2025-01-21
+D0085,Dr Khaled Hassan,ENT,Life Clinic,Giza,Central,B,1,2023-10-02
+D0086,Dr Youssef Mahmoud,Endocrinology,Life Clinic,Suez,East,C,1,2024-11-15
+D0087,Dr Khaled Mahmoud,Pulmonology,Hope Clinic,Siwa,West,B,1,2023-09-22
+D0088,Dr Mohamed Saad,General Practice,Noor Clinic,Riyadh,Gulf,A,0,2023-03-29
+D0089,Dr Ahmed El-Sayed,ENT,Shifa Clinic,Marsa Matruh,West,C,1,2025-03-22
+D0090,Dr Hassan Mostafa,Endocrinology,Shifa Clinic,Sohag,South,B,1,2024-04-29
+D0091,Dr Mohamed El-Sayed,Neurology,Elite Clinic,Siwa,West,C,1,2023-09-15
+D0092,Dr Mohamed Hassan,Internal Medicine,Care Clinic,Sohag,South,C,0,2024-12-07
+D0093,Dr Hassan Mahmoud,Gastroenterology,Life Clinic,Riyadh,Gulf,C,0,2024-06-21
+D0094,Dr Hassan Hassan,Endocrinology,Shifa Clinic,Sohag,South,B,1,2024-12-26
+D0095,Dr Ali Ali,General Practice,Life Clinic,Alexandria,North,B,0,2024-10-15
+D0096,Dr Ahmed Mahmoud,Gastroenterology,Noor Clinic,Damanhur,North,B,1,2023-07-08
+D0097,Dr Ahmed Hassan,Pediatrics,Care Clinic,Alexandria,North,B,1,2024-12-03
+D0098,Dr Youssef Mostafa,Internal Medicine,Hope Clinic,Giza,Central,C,1,2025-02-21
+D0099,Dr Ali Mostafa,General Practice,Noor Clinic,Cairo,Central,B,0,2023-11-01
+D0100,Dr Mohamed Saad,Cardiology,Care Clinic,Port Said,East,C,1,2025-02-20
+D0101,Dr Mohamed El-Sayed,Internal Medicine,Noor Clinic,Port Said,East,B,1,2023-03-18
+D0102,Dr Omar Ali,Gastroenterology,Life Clinic,Siwa,West,A,1,2023-10-17
+D0103,Dr Ali Hassan,Gastroenterology,Noor Clinic,Dubai,Gulf,C,1,2024-11-08
+D0104,Dr Mohamed El-Sayed,Endocrinology,Life Clinic,Damanhur,North,C,0,2025-04-26
+D0105,Dr Omar Ali,Gastroenterology,Shifa Clinic,Sohag,South,B,1,2023-11-08
+D0106,Dr Omar Mahmoud,ENT,Hope Clinic,Giza,Central,A,1,2024-03-18
+D0107,Dr Hassan Mostafa,Internal Medicine,Life Clinic,Ismailia,East,B,1,2025-05-31
+D0108,Dr Omar Ali,Cardiology,Shifa Clinic,Riyadh,Gulf,C,1,2024-06-15
+D0109,Dr Youssef Mahmoud,Pediatrics,Noor Clinic,Qena,South,C,1,2023-04-04
+D0110,Dr Youssef Mahmoud,Internal Medicine,Elite Clinic,Suez,East,C,1,2024-12-11
+D0111,Dr Ali Ali,ENT,Hope Clinic,Marsa Matruh,West,A,1,2023-04-29
+D0112,Dr Khaled Mostafa,General Practice,Noor Clinic,Damanhur,North,B,1,2024-06-14
+D0113,Dr Youssef Saad,Cardiology,Noor Clinic,Riyadh,Gulf,B,1,2023-10-22
+D0114,Dr Hassan Ali,Endocrinology,Life Clinic,Alexandria,North,C,1,2023-01-15
+D0115,Dr Youssef Saad,ENT,Shifa Clinic,Asyut,South,C,1,2023-06-07
+D0116,Dr Youssef Mostafa,Pediatrics,Care Clinic,Giza,Central,C,0,2023-09-07
+D0117,Dr Khaled Ali,General Practice,Shifa Clinic,Marsa Matruh,West,C,1,2023-03-13
+D0118,Dr Hassan Saad,Cardiology,Noor Clinic,Giza,Central,B,1,2024-08-24
+D0119,Dr Hassan Ali,General Practice,Noor Clinic,Sohag,South,B,1,2025-02-20
+D0120,Dr Youssef El-Sayed,Endocrinology,Shifa Clinic,Ismailia,East,C,1,2025-03-05
+D0121,Dr Omar Hassan,Pediatrics,Noor Clinic,Riyadh,Gulf,B,1,2025-04-20
+D0122,Dr Ali Ali,General Practice,Life Clinic,Alexandria,North,C,1,2023-04-13
+D0123,Dr Mohamed El-Sayed,Cardiology,Noor Clinic,Giza,Central,C,1,2024-11-01
+D0124,Dr Omar Mostafa,Pediatrics,Noor Clinic,Suez,East,C,1,2025-05-22
+D0125,Dr Mohamed Saad,ENT,Elite Clinic,Port Said,East,C,1,2023-03-12
+D0126,Dr Omar El-Sayed,Internal Medicine,Noor Clinic,Ismailia,East,B,1,2024-10-10
+D0127,Dr Ahmed Mahmoud,Gastroenterology,Shifa Clinic,Qena,South,C,1,2025-03-26
+D0128,Dr Ali Hassan,Pulmonology,Care Clinic,Suez,East,B,1,2024-11-29
+D0129,Dr Mohamed Hassan,Pediatrics,Noor Clinic,Asyut,South,C,1,2024-08-20
+D0130,Dr Youssef Mahmoud,ENT,Elite Clinic,Riyadh,Gulf,B,1,2025-04-03
+D0131,Dr Khaled Saad,Internal Medicine,Noor Clinic,Cairo,Central,B,1,2024-08-24
+D0132,Dr Ali Ali,ENT,Life Clinic,Riyadh,Gulf,C,1,2024-01-29
+D0133,Dr Ahmed Saad,Neurology,Noor Clinic,Sohag,South,C,0,2023-10-30
+D0134,Dr Khaled Hassan,Cardiology,Hope Clinic,Ismailia,East,C,1,2025-05-02
+D0135,Dr Ali Saad,Endocrinology,Elite Clinic,Ismailia,East,C,1,2025-01-08
+D0136,Dr Ali Ali,Internal Medicine,Life Clinic,Qena,South,C,1,2023-11-13
+D0137,Dr Youssef Hassan,Pulmonology,Care Clinic,Giza,Central,A,1,2025-02-04
+D0138,Dr Mohamed Mahmoud,Neurology,Noor Clinic,Qena,South,C,0,2025-04-30
+D0139,Dr Mohamed Hassan,Neurology,Elite Clinic,Port Said,East,C,1,2023-03-19
+D0140,Dr Ahmed Ali,Pediatrics,Life Clinic,Jeddah,Gulf,C,1,2024-01-10
+D0141,Dr Khaled Mostafa,Internal Medicine,Noor Clinic,Port Said,East,B,1,2024-11-19
+D0142,Dr Hassan Mahmoud,Internal Medicine,Hope Clinic,Riyadh,Gulf,C,1,2024-09-26
+D0143,Dr Khaled Saad,Internal Medicine,Noor Clinic,Qena,South,C,1,2024-12-18
+D0144,Dr Ahmed El-Sayed,Cardiology,Care Clinic,Alexandria,North,C,1,2024-05-19
+D0145,Dr Omar Mostafa,Pediatrics,Noor Clinic,Cairo,Central,B,1,2025-01-30
+D0146,Dr Youssef Mahmoud,Pediatrics,Life Clinic,Cairo,Central,C,1,2024-09-22
+D0147,Dr Khaled El-Sayed,Endocrinology,Elite Clinic,Riyadh,Gulf,B,0,2025-05-25
+D0148,Dr Ali Ali,Neurology,Life Clinic,Port Said,East,A,1,2023-05-06
+D0149,Dr Ali Mostafa,Cardiology,Care Clinic,Dubai,Gulf,A,1,2023-05-09
+D0150,Dr Khaled Hassan,Endocrinology,Hope Clinic,Damanhur,North,C,1,2023-08-27
+D0151,Dr Mohamed El-Sayed,Pulmonology,Elite Clinic,Tanta,North,C,1,2025-03-28
+D0152,Dr Khaled El-Sayed,Cardiology,Care Clinic,Alexandria,North,B,1,2024-08-25
+D0153,Dr Ahmed Ali,Pulmonology,Noor Clinic,Ismailia,East,C,1,2025-02-02
+D0154,Dr Ahmed Saad,Internal Medicine,Elite Clinic,Port Said,East,B,1,2024-09-21
+D0155,Dr Ali Ali,ENT,Noor Clinic,Giza,Central,C,1,2024-05-05
+D0156,Dr Khaled Mostafa,ENT,Care Clinic,Dubai,Gulf,C,1,2023-03-24
+D0157,Dr Khaled Ali,Gastroenterology,Hope Clinic,Alexandria,North,C,1,2024-12-30
+D0158,Dr Omar El-Sayed,ENT,Elite Clinic,Giza,Central,C,1,2025-03-23
+D0159,Dr Khaled Ali,Endocrinology,Noor Clinic,Jeddah,Gulf,B,1,2024-02-28
+D0160,Dr Mohamed Saad,Neurology,Noor Clinic,Marsa Matruh,West,B,1,2024-01-19
+D0161,Dr Khaled Hassan,Internal Medicine,Hope Clinic,Alexandria,North,A,1,2025-01-26
+D0162,Dr Khaled Saad,General Practice,Noor Clinic,Damanhur,North,C,1,2024-02-25
+D0163,Dr Hassan Hassan,Gastroenterology,Care Clinic,Dubai,Gulf,C,1,2024-08-14
+D0164,Dr Khaled El-Sayed,Endocrinology,Shifa Clinic,Riyadh,Gulf,C,1,2024-07-23
+D0165,Dr Hassan Mostafa,Pediatrics,Elite Clinic,Cairo,Central,C,0,2025-04-18
+D0166,Dr Khaled El-Sayed,Cardiology,Care Clinic,Jeddah,Gulf,C,1,2024-12-11
+D0167,Dr Ali Hassan,Gastroenterology,Hope Clinic,Port Said,East,C,1,2023-07-05
+D0168,Dr Ahmed Saad,Internal Medicine,Hope Clinic,Riyadh,Gulf,A,1,2023-02-01
+D0169,Dr Omar Mahmoud,Pediatrics,Hope Clinic,Sohag,South,B,1,2023-11-16
+D0170,Dr Omar El-Sayed,Cardiology,Shifa Clinic,Cairo,Central,B,1,2023-02-20
+D0171,Dr Ali Mostafa,ENT,Life Clinic,Siwa,West,C,1,2023-08-09
+D0172,Dr Hassan Saad,Internal Medicine,Shifa Clinic,Suez,East,B,1,2024-05-13
+D0173,Dr Khaled Hassan,Pediatrics,Care Clinic,Alexandria,North,C,1,2023-07-29
+D0174,Dr Mohamed Hassan,Neurology,Noor Clinic,Suez,East,A,1,2024-03-16
+D0175,Dr Ahmed Ali,General Practice,Elite Clinic,Cairo,Central,C,1,2023-12-29
+D0176,Dr Hassan Ali,Cardiology,Hope Clinic,Tanta,North,B,1,2023-11-17
+D0177,Dr Mohamed Mostafa,Gastroenterology,Noor Clinic,Siwa,West,A,1,2023-11-29
+D0178,Dr Hassan Ali,Internal Medicine,Hope Clinic,Riyadh,Gulf,B,1,2024-03-22
+D0179,Dr Mohamed El-Sayed,Gastroenterology,Hope Clinic,Tanta,North,C,1,2025-03-08
+D0180,Dr Khaled Saad,General Practice,Elite Clinic,Dubai,Gulf,C,0,2023-12-24
+D0181,Dr Mohamed Saad,Internal Medicine,Life Clinic,Asyut,South,A,1,2024-09-08
+D0182,Dr Youssef Saad,ENT,Hope Clinic,Qena,South,B,1,2024-08-16
+D0183,Dr Youssef El-Sayed,Neurology,Noor Clinic,Jeddah,Gulf,C,1,2023-06-04
+D0184,Dr Khaled Ali,Gastroenterology,Noor Clinic,Siwa,West,C,1,2023-03-17
+D0185,Dr Ali El-Sayed,Neurology,Hope Clinic,Alexandria,North,C,1,2025-06-03
+D0186,Dr Ahmed Ali,ENT,Hope Clinic,Giza,Central,C,0,2025-01-26
+D0187,Dr Youssef El-Sayed,Neurology,Shifa Clinic,Dubai,Gulf,C,1,2023-03-05
+D0188,Dr Youssef Ali,General Practice,Hope Clinic,Dubai,Gulf,C,1,2024-12-25
+D0189,Dr Ali Mahmoud,Neurology,Elite Clinic,Cairo,Central,B,1,2024-02-23
+D0190,Dr Youssef Mahmoud,Neurology,Shifa Clinic,Cairo,Central,A,1,2024-11-25
+D0191,Dr Khaled Mahmoud,Pulmonology,Elite Clinic,Jeddah,Gulf,B,1,2023-05-25
+D0192,Dr Khaled Mostafa,Pediatrics,Noor Clinic,Jeddah,Gulf,A,1,2023-03-28
+D0193,Dr Omar Mostafa,Pulmonology,Life Clinic,Riyadh,Gulf,C,1,2025-01-26
+D0194,Dr Mohamed Hassan,Pediatrics,Shifa Clinic,Jeddah,Gulf,C,1,2023-11-13
+D0195,Dr Ali El-Sayed,Endocrinology,Hope Clinic,Marsa Matruh,West,C,1,2023-10-30
+D0196,Dr Youssef Hassan,Neurology,Care Clinic,Cairo,Central,C,1,2024-09-03
+D0197,Dr Omar Saad,Pulmonology,Care Clinic,Qena,South,C,1,2024-01-09
+D0198,Dr Ali Ali,ENT,Care Clinic,Siwa,West,B,1,2025-04-08
+D0199,Dr Hassan Mostafa,ENT,Noor Clinic,Port Said,East,B,1,2024-01-27
+D0200,Dr Ali Mahmoud,Pulmonology,Hope Clinic,Asyut,South,C,1,2024-05-07
+D0201,Dr Mohamed Mahmoud,General Practice,Noor Clinic,Damanhur,North,C,1,2025-02-20
+D0202,Dr Youssef Mahmoud,Pediatrics,Life Clinic,Cairo,Central,A,0,2025-04-16
+D0203,Dr Khaled Hassan,Pediatrics,Life Clinic,Marsa Matruh,West,C,1,2023-03-25
+D0204,Dr Ali Ali,Neurology,Elite Clinic,Ismailia,East,C,1,2023-10-21
+D0205,Dr Ahmed Mahmoud,ENT,Care Clinic,Qena,South,B,1,2023-03-23
+D0206,Dr Khaled El-Sayed,General Practice,Life Clinic,Qena,South,B,1,2023-09-01
+D0207,Dr Hassan Mostafa,ENT,Life Clinic,Sohag,South,A,1,2024-05-26
+D0208,Dr Hassan Mahmoud,Endocrinology,Care Clinic,Jeddah,Gulf,C,1,2023-01-02
+D0209,Dr Ahmed Mostafa,Pulmonology,Hope Clinic,Giza,Central,C,1,2024-01-05
+D0210,Dr Khaled Mahmoud,Pediatrics,Elite Clinic,Cairo,Central,C,1,2024-02-01
+D0211,Dr Ahmed Mostafa,Internal Medicine,Elite Clinic,Tanta,North,B,1,2024-10-05
+D0212,Dr Mohamed Saad,Cardiology,Noor Clinic,Ismailia,East,B,1,2024-10-20
+D0213,Dr Youssef El-Sayed,Pulmonology,Shifa Clinic,Riyadh,Gulf,C,1,2025-03-05
+D0214,Dr Hassan Ali,Endocrinology,Hope Clinic,Asyut,South,C,1,2023-11-14
+D0215,Dr Ali El-Sayed,Cardiology,Elite Clinic,Siwa,West,C,1,2024-01-01
+D0216,Dr Omar Ali,Internal Medicine,Noor Clinic,Suez,East,C,1,2024-02-14
+D0217,Dr Hassan Mahmoud,ENT,Life Clinic,Ismailia,East,C,1,2025-03-27
+D0218,Dr Hassan Mahmoud,Internal Medicine,Shifa Clinic,Riyadh,Gulf,B,0,2023-07-04
+D0219,Dr Omar Ali,Neurology,Care Clinic,Alexandria,North,C,1,2024-09-09
+D0220,Dr Hassan Ali,Neurology,Shifa Clinic,Riyadh,Gulf,B,1,2023-12-28
+D0221,Dr Ali Saad,Internal Medicine,Elite Clinic,Dubai,Gulf,C,1,2024-06-09
+D0222,Dr Ahmed Hassan,Pulmonology,Life Clinic,Asyut,South,C,1,2024-03-24
+D0223,Dr Hassan Hassan,Neurology,Elite Clinic,Qena,South,B,0,2023-02-03
+D0224,Dr Hassan Mahmoud,Neurology,Noor Clinic,Siwa,West,B,1,2023-05-21
+D0225,Dr Mohamed Ali,Gastroenterology,Hope Clinic,Port Said,East,B,1,2025-01-23
+D0226,Dr Hassan Mahmoud,Gastroenterology,Elite Clinic,Marsa Matruh,West,C,1,2023-08-08
+D0227,Dr Omar Ali,Internal Medicine,Life Clinic,Marsa Matruh,West,A,1,2023-06-26
+D0228,Dr Khaled Hassan,Neurology,Elite Clinic,Riyadh,Gulf,C,1,2023-10-25
+D0229,Dr Mohamed Hassan,Pulmonology,Care Clinic,Jeddah,Gulf,C,1,2023-05-05
+D0230,Dr Hassan Hassan,Neurology,Hope Clinic,Marsa Matruh,West,C,1,2025-04-02
+D0231,Dr Hassan Ali,Gastroenterology,Noor Clinic,Alexandria,North,B,1,2024-05-05
+D0232,Dr Youssef Saad,Pulmonology,Hope Clinic,Cairo,Central,C,1,2024-04-05
+D0233,Dr Youssef Mostafa,General Practice,Life Clinic,Ismailia,East,C,1,2023-05-13
+D0234,Dr Mohamed Mahmoud,Pulmonology,Hope Clinic,Damanhur,North,B,1,2024-12-27
+D0235,Dr Mohamed Saad,Gastroenterology,Shifa Clinic,Ismailia,East,B,0,2023-10-09
+D0236,Dr Mohamed Hassan,General Practice,Elite Clinic,Cairo,Central,C,1,2024-08-17
+D0237,Dr Omar Mostafa,Cardiology,Shifa Clinic,Giza,Central,C,1,2023-02-16
+D0238,Dr Hassan Mahmoud,Pediatrics,Elite Clinic,Dubai,Gulf,C,1,2024-10-04
+D0239,Dr Youssef El-Sayed,Endocrinology,Elite Clinic,Suez,East,C,1,2023-11-01
+D0240,Dr Hassan Hassan,ENT,Shifa Clinic,Alexandria,North,B,1,2023-12-15
+D0241,Dr Hassan Mostafa,Neurology,Life Clinic,Riyadh,Gulf,C,1,2024-01-15
+D0242,Dr Ahmed El-Sayed,ENT,Shifa Clinic,Ismailia,East,A,1,2023-05-25
+D0243,Dr Khaled Mostafa,Endocrinology,Elite Clinic,Siwa,West,C,0,2025-04-13
+D0244,Dr Khaled Ali,Pulmonology,Life Clinic,Ismailia,East,B,1,2024-05-25
+D0245,Dr Khaled El-Sayed,General Practice,Life Clinic,Tanta,North,B,1,2024-08-20
+D0246,Dr Youssef Hassan,ENT,Shifa Clinic,Suez,East,B,1,2023-04-21
+D0247,Dr Hassan Hassan,Pediatrics,Shifa Clinic,Riyadh,Gulf,B,1,2024-08-06
+D0248,Dr Khaled Mostafa,Internal Medicine,Elite Clinic,Giza,Central,B,1,2024-07-17
+D0249,Dr Khaled Mostafa,Pulmonology,Shifa Clinic,Cairo,Central,C,1,2025-03-24
+D0250,Dr Mohamed Saad,General Practice,Shifa Clinic,Asyut,South,B,1,2023-02-09
+D0251,Dr Hassan Mahmoud,Pulmonology,Care Clinic,Siwa,West,C,1,2023-12-02
+D0252,Dr Omar Mostafa,Neurology,Shifa Clinic,Siwa,West,C,1,2024-05-16
+D0253,Dr Hassan Mahmoud,Neurology,Elite Clinic,Marsa Matruh,West,B,1,2024-03-02
+D0254,Dr Ali Mostafa,Cardiology,Hope Clinic,Jeddah,Gulf,C,1,2024-11-02
+D0255,Dr Omar Mostafa,Cardiology,Noor Clinic,Qena,South,C,1,2024-10-06
+D0256,Dr Mohamed El-Sayed,Endocrinology,Noor Clinic,Qena,South,A,0,2023-04-23
+D0257,Dr Ali Mostafa,Pulmonology,Noor Clinic,Suez,East,B,1,2024-05-28
+D0258,Dr Khaled Saad,Cardiology,Noor Clinic,Jeddah,Gulf,C,1,2024-07-28
+D0259,Dr Khaled Mostafa,Neurology,Shifa Clinic,Giza,Central,C,1,2024-06-29
+D0260,Dr Khaled Mostafa,Gastroenterology,Shifa Clinic,Jeddah,Gulf,C,1,2023-09-10
+D0261,Dr Khaled Ali,Gastroenterology,Shifa Clinic,Sohag,South,C,1,2024-05-15
+D0262,Dr Youssef Mahmoud,Gastroenterology,Care Clinic,Giza,Central,A,1,2024-01-24
+D0263,Dr Omar Mahmoud,Gastroenterology,Elite Clinic,Ismailia,East,C,1,2024-03-28
+D0264,Dr Omar Mahmoud,Endocrinology,Care Clinic,Marsa Matruh,West,C,1,2024-07-29
+D0265,Dr Mohamed Saad,Endocrinology,Care Clinic,Damanhur,North,B,1,2024-06-27
+D0266,Dr Ali Hassan,Pediatrics,Life Clinic,Alexandria,North,B,1,2024-11-28
+D0267,Dr Youssef Saad,Pediatrics,Care Clinic,Cairo,Central,C,1,2024-05-02
+D0268,Dr Omar Mostafa,Gastroenterology,Care Clinic,Suez,East,C,0,2023-04-02
+D0269,Dr Ali Ali,Pulmonology,Noor Clinic,Cairo,Central,B,1,2023-02-07
+D0270,Dr Hassan El-Sayed,Gastroenterology,Shifa Clinic,Qena,South,C,1,2024-08-04
+D0271,Dr Ali Mostafa,General Practice,Noor Clinic,Suez,East,C,1,2023-05-18
+D0272,Dr Khaled Saad,Internal Medicine,Care Clinic,Ismailia,East,B,1,2024-10-25
+D0273,Dr Mohamed Hassan,Neurology,Hope Clinic,Damanhur,North,C,1,2025-02-14
+D0274,Dr Ahmed Hassan,Pediatrics,Care Clinic,Riyadh,Gulf,C,1,2024-11-16
+D0275,Dr Ali Mahmoud,Endocrinology,Shifa Clinic,Siwa,West,A,1,2024-04-02
+D0276,Dr Ahmed Saad,Cardiology,Life Clinic,Port Said,East,B,1,2023-08-30
+D0277,Dr Ali Mahmoud,Pulmonology,Elite Clinic,Siwa,West,B,1,2024-12-21
+D0278,Dr Youssef Hassan,Gastroenterology,Noor Clinic,Damanhur,North,B,1,2023-05-17
+D0279,Dr Ali Mostafa,Neurology,Elite Clinic,Jeddah,Gulf,B,1,2024-04-27
+D0280,Dr Ahmed Mostafa,Internal Medicine,Life Clinic,Asyut,South,C,1,2024-01-06
+D0281,Dr Khaled Mostafa,General Practice,Noor Clinic,Damanhur,North,B,1,2023-06-18
+D0282,Dr Youssef El-Sayed,Endocrinology,Noor Clinic,Damanhur,North,C,1,2024-06-06
+D0283,Dr Omar Mahmoud,Pediatrics,Elite Clinic,Qena,South,B,1,2024-04-18
+D0284,Dr Ahmed El-Sayed,Gastroenterology,Noor Clinic,Tanta,North,C,1,2024-08-15
+D0285,Dr Youssef El-Sayed,Internal Medicine,Shifa Clinic,Port Said,East,C,1,2023-03-12
+D0286,Dr Youssef Mahmoud,Pulmonology,Noor Clinic,Marsa Matruh,West,C,0,2024-10-23
+D0287,Dr Hassan Hassan,Pediatrics,Elite Clinic,Siwa,West,A,0,2025-06-14
+D0288,Dr Omar Hassan,Pulmonology,Life Clinic,Ismailia,East,C,1,2023-05-11
+D0289,Dr Youssef Hassan,ENT,Care Clinic,Tanta,North,C,1,2024-06-28
+D0290,Dr Ali El-Sayed,Pulmonology,Life Clinic,Siwa,West,B,0,2025-01-12
+D0291,Dr Ahmed Ali,Cardiology,Hope Clinic,Riyadh,Gulf,B,1,2024-08-31
+D0292,Dr Mohamed Mostafa,Cardiology,Care Clinic,Jeddah,Gulf,B,1,2024-03-25
+D0293,Dr Hassan Mahmoud,General Practice,Hope Clinic,Alexandria,North,C,1,2025-01-19
+D0294,Dr Hassan Hassan,Endocrinology,Noor Clinic,Giza,Central,B,1,2024-11-07
+D0295,Dr Mohamed Saad,Cardiology,Elite Clinic,Suez,East,C,1,2025-01-22
+D0296,Dr Youssef Mostafa,Cardiology,Shifa Clinic,Siwa,West,C,0,2024-11-18
+D0297,Dr Hassan Ali,Pediatrics,Care Clinic,Riyadh,Gulf,A,1,2025-02-11
+D0298,Dr Youssef Ali,Pulmonology,Hope Clinic,Sohag,South,C,0,2024-07-29
+D0299,Dr Ahmed Ali,Pediatrics,Shifa Clinic,Cairo,Central,B,1,2024-10-24
+D0300,Dr Hassan El-Sayed,Endocrinology,Life Clinic,Damanhur,North,A,1,2024-09-11
+D0301,Dr Khaled El-Sayed,General Practice,Care Clinic,Qena,South,B,1,2023-12-07
+D0302,Dr Omar Mostafa,Internal Medicine,Elite Clinic,Qena,South,C,1,2023-09-06
+D0303,Dr Youssef Mostafa,Endocrinology,Elite Clinic,Sohag,South,C,1,2024-01-25
+D0304,Dr Ahmed Saad,Gastroenterology,Noor Clinic,Suez,East,B,1,2024-04-22
+D0305,Dr Mohamed Saad,Neurology,Care Clinic,Ismailia,East,B,1,2025-06-03
+D0306,Dr Khaled Hassan,General Practice,Care Clinic,Tanta,North,C,1,2024-03-03
+D0307,Dr Omar Saad,Pediatrics,Shifa Clinic,Ismailia,East,C,1,2024-07-17
+D0308,Dr Mohamed Hassan,ENT,Elite Clinic,Suez,East,B,1,2023-12-27
+D0309,Dr Ahmed Mostafa,Pulmonology,Life Clinic,Giza,Central,C,1,2024-10-19
+D0310,Dr Omar Hassan,Cardiology,Life Clinic,Damanhur,North,C,1,2025-05-12
+D0311,Dr Hassan Saad,Cardiology,Elite Clinic,Dubai,Gulf,B,1,2023-03-03
+D0312,Dr Ahmed El-Sayed,ENT,Hope Clinic,Giza,Central,A,1,2024-02-26
+D0313,Dr Omar Saad,General Practice,Noor Clinic,Riyadh,Gulf,C,1,2025-04-12
+D0314,Dr Hassan Mahmoud,Internal Medicine,Shifa Clinic,Asyut,South,C,1,2024-09-26
+D0315,Dr Mohamed Saad,Internal Medicine,Care Clinic,Suez,East,B,1,2024-08-01
+D0316,Dr Ahmed El-Sayed,Internal Medicine,Noor Clinic,Port Said,East,C,1,2025-02-16
+D0317,Dr Mohamed El-Sayed,General Practice,Noor Clinic,Siwa,West,B,1,2024-12-20
+D0318,Dr Mohamed Saad,Internal Medicine,Hope Clinic,Siwa,West,C,0,2023-08-24
+D0319,Dr Hassan Mostafa,Cardiology,Elite Clinic,Siwa,West,C,1,2023-10-15
+D0320,Dr Ali Saad,Neurology,Noor Clinic,Alexandria,North,A,1,2023-05-28
+D0321,Dr Youssef Saad,Pulmonology,Hope Clinic,Tanta,North,C,1,2025-05-19
+D0322,Dr Hassan Saad,Pulmonology,Shifa Clinic,Suez,East,C,1,2023-03-22
+D0323,Dr Ali Mostafa,Pediatrics,Hope Clinic,Alexandria,North,B,1,2024-09-11
+D0324,Dr Youssef Hassan,Cardiology,Shifa Clinic,Siwa,West,C,1,2024-04-06
+D0325,Dr Ahmed Mostafa,Pediatrics,Shifa Clinic,Giza,Central,B,1,2024-01-25
+D0326,Dr Ali Saad,Internal Medicine,Care Clinic,Qena,South,A,1,2024-12-29
+D0327,Dr Youssef Mahmoud,Neurology,Shifa Clinic,Riyadh,Gulf,B,1,2023-11-12
+D0328,Dr Hassan Ali,Internal Medicine,Life Clinic,Alexandria,North,B,1,2024-07-22
+D0329,Dr Khaled Ali,Neurology,Life Clinic,Alexandria,North,C,1,2025-03-14
+D0330,Dr Mohamed Mostafa,Pediatrics,Hope Clinic,Suez,East,C,1,2024-07-26
+D0331,Dr Youssef Hassan,Pediatrics,Life Clinic,Qena,South,B,1,2023-10-02
+D0332,Dr Khaled Mahmoud,Gastroenterology,Care Clinic,Sohag,South,B,1,2023-03-20
+D0333,Dr Mohamed Mahmoud,ENT,Life Clinic,Jeddah,Gulf,C,1,2023-04-20
+D0334,Dr Youssef Saad,Pediatrics,Hope Clinic,Siwa,West,C,1,2023-12-09
+D0335,Dr Khaled Hassan,Neurology,Noor Clinic,Sohag,South,C,1,2024-05-05
+D0336,Dr Youssef Mahmoud,ENT,Noor Clinic,Suez,East,C,1,2023-11-30
+D0337,Dr Ali Mostafa,Endocrinology,Life Clinic,Ismailia,East,C,1,2024-11-29
+D0338,Dr Ahmed Ali,Endocrinology,Elite Clinic,Riyadh,Gulf,B,1,2024-12-10
+D0339,Dr Youssef Ali,Gastroenterology,Life Clinic,Marsa Matruh,West,B,1,2025-01-02
+D0340,Dr Omar Ali,Pediatrics,Hope Clinic,Siwa,West,C,0,2025-06-09
+D0341,Dr Ali Hassan,General Practice,Elite Clinic,Tanta,North,C,0,2023-04-22
+D0342,Dr Omar Saad,Pulmonology,Noor Clinic,Riyadh,Gulf,C,1,2024-10-22
+D0343,Dr Omar Mostafa,Internal Medicine,Hope Clinic,Suez,East,A,1,2024-06-06
+D0344,Dr Hassan Saad,ENT,Hope Clinic,Cairo,Central,B,1,2024-11-26
+D0345,Dr Ahmed Saad,Cardiology,Care Clinic,Sohag,South,B,1,2023-03-29
+D0346,Dr Khaled Ali,Neurology,Life Clinic,Suez,East,B,1,2024-05-09
+D0347,Dr Ahmed El-Sayed,Neurology,Shifa Clinic,Siwa,West,A,1,2024-12-28
+D0348,Dr Mohamed Mostafa,Pulmonology,Care Clinic,Dubai,Gulf,C,1,2024-06-12
+D0349,Dr Omar Hassan,Pediatrics,Care Clinic,Port Said,East,C,1,2024-02-19
+D0350,Dr Youssef Mostafa,Pediatrics,Noor Clinic,Jeddah,Gulf,B,1,2023-07-22
+D0351,Dr Ali El-Sayed,Endocrinology,Hope Clinic,Marsa Matruh,West,B,1,2025-04-08
+D0352,Dr Khaled Saad,Pulmonology,Noor Clinic,Damanhur,North,B,1,2023-04-27
+D0353,Dr Khaled Ali,Pediatrics,Hope Clinic,Giza,Central,C,1,2023-12-23
+D0354,Dr Mohamed Mahmoud,Gastroenterology,Life Clinic,Qena,South,C,1,2024-11-19
+D0355,Dr Youssef Ali,Internal Medicine,Hope Clinic,Sohag,South,B,1,2024-06-07
+D0356,Dr Omar Saad,Pediatrics,Care Clinic,Qena,South,B,1,2024-07-04
+D0357,Dr Youssef Mostafa,ENT,Life Clinic,Cairo,Central,B,1,2025-05-12
+D0358,Dr Hassan Saad,ENT,Noor Clinic,Ismailia,East,A,1,2024-07-29
+D0359,Dr Ahmed Mostafa,Pediatrics,Life Clinic,Siwa,West,C,1,2023-06-21
+D0360,Dr Ali Ali,Cardiology,Hope Clinic,Sohag,South,B,1,2023-06-22
+D0361,Dr Ali Mostafa,General Practice,Shifa Clinic,Riyadh,Gulf,C,1,2023-10-02
+D0362,Dr Omar Saad,ENT,Care Clinic,Cairo,Central,C,0,2023-04-15
+D0363,Dr Youssef El-Sayed,ENT,Care Clinic,Ismailia,East,B,1,2023-03-31
+D0364,Dr Mohamed Mostafa,Neurology,Care Clinic,Qena,South,C,1,2024-03-14
+D0365,Dr Hassan Hassan,Cardiology,Shifa Clinic,Asyut,South,C,1,2024-09-03
+D0366,Dr Omar El-Sayed,Gastroenterology,Care Clinic,Riyadh,Gulf,C,0,2024-06-10
+D0367,Dr Mohamed Hassan,Gastroenterology,Care Clinic,Marsa Matruh,West,C,1,2025-06-05
+D0368,Dr Mohamed Mostafa,Endocrinology,Elite Clinic,Riyadh,Gulf,C,1,2024-05-16
+D0369,Dr Ali El-Sayed,Pediatrics,Noor Clinic,Port Said,East,B,1,2025-03-24
+D0370,Dr Ahmed Saad,Neurology,Life Clinic,Giza,Central,B,1,2024-08-18
+D0371,Dr Mohamed Ali,Neurology,Care Clinic,Riyadh,Gulf,C,1,2024-02-12
+D0372,Dr Mohamed Mostafa,Neurology,Noor Clinic,Siwa,West,C,1,2024-08-14
+D0373,Dr Youssef El-Sayed,Cardiology,Life Clinic,Port Said,East,A,1,2025-05-06
+D0374,Dr Omar Hassan,ENT,Elite Clinic,Sohag,South,A,0,2023-07-27
+D0375,Dr Khaled Saad,Gastroenterology,Elite Clinic,Ismailia,East,A,1,2023-03-26
+D0376,Dr Mohamed Ali,Pediatrics,Elite Clinic,Asyut,South,C,1,2025-02-12
+D0377,Dr Hassan Hassan,Internal Medicine,Hope Clinic,Damanhur,North,A,1,2023-05-16
+D0378,Dr Ali Ali,Cardiology,Elite Clinic,Riyadh,Gulf,A,1,2023-05-04
+D0379,Dr Ahmed El-Sayed,Internal Medicine,Shifa Clinic,Sohag,South,B,1,2025-04-05
+D0380,Dr Mohamed Saad,Pulmonology,Elite Clinic,Suez,East,B,1,2025-06-14
+D0381,Dr Youssef Mahmoud,General Practice,Elite Clinic,Asyut,South,C,1,2023-06-18
+D0382,Dr Ali Hassan,Pulmonology,Life Clinic,Qena,South,C,1,2024-03-29
+D0383,Dr Khaled Hassan,Internal Medicine,Care Clinic,Alexandria,North,C,1,2024-03-15
+D0384,Dr Hassan Mahmoud,Internal Medicine,Elite Clinic,Port Said,East,B,1,2025-01-08
+D0385,Dr Omar Ali,Gastroenterology,Shifa Clinic,Damanhur,North,B,1,2023-07-13
+D0386,Dr Omar Mostafa,Endocrinology,Life Clinic,Dubai,Gulf,B,1,2024-05-26
+D0387,Dr Ali Mostafa,Neurology,Noor Clinic,Cairo,Central,C,1,2025-05-31
+D0388,Dr Ahmed El-Sayed,Pulmonology,Hope Clinic,Port Said,East,C,0,2025-02-27
+D0389,Dr Youssef Mostafa,Gastroenterology,Shifa Clinic,Alexandria,North,B,0,2025-03-19
+D0390,Dr Ahmed Saad,General Practice,Hope Clinic,Jeddah,Gulf,C,1,2024-02-16
+D0391,Dr Ali Hassan,Gastroenterology,Hope Clinic,Cairo,Central,A,1,2023-07-28
+D0392,Dr Mohamed El-Sayed,Internal Medicine,Care Clinic,Suez,East,B,1,2025-05-16
+D0393,Dr Omar Saad,Internal Medicine,Elite Clinic,Tanta,North,B,1,2023-11-13
+D0394,Dr Mohamed Ali,Internal Medicine,Shifa Clinic,Dubai,Gulf,A,1,2023-01-12
+D0395,Dr Khaled Saad,Pulmonology,Life Clinic,Giza,Central,B,1,2025-06-13
+D0396,Dr Hassan Saad,Pediatrics,Life Clinic,Tanta,North,B,1,2024-12-30
+D0397,Dr Mohamed Mahmoud,General Practice,Care Clinic,Siwa,West,B,1,2024-08-03
+D0398,Dr Ali El-Sayed,Internal Medicine,Care Clinic,Ismailia,East,B,1,2023-02-15
+D0399,Dr Ahmed Mostafa,Neurology,Elite Clinic,Tanta,North,B,1,2025-05-28
+D0400,Dr Khaled Mahmoud,Pediatrics,Life Clinic,Jeddah,Gulf,B,1,2025-01-07
+D0401,Dr Mohamed Mostafa,Internal Medicine,Life Clinic,Giza,Central,C,0,2023-07-03
+D0402,Dr Khaled El-Sayed,ENT,Hope Clinic,Marsa Matruh,West,C,1,2023-11-15
+D0403,Dr Omar Mostafa,Neurology,Care Clinic,Marsa Matruh,West,B,1,2023-11-08
+D0404,Dr Hassan Hassan,ENT,Care Clinic,Siwa,West,C,1,2025-01-20
+D0405,Dr Omar El-Sayed,Cardiology,Shifa Clinic,Tanta,North,B,1,2025-05-09
+D0406,Dr Mohamed Mostafa,Pediatrics,Care Clinic,Damanhur,North,C,1,2023-04-17
+D0407,Dr Ahmed El-Sayed,Cardiology,Care Clinic,Siwa,West,C,1,2023-10-14
+D0408,Dr Ahmed Mostafa,Neurology,Care Clinic,Giza,Central,B,1,2024-08-17
+D0409,Dr Mohamed Hassan,Internal Medicine,Shifa Clinic,Riyadh,Gulf,C,1,2024-11-09
+D0410,Dr Youssef Mahmoud,Pediatrics,Care Clinic,Suez,East,C,1,2023-11-22
+D0411,Dr Ahmed Hassan,Pulmonology,Noor Clinic,Alexandria,North,C,1,2023-06-09
+D0412,Dr Mohamed Ali,Pediatrics,Shifa Clinic,Siwa,West,A,1,2025-02-27
+D0413,Dr Ali Saad,Internal Medicine,Elite Clinic,Siwa,West,A,1,2023-11-08
+D0414,Dr Omar Hassan,Endocrinology,Shifa Clinic,Cairo,Central,C,1,2023-04-04
+D0415,Dr Youssef Ali,Gastroenterology,Hope Clinic,Marsa Matruh,West,B,0,2023-02-01
+D0416,Dr Mohamed El-Sayed,Endocrinology,Life Clinic,Jeddah,Gulf,A,1,2025-03-23
+D0417,Dr Omar Saad,Pulmonology,Life Clinic,Alexandria,North,B,1,2024-12-03
+D0418,Dr Youssef Hassan,Internal Medicine,Life Clinic,Giza,Central,A,1,2024-10-23
+D0419,Dr Youssef Saad,Cardiology,Noor Clinic,Ismailia,East,C,1,2024-08-10
+D0420,Dr Mohamed Mahmoud,Pediatrics,Shifa Clinic,Marsa Matruh,West,C,1,2023-08-08
+D0421,Dr Khaled Ali,Cardiology,Noor Clinic,Marsa Matruh,West,C,1,2024-10-24
+D0422,Dr Mohamed Saad,Cardiology,Hope Clinic,Giza,Central,A,1,2024-03-05
+D0423,Dr Omar Mahmoud,General Practice,Noor Clinic,Qena,South,C,0,2025-03-11
+D0424,Dr Khaled Hassan,Neurology,Life Clinic,Giza,Central,C,1,2024-02-02
+D0425,Dr Ahmed Ali,Endocrinology,Hope Clinic,Port Said,East,A,1,2023-10-15
+D0426,Dr Mohamed Mahmoud,Endocrinology,Hope Clinic,Port Said,East,C,1,2024-11-03
+D0427,Dr Khaled Hassan,Endocrinology,Care Clinic,Dubai,Gulf,C,0,2024-02-02
+D0428,Dr Ahmed Saad,Neurology,Elite Clinic,Qena,South,C,1,2024-08-28
+D0429,Dr Youssef Mostafa,Pulmonology,Shifa Clinic,Port Said,East,C,1,2025-04-09
+D0430,Dr Ahmed Mostafa,Cardiology,Noor Clinic,Sohag,South,A,1,2023-08-13
+D0431,Dr Ali Mahmoud,Endocrinology,Life Clinic,Tanta,North,C,1,2023-07-01
+D0432,Dr Khaled El-Sayed,Pulmonology,Shifa Clinic,Alexandria,North,C,1,2025-05-31
+D0433,Dr Mohamed Hassan,Pediatrics,Elite Clinic,Jeddah,Gulf,C,1,2023-11-27
+D0434,Dr Hassan Mahmoud,Neurology,Care Clinic,Siwa,West,B,0,2024-12-11
+D0435,Dr Mohamed Hassan,Pulmonology,Elite Clinic,Jeddah,Gulf,B,1,2023-10-29
+D0436,Dr Ahmed Hassan,Pediatrics,Hope Clinic,Damanhur,North,C,1,2024-08-04
+D0437,Dr Mohamed Mahmoud,Endocrinology,Elite Clinic,Port Said,East,C,1,2024-05-23
+D0438,Dr Ali Saad,Neurology,Elite Clinic,Alexandria,North,C,1,2023-04-01
+D0439,Dr Omar El-Sayed,Neurology,Shifa Clinic,Jeddah,Gulf,B,1,2023-09-13
+D0440,Dr Mohamed Ali,Cardiology,Noor Clinic,Ismailia,East,A,1,2024-03-05
+D0441,Dr Ali Mostafa,General Practice,Elite Clinic,Siwa,West,B,1,2025-03-18
+D0442,Dr Khaled El-Sayed,Pulmonology,Shifa Clinic,Dubai,Gulf,B,1,2023-02-04
+D0443,Dr Omar El-Sayed,Internal Medicine,Hope Clinic,Ismailia,East,B,1,2023-06-14
+D0444,Dr Mohamed Mostafa,ENT,Noor Clinic,Tanta,North,C,1,2024-10-31
+D0445,Dr Omar Mostafa,Internal Medicine,Elite Clinic,Asyut,South,B,0,2024-02-24
+D0446,Dr Ahmed Ali,Gastroenterology,Hope Clinic,Jeddah,Gulf,C,1,2023-04-09
+D0447,Dr Khaled Saad,Pulmonology,Elite Clinic,Giza,Central,A,1,2023-03-31
+D0448,Dr Khaled El-Sayed,Endocrinology,Noor Clinic,Giza,Central,A,1,2024-10-15
+D0449,Dr Ahmed Saad,Pediatrics,Hope Clinic,Tanta,North,B,1,2023-09-29
+D0450,Dr Ahmed Mahmoud,Neurology,Noor Clinic,Marsa Matruh,West,C,1,2024-04-01
+D0451,Dr Ali Saad,Endocrinology,Elite Clinic,Siwa,West,C,1,2023-06-04
+D0452,Dr Hassan Hassan,Neurology,Hope Clinic,Alexandria,North,C,1,2025-02-13
+D0453,Dr Youssef Mostafa,General Practice,Care Clinic,Tanta,North,B,1,2025-06-06
+D0454,Dr Hassan Mostafa,Internal Medicine,Hope Clinic,Siwa,West,B,1,2023-02-05
+D0455,Dr Mohamed Hassan,Internal Medicine,Care Clinic,Cairo,Central,C,1,2023-06-21
+D0456,Dr Omar Hassan,Internal Medicine,Hope Clinic,Tanta,North,C,1,2025-04-22
+D0457,Dr Khaled Mahmoud,Internal Medicine,Hope Clinic,Suez,East,A,1,2024-07-19
+D0458,Dr Mohamed Mostafa,General Practice,Hope Clinic,Marsa Matruh,West,C,1,2023-06-03
+D0459,Dr Ali Mostafa,Internal Medicine,Shifa Clinic,Cairo,Central,C,1,2023-10-20
+D0460,Dr Ahmed Hassan,Pediatrics,Shifa Clinic,Siwa,West,C,1,2024-04-29
+D0461,Dr Omar Hassan,Pediatrics,Life Clinic,Marsa Matruh,West,A,1,2023-12-06
+D0462,Dr Ali Mahmoud,Gastroenterology,Shifa Clinic,Riyadh,Gulf,C,1,2025-04-17
+D0463,Dr Omar Ali,Internal Medicine,Shifa Clinic,Suez,East,C,1,2023-11-04
+D0464,Dr Mohamed Ali,Pediatrics,Elite Clinic,Port Said,East,C,1,2024-03-28
+D0465,Dr Omar Mostafa,Cardiology,Noor Clinic,Siwa,West,C,1,2023-11-15
+D0466,Dr Ali El-Sayed,Cardiology,Care Clinic,Qena,South,B,1,2023-07-25
+D0467,Dr Khaled Ali,Cardiology,Hope Clinic,Tanta,North,C,1,2023-10-08
+D0468,Dr Mohamed Ali,Cardiology,Hope Clinic,Marsa Matruh,West,B,1,2024-04-01
+D0469,Dr Ali Saad,Neurology,Life Clinic,Giza,Central,B,1,2025-02-05
+D0470,Dr Mohamed Hassan,Pediatrics,Elite Clinic,Ismailia,East,A,1,2025-03-09
+D0471,Dr Ali Saad,Endocrinology,Life Clinic,Qena,South,B,1,2023-01-21
+D0472,Dr Hassan Mahmoud,Pulmonology,Elite Clinic,Marsa Matruh,West,C,1,2023-09-16
+D0473,Dr Youssef Mahmoud,Gastroenterology,Care Clinic,Jeddah,Gulf,B,1,2023-12-24
+D0474,Dr Ahmed Mostafa,General Practice,Elite Clinic,Siwa,West,C,1,2023-04-15
+D0475,Dr Khaled Mahmoud,Gastroenterology,Elite Clinic,Port Said,East,B,1,2023-03-07
+D0476,Dr Khaled Hassan,Gastroenterology,Care Clinic,Suez,East,C,0,2024-10-29
+D0477,Dr Youssef Saad,Cardiology,Shifa Clinic,Cairo,Central,C,1,2024-09-06
+D0478,Dr Youssef Ali,Cardiology,Noor Clinic,Dubai,Gulf,C,0,2023-09-23
+D0479,Dr Hassan Saad,Endocrinology,Noor Clinic,Dubai,Gulf,B,1,2024-12-03
+D0480,Dr Hassan Hassan,General Practice,Shifa Clinic,Riyadh,Gulf,B,1,2024-11-04
+D0481,Dr Ali Hassan,Pulmonology,Elite Clinic,Tanta,North,C,1,2024-07-26
+D0482,Dr Khaled Ali,Internal Medicine,Shifa Clinic,Port Said,East,B,1,2025-06-11
+D0483,Dr Ali Saad,Gastroenterology,Hope Clinic,Suez,East,B,1,2023-02-24
+D0484,Dr Omar Ali,ENT,Hope Clinic,Cairo,Central,C,1,2025-06-07
+D0485,Dr Khaled Ali,Cardiology,Hope Clinic,Suez,East,C,1,2023-07-25
+D0486,Dr Youssef Mahmoud,Neurology,Elite Clinic,Marsa Matruh,West,C,1,2023-03-24
+D0487,Dr Ali Hassan,Cardiology,Hope Clinic,Sohag,South,A,1,2025-02-18
+D0488,Dr Youssef Ali,Internal Medicine,Noor Clinic,Sohag,South,A,1,2024-03-15
+D0489,Dr Khaled Mostafa,Cardiology,Care Clinic,Marsa Matruh,West,C,1,2023-01-15
+D0490,Dr Khaled Mahmoud,Cardiology,Care Clinic,Damanhur,North,C,1,2024-12-11
+D0491,Dr Ahmed Mahmoud,General Practice,Shifa Clinic,Tanta,North,C,1,2025-04-23
+D0492,Dr Youssef Mahmoud,Pediatrics,Care Clinic,Siwa,West,C,0,2023-12-17
+D0493,Dr Mohamed Saad,Cardiology,Life Clinic,Sohag,South,B,1,2023-05-15
+D0494,Dr Youssef Saad,Internal Medicine,Shifa Clinic,Cairo,Central,B,1,2023-02-08
+D0495,Dr Ahmed Saad,Cardiology,Life Clinic,Cairo,Central,C,1,2023-01-21
+D0496,Dr Mohamed Hassan,Pediatrics,Elite Clinic,Siwa,West,A,1,2024-12-19
+D0497,Dr Hassan Mahmoud,Cardiology,Hope Clinic,Jeddah,Gulf,B,1,2024-11-09
+D0498,Dr Hassan El-Sayed,Pediatrics,Shifa Clinic,Cairo,Central,C,1,2025-01-06
+D0499,Dr Ali Mostafa,ENT,Care Clinic,Alexandria,North,B,1,2023-09-27
+D0500,Dr Mohamed Saad,Pediatrics,Noor Clinic,Port Said,East,B,1,2024-05-23
+D0501,Dr Ali Mostafa,Cardiology,Elite Clinic,Ismailia,East,A,1,2023-04-24
+D0502,Dr Ahmed Mahmoud,Internal Medicine,Elite Clinic,Marsa Matruh,West,C,1,2025-01-10
+D0503,Dr Mohamed El-Sayed,Gastroenterology,Shifa Clinic,Sohag,South,B,1,2025-04-12
+D0504,Dr Ali El-Sayed,Neurology,Life Clinic,Port Said,East,B,1,2025-05-21
+D0505,Dr Khaled Saad,Pulmonology,Life Clinic,Qena,South,B,1,2024-09-28
+D0506,Dr Khaled Ali,Pulmonology,Elite Clinic,Suez,East,A,1,2024-04-12
+D0507,Dr Ali Hassan,Pulmonology,Life Clinic,Siwa,West,A,1,2023-03-02
+D0508,Dr Hassan El-Sayed,ENT,Elite Clinic,Siwa,West,B,1,2024-01-03
+D0509,Dr Youssef El-Sayed,ENT,Life Clinic,Dubai,Gulf,C,1,2024-02-26
+D0510,Dr Ali Saad,Neurology,Hope Clinic,Port Said,East,A,1,2024-06-21
+D0511,Dr Hassan Mostafa,Endocrinology,Elite Clinic,Jeddah,Gulf,C,1,2023-12-13
+D0512,Dr Khaled Saad,Internal Medicine,Elite Clinic,Jeddah,Gulf,B,1,2024-05-08
+D0513,Dr Ahmed El-Sayed,Pulmonology,Elite Clinic,Riyadh,Gulf,C,1,2024-09-19
+D0514,Dr Ali Ali,ENT,Shifa Clinic,Qena,South,C,1,2023-03-18
+D0515,Dr Youssef Ali,Gastroenterology,Care Clinic,Sohag,South,A,1,2024-10-20
+D0516,Dr Youssef Ali,ENT,Shifa Clinic,Tanta,North,C,1,2025-05-27
+D0517,Dr Hassan El-Sayed,Cardiology,Life Clinic,Tanta,North,A,1,2024-07-24
+D0518,Dr Khaled Mahmoud,General Practice,Life Clinic,Giza,Central,C,1,2024-04-12
+D0519,Dr Omar Saad,Neurology,Shifa Clinic,Sohag,South,C,1,2024-04-29
+D0520,Dr Khaled Mahmoud,Internal Medicine,Elite Clinic,Riyadh,Gulf,A,1,2023-01-03
+D0521,Dr Youssef Hassan,General Practice,Elite Clinic,Port Said,East,B,1,2023-06-18
+D0522,Dr Ahmed Ali,Pediatrics,Care Clinic,Jeddah,Gulf,A,1,2023-07-12
+D0523,Dr Ali Saad,Neurology,Hope Clinic,Marsa Matruh,West,A,1,2024-10-10
+D0524,Dr Youssef El-Sayed,ENT,Hope Clinic,Tanta,North,C,0,2023-05-18
+D0525,Dr Hassan Hassan,General Practice,Elite Clinic,Dubai,Gulf,C,1,2024-05-09
+D0526,Dr Khaled Mostafa,Pulmonology,Noor Clinic,Cairo,Central,A,1,2024-09-12
+D0527,Dr Youssef Hassan,Gastroenterology,Care Clinic,Marsa Matruh,West,B,1,2023-10-29
+D0528,Dr Omar Hassan,General Practice,Care Clinic,Siwa,West,C,1,2024-07-20
+D0529,Dr Omar Saad,Gastroenterology,Care Clinic,Qena,South,C,0,2023-05-16
+D0530,Dr Hassan Saad,Internal Medicine,Elite Clinic,Giza,Central,C,1,2024-08-19
+D0531,Dr Youssef Hassan,Pediatrics,Life Clinic,Siwa,West,C,1,2023-01-26
+D0532,Dr Omar Mahmoud,Endocrinology,Care Clinic,Dubai,Gulf,B,1,2023-10-21
+D0533,Dr Ali Ali,Gastroenterology,Life Clinic,Damanhur,North,B,1,2024-01-03
+D0534,Dr Ali Saad,General Practice,Shifa Clinic,Cairo,Central,B,1,2025-03-26
+D0535,Dr Omar Mahmoud,Cardiology,Hope Clinic,Jeddah,Gulf,C,1,2025-03-18
+D0536,Dr Ali Ali,Gastroenterology,Care Clinic,Alexandria,North,B,1,2025-05-31
+D0537,Dr Mohamed Saad,Neurology,Care Clinic,Jeddah,Gulf,C,1,2024-09-09
+D0538,Dr Omar Mostafa,Pulmonology,Life Clinic,Suez,East,C,1,2023-06-27
+D0539,Dr Hassan Mahmoud,Pediatrics,Life Clinic,Marsa Matruh,West,B,1,2023-06-14
+D0540,Dr Ahmed Saad,Pulmonology,Hope Clinic,Suez,East,A,0,2024-09-03
+D0541,Dr Ali Saad,ENT,Shifa Clinic,Riyadh,Gulf,C,1,2023-03-16
+D0542,Dr Youssef Mostafa,Pulmonology,Hope Clinic,Cairo,Central,C,1,2023-06-13
+D0543,Dr Khaled Mahmoud,Neurology,Shifa Clinic,Marsa Matruh,West,B,1,2023-12-06
+D0544,Dr Omar El-Sayed,General Practice,Life Clinic,Qena,South,B,1,2025-02-09
+D0545,Dr Mohamed El-Sayed,ENT,Elite Clinic,Riyadh,Gulf,B,1,2024-09-28
+D0546,Dr Ahmed Mostafa,Internal Medicine,Shifa Clinic,Suez,East,B,1,2023-10-17
+D0547,Dr Khaled Mostafa,ENT,Life Clinic,Giza,Central,A,1,2023-07-17
+D0548,Dr Omar Saad,General Practice,Care Clinic,Alexandria,North,C,1,2023-08-04
+D0549,Dr Omar Ali,Internal Medicine,Elite Clinic,Riyadh,Gulf,B,1,2025-06-18
+D0550,Dr Ahmed El-Sayed,Pulmonology,Life Clinic,Damanhur,North,A,1,2023-02-08
+D0551,Dr Youssef Ali,General Practice,Noor Clinic,Sohag,South,A,1,2023-09-22
+D0552,Dr Hassan El-Sayed,Pediatrics,Elite Clinic,Riyadh,Gulf,B,1,2023-05-02
+D0553,Dr Ali El-Sayed,Internal Medicine,Shifa Clinic,Jeddah,Gulf,C,1,2024-12-18
+D0554,Dr Khaled Ali,Gastroenterology,Noor Clinic,Cairo,Central,C,1,2023-03-30
+D0555,Dr Youssef Mostafa,ENT,Shifa Clinic,Marsa Matruh,West,B,1,2025-02-03
+D0556,Dr Ali Saad,Gastroenterology,Elite Clinic,Dubai,Gulf,C,0,2025-03-25
+D0557,Dr Ahmed Mostafa,General Practice,Hope Clinic,Ismailia,East,C,1,2023-02-12
+D0558,Dr Khaled Hassan,Gastroenterology,Noor Clinic,Marsa Matruh,West,B,1,2025-01-13
+D0559,Dr Khaled Hassan,Pulmonology,Life Clinic,Jeddah,Gulf,B,1,2025-05-04
+D0560,Dr Youssef Saad,Cardiology,Hope Clinic,Qena,South,C,0,2024-07-16
+D0561,Dr Youssef Mahmoud,Internal Medicine,Shifa Clinic,Tanta,North,B,1,2024-08-17
+D0562,Dr Khaled Ali,Endocrinology,Noor Clinic,Qena,South,A,1,2023-07-18
+D0563,Dr Khaled Mahmoud,Gastroenterology,Noor Clinic,Port Said,East,C,1,2024-08-03
+D0564,Dr Omar Ali,Neurology,Shifa Clinic,Asyut,South,B,1,2025-01-27
+D0565,Dr Ali Mahmoud,Neurology,Noor Clinic,Ismailia,East,C,1,2024-01-03
+D0566,Dr Ali Hassan,Pulmonology,Hope Clinic,Cairo,Central,C,1,2023-10-15
+D0567,Dr Hassan Saad,Internal Medicine,Life Clinic,Sohag,South,C,1,2025-05-19
+D0568,Dr Hassan Ali,Endocrinology,Elite Clinic,Giza,Central,C,1,2024-07-10
+D0569,Dr Ali Mahmoud,Pediatrics,Care Clinic,Sohag,South,B,1,2025-01-20
+D0570,Dr Ali Mostafa,Pediatrics,Elite Clinic,Marsa Matruh,West,B,1,2023-09-02
+D0571,Dr Omar Hassan,Pulmonology,Elite Clinic,Qena,South,B,1,2024-08-02
+D0572,Dr Ahmed Mahmoud,Neurology,Shifa Clinic,Riyadh,Gulf,A,1,2023-08-26
+D0573,Dr Youssef Ali,Endocrinology,Life Clinic,Asyut,South,C,1,2024-02-02
+D0574,Dr Ali Mahmoud,Neurology,Elite Clinic,Damanhur,North,A,0,2024-10-10
+D0575,Dr Khaled Mostafa,General Practice,Elite Clinic,Port Said,East,C,1,2024-01-23
+D0576,Dr Youssef Mahmoud,Gastroenterology,Shifa Clinic,Damanhur,North,B,0,2024-06-12
+D0577,Dr Mohamed El-Sayed,Cardiology,Hope Clinic,Siwa,West,C,1,2023-06-19
+D0578,Dr Omar El-Sayed,Endocrinology,Elite Clinic,Riyadh,Gulf,B,1,2024-09-08
+D0579,Dr Youssef Hassan,Neurology,Hope Clinic,Sohag,South,C,1,2024-05-05
+D0580,Dr Hassan Hassan,Pediatrics,Care Clinic,Qena,South,A,1,2024-08-10
+D0581,Dr Khaled Hassan,Cardiology,Hope Clinic,Jeddah,Gulf,C,1,2023-06-20
+D0582,Dr Youssef Ali,Gastroenterology,Care Clinic,Marsa Matruh,West,C,1,2024-09-13
+D0583,Dr Hassan Saad,Pulmonology,Hope Clinic,Sohag,South,C,1,2023-07-06
+D0584,Dr Mohamed Ali,Neurology,Noor Clinic,Ismailia,East,C,1,2023-03-12
+D0585,Dr Omar Ali,Cardiology,Care Clinic,Asyut,South,B,1,2024-05-31
+D0586,Dr Ali Mostafa,Pulmonology,Hope Clinic,Cairo,Central,B,1,2023-02-09
+D0587,Dr Ali El-Sayed,ENT,Elite Clinic,Alexandria,North,C,0,2024-07-06
+D0588,Dr Hassan Ali,General Practice,Care Clinic,Riyadh,Gulf,B,1,2024-12-15
+D0589,Dr Ali Saad,Neurology,Hope Clinic,Siwa,West,C,1,2025-02-18
+D0590,Dr Ahmed Mahmoud,Pulmonology,Hope Clinic,Tanta,North,B,1,2025-05-29
+D0591,Dr Ahmed Mostafa,Gastroenterology,Hope Clinic,Giza,Central,B,1,2025-03-19
+D0592,Dr Khaled Ali,Cardiology,Shifa Clinic,Damanhur,North,B,1,2025-04-03
+D0593,Dr Hassan Ali,Pediatrics,Hope Clinic,Alexandria,North,C,1,2025-05-25
+D0594,Dr Youssef Mostafa,Gastroenterology,Hope Clinic,Port Said,East,C,1,2023-07-28
+D0595,Dr Hassan Mahmoud,Neurology,Elite Clinic,Marsa Matruh,West,C,1,2023-11-11
+D0596,Dr Mohamed El-Sayed,Internal Medicine,Care Clinic,Marsa Matruh,West,C,1,2024-12-17
+D0597,Dr Omar El-Sayed,Neurology,Care Clinic,Giza,Central,C,1,2024-12-01
+D0598,Dr Youssef El-Sayed,Internal Medicine,Life Clinic,Marsa Matruh,West,C,1,2024-09-06
+D0599,Dr Youssef Mostafa,Neurology,Elite Clinic,Ismailia,East,A,1,2024-01-29
+D0600,Dr Youssef Ali,Cardiology,Life Clinic,Giza,Central,C,1,2024-10-17
+D0601,Dr Hassan Mostafa,General Practice,Elite Clinic,Qena,South,B,1,2024-09-05
+D0602,Dr Ahmed Hassan,Pulmonology,Life Clinic,Qena,South,C,1,2024-11-01
+D0603,Dr Hassan El-Sayed,Neurology,Elite Clinic,Suez,East,C,1,2023-07-25
+D0604,Dr Hassan Mahmoud,Internal Medicine,Shifa Clinic,Dubai,Gulf,C,1,2024-07-26
+D0605,Dr Khaled Hassan,Endocrinology,Noor Clinic,Ismailia,East,B,1,2023-01-05
+D0606,Dr Ali Mostafa,General Practice,Shifa Clinic,Cairo,Central,A,1,2023-04-30
+D0607,Dr Mohamed Mahmoud,ENT,Noor Clinic,Giza,Central,C,1,2025-02-27
+D0608,Dr Omar Hassan,Cardiology,Elite Clinic,Riyadh,Gulf,B,1,2024-01-27
+D0609,Dr Ahmed Saad,Neurology,Shifa Clinic,Dubai,Gulf,B,1,2024-07-02
+D0610,Dr Ahmed Mostafa,Internal Medicine,Care Clinic,Sohag,South,B,1,2023-12-17
+D0611,Dr Omar Saad,Neurology,Care Clinic,Siwa,West,B,1,2023-07-07
+D0612,Dr Mohamed Hassan,Endocrinology,Care Clinic,Marsa Matruh,West,C,1,2023-07-31
+D0613,Dr Omar Saad,Pulmonology,Noor Clinic,Giza,Central,C,1,2023-03-22
+D0614,Dr Hassan Mahmoud,General Practice,Noor Clinic,Cairo,Central,C,1,2024-01-16
+D0615,Dr Khaled Ali,ENT,Care Clinic,Giza,Central,B,1,2024-06-07
+D0616,Dr Ahmed Mostafa,Cardiology,Shifa Clinic,Cairo,Central,C,1,2024-07-07
+D0617,Dr Khaled Saad,ENT,Life Clinic,Marsa Matruh,West,C,1,2024-04-16
+D0618,Dr Hassan Mahmoud,Endocrinology,Care Clinic,Damanhur,North,B,1,2024-01-06
+D0619,Dr Khaled Hassan,Endocrinology,Noor Clinic,Giza,Central,B,0,2023-12-18
+D0620,Dr Youssef Mahmoud,Pediatrics,Noor Clinic,Marsa Matruh,West,C,1,2025-05-24
+D0621,Dr Ahmed Saad,Pulmonology,Shifa Clinic,Qena,South,C,1,2025-04-13
+D0622,Dr Omar Hassan,Pediatrics,Noor Clinic,Qena,South,C,1,2025-03-30
+D0623,Dr Omar Mostafa,Pediatrics,Hope Clinic,Alexandria,North,B,0,2025-05-19
+D0624,Dr Ahmed Ali,ENT,Life Clinic,Riyadh,Gulf,B,1,2024-08-04
+D0625,Dr Omar El-Sayed,Cardiology,Noor Clinic,Dubai,Gulf,B,1,2025-05-09
+D0626,Dr Khaled Mahmoud,Gastroenterology,Life Clinic,Riyadh,Gulf,B,1,2025-04-09
+D0627,Dr Hassan Mostafa,Neurology,Elite Clinic,Marsa Matruh,West,C,0,2023-07-23
+D0628,Dr Omar Mostafa,Pulmonology,Noor Clinic,Jeddah,Gulf,C,1,2023-11-29
+D0629,Dr Mohamed Hassan,Internal Medicine,Elite Clinic,Riyadh,Gulf,B,1,2024-10-08
+D0630,Dr Khaled Hassan,Pediatrics,Shifa Clinic,Suez,East,C,1,2023-06-15
+D0631,Dr Khaled Ali,Gastroenterology,Shifa Clinic,Port Said,East,C,1,2024-02-09
+D0632,Dr Ali El-Sayed,General Practice,Care Clinic,Jeddah,Gulf,C,1,2023-07-08
+D0633,Dr Mohamed Hassan,Gastroenterology,Noor Clinic,Dubai,Gulf,C,1,2023-03-23
+D0634,Dr Ahmed Ali,Internal Medicine,Hope Clinic,Alexandria,North,C,1,2023-02-25
+D0635,Dr Khaled Hassan,Gastroenterology,Care Clinic,Alexandria,North,C,1,2024-02-04
+D0636,Dr Mohamed El-Sayed,ENT,Life Clinic,Riyadh,Gulf,C,1,2025-05-08
+D0637,Dr Hassan Mahmoud,Neurology,Hope Clinic,Riyadh,Gulf,C,1,2025-06-10
+D0638,Dr Omar Saad,General Practice,Hope Clinic,Marsa Matruh,West,B,1,2024-10-08
+D0639,Dr Youssef Mahmoud,Neurology,Shifa Clinic,Siwa,West,B,1,2023-04-02
+D0640,Dr Ali Hassan,Pulmonology,Shifa Clinic,Siwa,West,B,1,2025-04-14
+D0641,Dr Youssef Mahmoud,General Practice,Life Clinic,Suez,East,A,0,2025-02-12
+D0642,Dr Youssef Mostafa,Endocrinology,Noor Clinic,Siwa,West,C,1,2023-07-13
+D0643,Dr Youssef Hassan,Pulmonology,Shifa Clinic,Marsa Matruh,West,C,1,2025-04-28
+D0644,Dr Ali Saad,Endocrinology,Elite Clinic,Tanta,North,C,1,2024-09-19
+D0645,Dr Ahmed Hassan,General Practice,Care Clinic,Suez,East,C,1,2025-05-23
+D0646,Dr Youssef Hassan,ENT,Shifa Clinic,Ismailia,East,C,1,2024-09-29
+D0647,Dr Khaled Mahmoud,Cardiology,Care Clinic,Alexandria,North,C,1,2023-04-15
+D0648,Dr Mohamed Mahmoud,Cardiology,Noor Clinic,Riyadh,Gulf,B,1,2024-05-20
+D0649,Dr Ahmed Hassan,Neurology,Life Clinic,Suez,East,B,1,2023-12-05
+D0650,Dr Khaled Ali,Internal Medicine,Life Clinic,Suez,East,C,1,2025-05-11
+D0651,Dr Omar El-Sayed,Endocrinology,Care Clinic,Damanhur,North,B,0,2023-09-11
+D0652,Dr Omar Mahmoud,General Practice,Shifa Clinic,Marsa Matruh,West,C,1,2024-02-03
+D0653,Dr Khaled Ali,Cardiology,Elite Clinic,Qena,South,C,1,2023-05-06
+D0654,Dr Ahmed Hassan,Neurology,Elite Clinic,Ismailia,East,C,1,2023-08-12
+D0655,Dr Youssef Hassan,Cardiology,Life Clinic,Siwa,West,B,1,2023-05-03
+D0656,Dr Ahmed Hassan,ENT,Care Clinic,Damanhur,North,C,1,2025-02-28
+D0657,Dr Ahmed El-Sayed,Neurology,Shifa Clinic,Marsa Matruh,West,C,0,2024-10-02
+D0658,Dr Khaled Mostafa,General Practice,Elite Clinic,Dubai,Gulf,C,1,2023-08-27
+D0659,Dr Mohamed Mahmoud,Endocrinology,Life Clinic,Suez,East,A,1,2025-01-11
+D0660,Dr Hassan Hassan,General Practice,Hope Clinic,Siwa,West,B,1,2023-07-14
+D0661,Dr Hassan Hassan,ENT,Life Clinic,Suez,East,B,1,2025-05-31
+D0662,Dr Youssef El-Sayed,ENT,Elite Clinic,Cairo,Central,B,1,2024-01-11
+D0663,Dr Ali Mostafa,Pulmonology,Care Clinic,Giza,Central,C,1,2024-01-08
+D0664,Dr Mohamed Mostafa,Internal Medicine,Elite Clinic,Port Said,East,C,1,2024-02-01
+D0665,Dr Ahmed Mostafa,Gastroenterology,Elite Clinic,Marsa Matruh,West,B,1,2023-04-24
+D0666,Dr Youssef Hassan,Pulmonology,Life Clinic,Alexandria,North,B,1,2023-04-20
+D0667,Dr Hassan Mahmoud,Pediatrics,Life Clinic,Damanhur,North,C,1,2024-12-19
+D0668,Dr Youssef El-Sayed,Internal Medicine,Noor Clinic,Ismailia,East,A,0,2024-11-02
+D0669,Dr Ali Mahmoud,Neurology,Elite Clinic,Dubai,Gulf,C,0,2024-03-01
+D0670,Dr Khaled El-Sayed,Gastroenterology,Care Clinic,Damanhur,North,C,1,2025-05-04
+D0671,Dr Mohamed Mostafa,Internal Medicine,Elite Clinic,Cairo,Central,C,1,2023-07-14
+D0672,Dr Ahmed Saad,Pulmonology,Hope Clinic,Qena,South,C,1,2025-02-03
+D0673,Dr Mohamed Hassan,ENT,Hope Clinic,Port Said,East,C,1,2023-04-17
+D0674,Dr Khaled Mostafa,Pulmonology,Shifa Clinic,Siwa,West,C,1,2023-12-27
+D0675,Dr Hassan Mostafa,Pediatrics,Care Clinic,Suez,East,C,1,2023-09-04
+D0676,Dr Ahmed Saad,Neurology,Life Clinic,Siwa,West,C,1,2024-02-11
+D0677,Dr Ahmed Mahmoud,Cardiology,Care Clinic,Port Said,East,C,0,2023-11-06
+D0678,Dr Khaled Mostafa,Cardiology,Hope Clinic,Sohag,South,C,0,2025-04-22
+D0679,Dr Khaled Mahmoud,Internal Medicine,Hope Clinic,Cairo,Central,A,1,2023-05-22
+D0680,Dr Hassan Hassan,Gastroenterology,Elite Clinic,Asyut,South,C,1,2024-02-14
+D0681,Dr Omar Saad,Neurology,Hope Clinic,Damanhur,North,C,1,2025-04-25
+D0682,Dr Ahmed El-Sayed,Gastroenterology,Shifa Clinic,Damanhur,North,A,1,2024-01-26
+D0683,Dr Mohamed Saad,Pediatrics,Elite Clinic,Suez,East,C,1,2025-02-27
+D0684,Dr Hassan Mostafa,Pediatrics,Care Clinic,Cairo,Central,A,1,2023-11-23
+D0685,Dr Youssef Mostafa,Endocrinology,Hope Clinic,Port Said,East,B,1,2024-02-07
+D0686,Dr Mohamed Mahmoud,Endocrinology,Life Clinic,Cairo,Central,B,1,2023-06-01
+D0687,Dr Youssef Saad,General Practice,Care Clinic,Marsa Matruh,West,B,1,2024-05-28
+D0688,Dr Mohamed Mostafa,General Practice,Hope Clinic,Sohag,South,B,1,2024-08-08
+D0689,Dr Khaled Saad,Endocrinology,Hope Clinic,Jeddah,Gulf,B,1,2024-03-16
+D0690,Dr Khaled Mostafa,Pediatrics,Elite Clinic,Alexandria,North,B,1,2023-11-25
+D0691,Dr Youssef Mostafa,Pulmonology,Care Clinic,Tanta,North,C,1,2025-04-02
+D0692,Dr Omar El-Sayed,Endocrinology,Life Clinic,Marsa Matruh,West,B,1,2025-02-14
+D0693,Dr Ali Mahmoud,Endocrinology,Life Clinic,Dubai,Gulf,C,0,2025-06-08
+D0694,Dr Mohamed Saad,Internal Medicine,Hope Clinic,Port Said,East,B,1,2023-12-06
+D0695,Dr Hassan Saad,General Practice,Care Clinic,Asyut,South,C,1,2024-05-09
+D0696,Dr Ahmed Mahmoud,Cardiology,Care Clinic,Jeddah,Gulf,B,0,2024-06-23
+D0697,Dr Youssef Saad,Endocrinology,Life Clinic,Tanta,North,C,1,2023-02-24
+D0698,Dr Ali El-Sayed,Gastroenterology,Life Clinic,Tanta,North,C,0,2024-01-04
+D0699,Dr Ahmed Mahmoud,Pediatrics,Noor Clinic,Port Said,East,B,1,2024-12-27
+D0700,Dr Omar El-Sayed,Pulmonology,Life Clinic,Cairo,Central,B,0,2024-07-28
+D0701,Dr Ahmed Mahmoud,Gastroenterology,Elite Clinic,Qena,South,B,1,2023-06-10
+D0702,Dr Khaled El-Sayed,Gastroenterology,Elite Clinic,Suez,East,B,0,2024-05-28
+D0703,Dr Mohamed Mahmoud,Cardiology,Noor Clinic,Suez,East,C,0,2023-08-19
+D0704,Dr Hassan Saad,Internal Medicine,Elite Clinic,Dubai,Gulf,C,1,2024-11-25
+D0705,Dr Hassan Mahmoud,Endocrinology,Noor Clinic,Sohag,South,C,1,2023-11-16
+D0706,Dr Ali Hassan,Endocrinology,Care Clinic,Cairo,Central,C,1,2024-12-01
+D0707,Dr Mohamed Saad,General Practice,Hope Clinic,Port Said,East,C,1,2025-02-27
+D0708,Dr Mohamed Mahmoud,Internal Medicine,Care Clinic,Sohag,South,C,0,2023-05-02
+D0709,Dr Khaled Ali,Neurology,Elite Clinic,Dubai,Gulf,C,1,2024-02-26
+D0710,Dr Mohamed El-Sayed,Gastroenterology,Hope Clinic,Jeddah,Gulf,B,1,2023-05-15
+D0711,Dr Khaled El-Sayed,Endocrinology,Elite Clinic,Giza,Central,C,1,2023-01-27
+D0712,Dr Khaled Hassan,General Practice,Noor Clinic,Marsa Matruh,West,C,1,2024-10-27
+D0713,Dr Ali El-Sayed,Pulmonology,Shifa Clinic,Siwa,West,B,1,2024-02-23
+D0714,Dr Ali Mostafa,Endocrinology,Noor Clinic,Marsa Matruh,West,C,1,2024-03-25
+D0715,Dr Ahmed Mostafa,ENT,Elite Clinic,Riyadh,Gulf,C,1,2025-03-05
+D0716,Dr Hassan Mostafa,Pediatrics,Elite Clinic,Siwa,West,C,1,2024-08-31
+D0717,Dr Ahmed Hassan,General Practice,Hope Clinic,Dubai,Gulf,A,1,2025-06-17
+D0718,Dr Ahmed Hassan,Cardiology,Shifa Clinic,Giza,Central,C,1,2024-10-07
+D0719,Dr Youssef Mahmoud,Gastroenterology,Hope Clinic,Siwa,West,C,1,2023-06-20
+D0720,Dr Youssef El-Sayed,General Practice,Elite Clinic,Damanhur,North,C,1,2024-10-23
+D0721,Dr Hassan Hassan,Pulmonology,Noor Clinic,Cairo,Central,C,0,2024-12-13
+D0722,Dr Mohamed Ali,ENT,Life Clinic,Siwa,West,A,1,2024-12-30
+D0723,Dr Omar Ali,Pulmonology,Elite Clinic,Suez,East,C,1,2023-04-27
+D0724,Dr Hassan Hassan,General Practice,Noor Clinic,Ismailia,East,C,1,2024-06-07
+D0725,Dr Ali Saad,Cardiology,Care Clinic,Giza,Central,C,0,2024-08-02
+D0726,Dr Khaled Saad,Pulmonology,Noor Clinic,Asyut,South,C,1,2023-11-12
+D0727,Dr Ahmed Mostafa,Pulmonology,Shifa Clinic,Port Said,East,A,1,2023-07-27
+D0728,Dr Hassan Ali,ENT,Care Clinic,Tanta,North,C,1,2023-01-06
+D0729,Dr Hassan El-Sayed,ENT,Care Clinic,Qena,South,B,1,2024-09-07
+D0730,Dr Mohamed El-Sayed,General Practice,Elite Clinic,Giza,Central,C,1,2023-07-09
+D0731,Dr Hassan Mahmoud,Pulmonology,Shifa Clinic,Ismailia,East,C,1,2025-05-08
+D0732,Dr Khaled Mostafa,Internal Medicine,Elite Clinic,Alexandria,North,B,1,2024-11-19
+D0733,Dr Khaled El-Sayed,General Practice,Life Clinic,Jeddah,Gulf,B,1,2024-08-15
+D0734,Dr Youssef Mostafa,Neurology,Life Clinic,Suez,East,C,1,2025-02-15
+D0735,Dr Hassan Ali,Pulmonology,Hope Clinic,Suez,East,A,1,2023-12-04
+D0736,Dr Omar Mostafa,Endocrinology,Life Clinic,Qena,South,C,1,2025-01-17
+D0737,Dr Hassan Mostafa,Pediatrics,Shifa Clinic,Siwa,West,C,1,2024-06-22
+D0738,Dr Ali Hassan,ENT,Hope Clinic,Qena,South,C,1,2024-05-19
+D0739,Dr Youssef Saad,Gastroenterology,Life Clinic,Qena,South,C,1,2023-01-25
+D0740,Dr Ali Saad,Pediatrics,Care Clinic,Dubai,Gulf,B,1,2024-07-27
+D0741,Dr Khaled Mahmoud,Endocrinology,Hope Clinic,Damanhur,North,C,1,2023-03-11
+D0742,Dr Omar Mostafa,Cardiology,Hope Clinic,Giza,Central,A,1,2024-02-10
+D0743,Dr Youssef Ali,Endocrinology,Life Clinic,Alexandria,North,B,1,2024-11-19
+D0744,Dr Hassan Mahmoud,ENT,Noor Clinic,Dubai,Gulf,B,1,2025-06-04
+D0745,Dr Hassan Mostafa,General Practice,Life Clinic,Marsa Matruh,West,B,1,2023-11-20
+D0746,Dr Ahmed Hassan,Neurology,Shifa Clinic,Qena,South,C,1,2023-12-29
+D0747,Dr Hassan Ali,Pediatrics,Care Clinic,Tanta,North,C,1,2024-08-07
+D0748,Dr Khaled Ali,Gastroenterology,Life Clinic,Cairo,Central,C,1,2023-02-02
+D0749,Dr Hassan Mahmoud,Neurology,Care Clinic,Marsa Matruh,West,B,0,2023-08-10
+D0750,Dr Hassan El-Sayed,Cardiology,Noor Clinic,Tanta,North,C,0,2024-03-30
+D0751,Dr Hassan Mahmoud,Endocrinology,Shifa Clinic,Cairo,Central,B,1,2025-06-13
+D0752,Dr Ahmed Ali,General Practice,Noor Clinic,Asyut,South,C,1,2025-01-11
+D0753,Dr Ali Mostafa,Internal Medicine,Life Clinic,Jeddah,Gulf,A,0,2024-12-04
+D0754,Dr Khaled El-Sayed,Cardiology,Hope Clinic,Suez,East,A,1,2025-02-02
+D0755,Dr Hassan Mahmoud,Endocrinology,Noor Clinic,Port Said,East,B,1,2023-10-11
+D0756,Dr Hassan Mostafa,Gastroenterology,Hope Clinic,Dubai,Gulf,A,1,2023-01-16
+D0757,Dr Omar Mahmoud,General Practice,Hope Clinic,Alexandria,North,B,1,2023-05-25
+D0758,Dr Youssef El-Sayed,Internal Medicine,Care Clinic,Asyut,South,B,1,2024-07-07
+D0759,Dr Youssef Hassan,Cardiology,Elite Clinic,Tanta,North,A,1,2024-03-12
+D0760,Dr Ali Saad,Neurology,Hope Clinic,Giza,Central,B,1,2024-12-31
+D0761,Dr Youssef El-Sayed,Pulmonology,Noor Clinic,Tanta,North,A,1,2024-12-16
+D0762,Dr Ali Mostafa,ENT,Shifa Clinic,Port Said,East,B,0,2023-05-28
+D0763,Dr Ali Mahmoud,Pulmonology,Noor Clinic,Suez,East,C,1,2025-03-18
+D0764,Dr Ali Hassan,Internal Medicine,Shifa Clinic,Marsa Matruh,West,B,1,2024-04-17
+D0765,Dr Ali El-Sayed,Pulmonology,Shifa Clinic,Port Said,East,C,1,2025-01-01
+D0766,Dr Mohamed Mostafa,Gastroenterology,Care Clinic,Cairo,Central,C,1,2024-02-28
+D0767,Dr Omar Mostafa,ENT,Noor Clinic,Cairo,Central,B,1,2025-04-13
+D0768,Dr Ahmed Saad,General Practice,Elite Clinic,Siwa,West,C,1,2024-11-16
+D0769,Dr Ahmed Ali,Internal Medicine,Care Clinic,Giza,Central,C,1,2024-07-22
+D0770,Dr Ali Ali,Internal Medicine,Shifa Clinic,Suez,East,C,1,2024-09-02
+D0771,Dr Ali Saad,Internal Medicine,Life Clinic,Marsa Matruh,West,B,1,2024-08-17
+D0772,Dr Hassan Ali,Pulmonology,Care Clinic,Qena,South,B,1,2024-09-22
+D0773,Dr Khaled Ali,Neurology,Elite Clinic,Qena,South,B,1,2024-11-26
+D0774,Dr Mohamed Mahmoud,Cardiology,Life Clinic,Ismailia,East,C,1,2025-05-17
+D0775,Dr Ahmed Mahmoud,Cardiology,Life Clinic,Port Said,East,A,1,2024-01-03
+D0776,Dr Youssef Ali,Pediatrics,Hope Clinic,Sohag,South,C,1,2024-02-20
+D0777,Dr Ali Mahmoud,Pulmonology,Noor Clinic,Qena,South,B,1,2024-01-29
+D0778,Dr Mohamed Saad,Pulmonology,Noor Clinic,Sohag,South,A,1,2023-01-17
+D0779,Dr Ali Ali,Pulmonology,Elite Clinic,Riyadh,Gulf,A,1,2024-03-01
+D0780,Dr Youssef Ali,Pulmonology,Shifa Clinic,Giza,Central,B,1,2025-04-19
+D0781,Dr Omar Hassan,Pediatrics,Elite Clinic,Asyut,South,C,1,2025-05-17
+D0782,Dr Ahmed Mostafa,Pediatrics,Noor Clinic,Giza,Central,C,1,2023-02-04
+D0783,Dr Mohamed Saad,Internal Medicine,Elite Clinic,Riyadh,Gulf,C,0,2023-03-23
+D0784,Dr Ahmed Hassan,ENT,Noor Clinic,Giza,Central,C,1,2024-09-16
+D0785,Dr Khaled Mostafa,Internal Medicine,Life Clinic,Jeddah,Gulf,C,1,2024-08-16
+D0786,Dr Hassan Saad,Cardiology,Shifa Clinic,Port Said,East,B,1,2024-04-25
+D0787,Dr Omar Mahmoud,Gastroenterology,Elite Clinic,Siwa,West,B,1,2024-09-03
+D0788,Dr Ahmed Saad,Cardiology,Shifa Clinic,Giza,Central,C,1,2024-08-09
+D0789,Dr Ahmed Mahmoud,Cardiology,Shifa Clinic,Jeddah,Gulf,B,1,2024-06-01
+D0790,Dr Ahmed Mostafa,Gastroenterology,Care Clinic,Qena,South,B,1,2025-01-29
+D0791,Dr Omar Hassan,ENT,Noor Clinic,Cairo,Central,B,1,2025-03-12
+D0792,Dr Hassan Hassan,Cardiology,Noor Clinic,Qena,South,B,1,2023-05-29
+D0793,Dr Mohamed Mostafa,Endocrinology,Elite Clinic,Siwa,West,C,1,2023-06-21
+D0794,Dr Youssef Ali,Gastroenterology,Noor Clinic,Ismailia,East,C,1,2023-06-21
+D0795,Dr Youssef Mahmoud,General Practice,Care Clinic,Suez,East,B,1,2024-02-04
+D0796,Dr Omar Mahmoud,Cardiology,Hope Clinic,Giza,Central,B,1,2024-01-27
+D0797,Dr Youssef Mostafa,Internal Medicine,Elite Clinic,Dubai,Gulf,C,1,2025-05-14
+D0798,Dr Hassan Ali,Gastroenterology,Noor Clinic,Suez,East,B,1,2024-11-01
+D0799,Dr Hassan Mahmoud,Endocrinology,Elite Clinic,Jeddah,Gulf,C,1,2023-07-19
+D0800,Dr Ahmed El-Sayed,Neurology,Noor Clinic,Dubai,Gulf,C,1,2025-05-01
+D0801,Dr Khaled Mahmoud,Internal Medicine,Care Clinic,Damanhur,North,C,1,2025-01-12
+D0802,Dr Mohamed Mostafa,Internal Medicine,Elite Clinic,Alexandria,North,A,1,2025-05-05
+D0803,Dr Omar Saad,Internal Medicine,Hope Clinic,Damanhur,North,A,1,2024-01-20
+D0804,Dr Omar Ali,Pulmonology,Shifa Clinic,Asyut,South,B,1,2023-03-19
+D0805,Dr Ahmed Ali,Gastroenterology,Noor Clinic,Siwa,West,B,1,2025-03-06
+D0806,Dr Ahmed Ali,Gastroenterology,Care Clinic,Ismailia,East,C,1,2024-03-27
+D0807,Dr Ali Ali,Pulmonology,Care Clinic,Giza,Central,C,1,2024-07-07
+D0808,Dr Ahmed Mostafa,ENT,Elite Clinic,Cairo,Central,C,1,2023-03-16
+D0809,Dr Ahmed El-Sayed,Cardiology,Elite Clinic,Suez,East,C,1,2024-10-17
+D0810,Dr Ahmed Mostafa,Pulmonology,Elite Clinic,Siwa,West,C,0,2024-08-11
+D0811,Dr Ali El-Sayed,Pediatrics,Hope Clinic,Siwa,West,B,1,2025-04-11
+D0812,Dr Ahmed Mostafa,Pediatrics,Hope Clinic,Asyut,South,C,1,2024-05-08
+D0813,Dr Ahmed Mahmoud,Gastroenterology,Hope Clinic,Suez,East,B,1,2024-10-24
+D0814,Dr Mohamed Mostafa,ENT,Life Clinic,Ismailia,East,C,1,2023-07-27
+D0815,Dr Omar Mahmoud,Gastroenterology,Noor Clinic,Marsa Matruh,West,C,1,2024-10-07
+D0816,Dr Ahmed Saad,ENT,Hope Clinic,Damanhur,North,C,1,2023-07-17
+D0817,Dr Youssef Mostafa,Pediatrics,Noor Clinic,Sohag,South,A,1,2023-11-12
+D0818,Dr Youssef El-Sayed,Neurology,Care Clinic,Alexandria,North,A,1,2023-02-13
+D0819,Dr Hassan Hassan,General Practice,Elite Clinic,Jeddah,Gulf,B,1,2025-06-14
+D0820,Dr Ahmed Ali,Internal Medicine,Hope Clinic,Cairo,Central,A,1,2024-10-31
+D0821,Dr Ali El-Sayed,Pulmonology,Noor Clinic,Alexandria,North,A,1,2023-11-11
+D0822,Dr Hassan Mostafa,Internal Medicine,Care Clinic,Cairo,Central,C,1,2024-05-24
+D0823,Dr Omar Ali,Pediatrics,Shifa Clinic,Alexandria,North,B,1,2025-01-25
+D0824,Dr Mohamed El-Sayed,General Practice,Hope Clinic,Damanhur,North,A,1,2025-03-23
+D0825,Dr Mohamed Saad,Internal Medicine,Shifa Clinic,Sohag,South,A,1,2024-03-01
+D0826,Dr Ahmed Saad,ENT,Hope Clinic,Cairo,Central,B,1,2023-05-17
+D0827,Dr Mohamed El-Sayed,Cardiology,Elite Clinic,Marsa Matruh,West,C,1,2023-01-08
+D0828,Dr Youssef Saad,Gastroenterology,Care Clinic,Jeddah,Gulf,B,1,2025-03-02
+D0829,Dr Hassan Saad,Gastroenterology,Life Clinic,Asyut,South,C,1,2023-06-28
+D0830,Dr Ali Mahmoud,ENT,Shifa Clinic,Cairo,Central,C,1,2025-04-26
+D0831,Dr Ahmed Mostafa,General Practice,Shifa Clinic,Marsa Matruh,West,B,1,2024-06-26
+D0832,Dr Ahmed Hassan,ENT,Life Clinic,Cairo,Central,C,1,2023-10-11
+D0833,Dr Ahmed Saad,ENT,Shifa Clinic,Qena,South,B,1,2023-02-14
+D0834,Dr Youssef El-Sayed,Pediatrics,Life Clinic,Ismailia,East,B,1,2025-02-15
+D0835,Dr Hassan El-Sayed,General Practice,Life Clinic,Dubai,Gulf,B,1,2024-05-11
+D0836,Dr Omar Saad,ENT,Shifa Clinic,Qena,South,C,1,2023-07-23
+D0837,Dr Ali Hassan,Neurology,Noor Clinic,Asyut,South,B,1,2024-02-27
+D0838,Dr Mohamed Hassan,ENT,Hope Clinic,Asyut,South,C,1,2024-03-22
+D0839,Dr Omar Mahmoud,Pediatrics,Shifa Clinic,Marsa Matruh,West,B,1,2023-07-18
+D0840,Dr Mohamed El-Sayed,Pulmonology,Noor Clinic,Sohag,South,A,1,2023-10-15
+D0841,Dr Hassan Hassan,Pulmonology,Elite Clinic,Siwa,West,C,1,2023-10-30
+D0842,Dr Hassan Ali,General Practice,Care Clinic,Cairo,Central,C,1,2025-05-27
+D0843,Dr Ali Hassan,ENT,Care Clinic,Giza,Central,B,1,2025-01-23
+D0844,Dr Hassan El-Sayed,Endocrinology,Noor Clinic,Suez,East,C,1,2023-06-02
+D0845,Dr Hassan Ali,ENT,Noor Clinic,Alexandria,North,C,1,2024-03-11
+D0846,Dr Ahmed Saad,ENT,Elite Clinic,Dubai,Gulf,B,1,2025-02-10
+D0847,Dr Ahmed Ali,Pulmonology,Elite Clinic,Marsa Matruh,West,B,1,2023-04-03
+D0848,Dr Youssef Ali,ENT,Care Clinic,Ismailia,East,C,1,2023-01-25
+D0849,Dr Omar Saad,Pulmonology,Life Clinic,Riyadh,Gulf,C,1,2024-04-20
+D0850,Dr Khaled Ali,Pediatrics,Shifa Clinic,Dubai,Gulf,C,1,2023-02-03
+D0851,Dr Ahmed Mostafa,General Practice,Shifa Clinic,Jeddah,Gulf,C,1,2024-12-02
+D0852,Dr Ahmed Ali,General Practice,Shifa Clinic,Dubai,Gulf,C,1,2023-02-22
+D0853,Dr Ahmed Mostafa,Neurology,Elite Clinic,Marsa Matruh,West,B,1,2024-12-22
+D0854,Dr Omar Mostafa,Neurology,Elite Clinic,Asyut,South,B,1,2024-05-04
+D0855,Dr Omar Ali,Endocrinology,Shifa Clinic,Qena,South,B,1,2024-05-30
+D0856,Dr Ali El-Sayed,Neurology,Noor Clinic,Alexandria,North,B,1,2024-06-23
+D0857,Dr Ali Saad,General Practice,Elite Clinic,Jeddah,Gulf,C,1,2024-01-12
+D0858,Dr Khaled El-Sayed,ENT,Life Clinic,Alexandria,North,A,1,2023-07-03
+D0859,Dr Mohamed Mostafa,Internal Medicine,Elite Clinic,Sohag,South,C,1,2025-06-14
+D0860,Dr Youssef Mahmoud,Pediatrics,Noor Clinic,Tanta,North,C,1,2023-05-16
+D0861,Dr Mohamed Mostafa,Gastroenterology,Elite Clinic,Marsa Matruh,West,B,1,2025-04-01
+D0862,Dr Hassan Saad,Neurology,Elite Clinic,Suez,East,C,1,2024-05-12
+D0863,Dr Khaled Hassan,ENT,Shifa Clinic,Giza,Central,B,1,2025-03-19
+D0864,Dr Mohamed Mahmoud,Neurology,Shifa Clinic,Sohag,South,C,1,2023-02-18
+D0865,Dr Ali Saad,Pulmonology,Elite Clinic,Marsa Matruh,West,C,1,2023-06-29
+D0866,Dr Hassan Hassan,Pulmonology,Noor Clinic,Dubai,Gulf,B,1,2023-11-21
+D0867,Dr Khaled Mahmoud,Pulmonology,Care Clinic,Suez,East,B,1,2024-11-12
+D0868,Dr Ahmed Ali,General Practice,Noor Clinic,Suez,East,C,1,2023-05-05
+D0869,Dr Hassan Mahmoud,Neurology,Elite Clinic,Sohag,South,B,0,2024-07-13
+D0870,Dr Hassan Saad,ENT,Care Clinic,Riyadh,Gulf,C,0,2025-02-11
+D0871,Dr Mohamed Saad,Neurology,Hope Clinic,Giza,Central,C,1,2023-02-11
+D0872,Dr Khaled El-Sayed,Cardiology,Shifa Clinic,Tanta,North,B,1,2024-04-01
+D0873,Dr Khaled Hassan,Endocrinology,Life Clinic,Damanhur,North,C,1,2025-02-24
+D0874,Dr Youssef Hassan,ENT,Noor Clinic,Damanhur,North,C,0,2024-06-08
+D0875,Dr Youssef Hassan,General Practice,Elite Clinic,Port Said,East,C,0,2024-01-05
+D0876,Dr Khaled Ali,Pediatrics,Hope Clinic,Siwa,West,B,1,2023-12-26
+D0877,Dr Khaled Hassan,ENT,Elite Clinic,Alexandria,North,C,1,2024-03-29
+D0878,Dr Mohamed Mahmoud,Pulmonology,Noor Clinic,Siwa,West,C,1,2023-05-28
+D0879,Dr Ahmed El-Sayed,Internal Medicine,Noor Clinic,Giza,Central,C,1,2024-01-20
+D0880,Dr Ali Hassan,Pediatrics,Care Clinic,Riyadh,Gulf,B,1,2024-08-04
+D0881,Dr Khaled Mostafa,Gastroenterology,Shifa Clinic,Sohag,South,C,1,2025-04-26
+D0882,Dr Khaled Saad,Endocrinology,Elite Clinic,Siwa,West,A,1,2023-09-26
+D0883,Dr Omar Hassan,Gastroenterology,Life Clinic,Marsa Matruh,West,B,1,2024-12-05
+D0884,Dr Khaled Mostafa,ENT,Noor Clinic,Tanta,North,C,1,2025-02-02
+D0885,Dr Ali El-Sayed,Gastroenterology,Shifa Clinic,Giza,Central,C,1,2024-12-11
+D0886,Dr Youssef Saad,Gastroenterology,Care Clinic,Cairo,Central,B,1,2023-11-24
+D0887,Dr Ahmed Mahmoud,Cardiology,Shifa Clinic,Ismailia,East,B,1,2023-12-31
+D0888,Dr Ahmed Mostafa,General Practice,Care Clinic,Cairo,Central,B,1,2025-02-22
+D0889,Dr Khaled Saad,Neurology,Elite Clinic,Giza,Central,C,1,2023-11-05
+D0890,Dr Ahmed Hassan,Internal Medicine,Hope Clinic,Riyadh,Gulf,C,1,2023-05-28
+D0891,Dr Ahmed Hassan,ENT,Care Clinic,Suez,East,B,0,2023-06-16
+D0892,Dr Ali Mostafa,Endocrinology,Hope Clinic,Cairo,Central,C,1,2024-12-07
+D0893,Dr Ali Hassan,Internal Medicine,Life Clinic,Jeddah,Gulf,B,0,2023-04-30
+D0894,Dr Hassan Mostafa,Gastroenterology,Shifa Clinic,Siwa,West,C,1,2024-03-28
+D0895,Dr Mohamed Saad,Gastroenterology,Care Clinic,Qena,South,A,1,2023-08-16
+D0896,Dr Youssef Saad,Gastroenterology,Life Clinic,Dubai,Gulf,A,1,2023-03-22
+D0897,Dr Ahmed Saad,ENT,Hope Clinic,Alexandria,North,C,1,2023-04-21
+D0898,Dr Khaled Saad,ENT,Life Clinic,Cairo,Central,A,1,2023-03-09
+D0899,Dr Khaled El-Sayed,Endocrinology,Life Clinic,Alexandria,North,C,1,2024-11-17
+D0900,Dr Ali Mostafa,Gastroenterology,Elite Clinic,Qena,South,C,1,2023-06-14
+D0901,Dr Ali El-Sayed,General Practice,Hope Clinic,Cairo,Central,C,1,2024-08-15
+D0902,Dr Hassan El-Sayed,Endocrinology,Elite Clinic,Qena,South,C,1,2025-02-11
+D0903,Dr Hassan Hassan,General Practice,Noor Clinic,Alexandria,North,C,1,2024-12-15
+D0904,Dr Mohamed Mostafa,Pulmonology,Care Clinic,Dubai,Gulf,C,0,2024-03-10
+D0905,Dr Youssef Mahmoud,Neurology,Elite Clinic,Marsa Matruh,West,A,1,2023-05-20
+D0906,Dr Khaled Ali,Cardiology,Hope Clinic,Port Said,East,A,1,2024-01-30
+D0907,Dr Youssef Hassan,ENT,Life Clinic,Riyadh,Gulf,B,1,2025-05-25
+D0908,Dr Ahmed Ali,Pulmonology,Noor Clinic,Siwa,West,A,1,2024-11-19
+D0909,Dr Ahmed Saad,Internal Medicine,Care Clinic,Cairo,Central,A,1,2024-08-27
+D0910,Dr Ahmed Hassan,Endocrinology,Noor Clinic,Tanta,North,B,1,2024-02-18
+D0911,Dr Khaled Saad,Gastroenterology,Noor Clinic,Riyadh,Gulf,C,1,2024-08-30
+D0912,Dr Ali Ali,Pediatrics,Life Clinic,Suez,East,C,1,2023-05-31
+D0913,Dr Ahmed El-Sayed,ENT,Elite Clinic,Tanta,North,B,1,2023-05-18
+D0914,Dr Hassan Saad,ENT,Shifa Clinic,Alexandria,North,C,0,2024-01-27
+D0915,Dr Ali Ali,Internal Medicine,Noor Clinic,Sohag,South,C,1,2024-06-16
+D0916,Dr Ali Mostafa,ENT,Hope Clinic,Sohag,South,B,1,2023-12-18
+D0917,Dr Khaled Ali,Pediatrics,Noor Clinic,Alexandria,North,C,1,2024-04-05
+D0918,Dr Khaled Saad,Cardiology,Care Clinic,Marsa Matruh,West,B,1,2025-03-09
+D0919,Dr Ahmed Mostafa,Pulmonology,Elite Clinic,Siwa,West,B,1,2025-02-21
+D0920,Dr Youssef Mahmoud,ENT,Noor Clinic,Siwa,West,C,1,2023-02-27
+D0921,Dr Ahmed Mostafa,Neurology,Life Clinic,Giza,Central,C,1,2023-03-04
+D0922,Dr Omar Mahmoud,Neurology,Noor Clinic,Sohag,South,C,1,2025-02-22
+D0923,Dr Omar Hassan,Neurology,Care Clinic,Tanta,North,C,1,2023-02-27
+D0924,Dr Ali Mahmoud,Gastroenterology,Life Clinic,Qena,South,C,0,2023-03-09
+D0925,Dr Ali Ali,Cardiology,Hope Clinic,Ismailia,East,C,1,2024-11-04
+D0926,Dr Khaled Ali,Gastroenterology,Hope Clinic,Giza,Central,A,1,2023-01-23
+D0927,Dr Mohamed Mahmoud,Internal Medicine,Noor Clinic,Siwa,West,C,1,2024-11-22
+D0928,Dr Mohamed Ali,Pulmonology,Elite Clinic,Giza,Central,C,1,2024-03-22
+D0929,Dr Youssef Hassan,Endocrinology,Hope Clinic,Damanhur,North,B,1,2024-08-10
+D0930,Dr Ali Mostafa,Internal Medicine,Noor Clinic,Dubai,Gulf,C,1,2024-08-03
+D0931,Dr Hassan Mahmoud,Neurology,Noor Clinic,Marsa Matruh,West,C,1,2023-11-06
+D0932,Dr Hassan Ali,Neurology,Elite Clinic,Jeddah,Gulf,B,1,2024-10-01
+D0933,Dr Hassan Ali,Cardiology,Care Clinic,Cairo,Central,C,1,2023-07-11
+D0934,Dr Hassan Ali,ENT,Hope Clinic,Jeddah,Gulf,B,1,2025-04-08
+D0935,Dr Mohamed Hassan,Cardiology,Elite Clinic,Jeddah,Gulf,C,1,2023-06-01
+D0936,Dr Omar Hassan,Pediatrics,Noor Clinic,Riyadh,Gulf,B,1,2023-03-07
+D0937,Dr Mohamed El-Sayed,Pulmonology,Care Clinic,Suez,East,B,1,2024-02-20
+D0938,Dr Hassan Ali,Endocrinology,Noor Clinic,Asyut,South,C,1,2024-05-12
+D0939,Dr Ali Mahmoud,Endocrinology,Elite Clinic,Dubai,Gulf,B,1,2023-09-22
+D0940,Dr Ahmed El-Sayed,Cardiology,Shifa Clinic,Cairo,Central,C,1,2023-01-21
+D0941,Dr Omar Saad,Internal Medicine,Life Clinic,Giza,Central,C,1,2024-01-08
+D0942,Dr Hassan Saad,Endocrinology,Hope Clinic,Marsa Matruh,West,A,1,2023-05-04
+D0943,Dr Ali Mahmoud,ENT,Shifa Clinic,Giza,Central,C,1,2023-05-06
+D0944,Dr Mohamed Hassan,Endocrinology,Shifa Clinic,Giza,Central,C,1,2023-04-20
+D0945,Dr Khaled Saad,Gastroenterology,Life Clinic,Siwa,West,C,1,2024-06-30
+D0946,Dr Ali Hassan,Pediatrics,Shifa Clinic,Port Said,East,B,1,2023-10-12
+D0947,Dr Ahmed Saad,Gastroenterology,Elite Clinic,Siwa,West,A,0,2024-09-12
+D0948,Dr Omar Mahmoud,Endocrinology,Elite Clinic,Damanhur,North,B,1,2024-10-16
+D0949,Dr Khaled Mahmoud,Endocrinology,Life Clinic,Damanhur,North,C,1,2024-02-07
+D0950,Dr Omar Mahmoud,Endocrinology,Elite Clinic,Sohag,South,C,1,2024-03-25
+D0951,Dr Youssef Saad,Gastroenterology,Noor Clinic,Marsa Matruh,West,C,1,2024-05-18
+D0952,Dr Mohamed Saad,Pediatrics,Shifa Clinic,Port Said,East,C,1,2025-04-24
+D0953,Dr Omar Mahmoud,Neurology,Noor Clinic,Cairo,Central,B,1,2024-07-14
+D0954,Dr Ali Saad,Cardiology,Care Clinic,Dubai,Gulf,C,1,2024-03-30
+D0955,Dr Ahmed Hassan,Endocrinology,Care Clinic,Tanta,North,C,1,2023-03-26
+D0956,Dr Ali Saad,Pediatrics,Care Clinic,Cairo,Central,C,1,2024-05-04
+D0957,Dr Khaled Hassan,Neurology,Noor Clinic,Ismailia,East,C,1,2024-02-29
+D0958,Dr Hassan Saad,Cardiology,Care Clinic,Marsa Matruh,West,C,0,2024-10-24
+D0959,Dr Youssef Mostafa,Endocrinology,Noor Clinic,Tanta,North,B,1,2023-02-20
+D0960,Dr Ahmed El-Sayed,Pulmonology,Elite Clinic,Giza,Central,A,1,2024-08-03
+D0961,Dr Omar Hassan,ENT,Care Clinic,Giza,Central,C,1,2023-08-18
+D0962,Dr Hassan Hassan,ENT,Shifa Clinic,Suez,East,B,1,2023-07-31
+D0963,Dr Ahmed Mahmoud,Endocrinology,Shifa Clinic,Jeddah,Gulf,B,1,2023-05-30
+D0964,Dr Omar Ali,ENT,Life Clinic,Qena,South,C,1,2024-12-01
+D0965,Dr Omar Hassan,Pulmonology,Elite Clinic,Tanta,North,C,0,2024-02-12
+D0966,Dr Khaled Hassan,Gastroenterology,Noor Clinic,Siwa,West,A,1,2023-02-23
+D0967,Dr Khaled Ali,Cardiology,Elite Clinic,Port Said,East,A,1,2024-01-26
+D0968,Dr Hassan Ali,General Practice,Shifa Clinic,Ismailia,East,A,1,2023-06-23
+D0969,Dr Khaled El-Sayed,Internal Medicine,Shifa Clinic,Marsa Matruh,West,B,1,2023-05-26
+D0970,Dr Khaled Ali,ENT,Shifa Clinic,Alexandria,North,C,1,2025-02-04
+D0971,Dr Khaled Saad,Gastroenterology,Noor Clinic,Port Said,East,C,1,2023-06-18
+D0972,Dr Mohamed El-Sayed,ENT,Noor Clinic,Qena,South,A,1,2023-08-24
+D0973,Dr Ahmed Ali,ENT,Shifa Clinic,Ismailia,East,B,0,2024-05-21
+D0974,Dr Ali Hassan,ENT,Life Clinic,Jeddah,Gulf,B,1,2025-01-07
+D0975,Dr Omar Mostafa,Endocrinology,Shifa Clinic,Ismailia,East,C,1,2023-06-22
+D0976,Dr Ahmed Hassan,Cardiology,Noor Clinic,Cairo,Central,C,1,2024-03-02
+D0977,Dr Ahmed Ali,Neurology,Shifa Clinic,Dubai,Gulf,A,1,2024-11-27
+D0978,Dr Omar Saad,Neurology,Noor Clinic,Cairo,Central,B,1,2025-04-30
+D0979,Dr Youssef Mahmoud,Cardiology,Elite Clinic,Siwa,West,B,1,2024-09-29
+D0980,Dr Khaled Mahmoud,Pulmonology,Life Clinic,Jeddah,Gulf,B,1,2024-10-21
+D0981,Dr Khaled Hassan,General Practice,Care Clinic,Dubai,Gulf,C,1,2024-02-13
+D0982,Dr Youssef Mahmoud,Cardiology,Elite Clinic,Marsa Matruh,West,C,1,2025-03-09
+D0983,Dr Ali Mahmoud,Internal Medicine,Elite Clinic,Dubai,Gulf,B,1,2025-01-23
+D0984,Dr Mohamed Ali,Neurology,Noor Clinic,Cairo,Central,C,1,2024-06-08
+D0985,Dr Youssef Mahmoud,Gastroenterology,Hope Clinic,Siwa,West,C,1,2025-02-13
+D0986,Dr Omar Hassan,Pediatrics,Elite Clinic,Sohag,South,A,1,2024-04-19
+D0987,Dr Hassan El-Sayed,Pulmonology,Shifa Clinic,Jeddah,Gulf,C,1,2024-10-24
+D0988,Dr Mohamed Saad,Internal Medicine,Shifa Clinic,Siwa,West,C,1,2023-06-02
+D0989,Dr Ahmed Mostafa,Pediatrics,Life Clinic,Qena,South,B,1,2023-03-20
+D0990,Dr Ali Mahmoud,Pediatrics,Shifa Clinic,Giza,Central,A,1,2024-08-05
+D0991,Dr Omar Ali,Internal Medicine,Care Clinic,Port Said,East,C,1,2025-01-28
+D0992,Dr Khaled Mostafa,Cardiology,Elite Clinic,Sohag,South,A,1,2023-11-01
+D0993,Dr Mohamed Hassan,Gastroenterology,Care Clinic,Siwa,West,B,0,2025-04-09
+D0994,Dr Ahmed El-Sayed,Gastroenterology,Noor Clinic,Damanhur,North,C,1,2024-07-01
+D0995,Dr Ali Saad,Pulmonology,Elite Clinic,Alexandria,North,C,1,2024-02-19
+D0996,Dr Omar Saad,Gastroenterology,Elite Clinic,Giza,Central,C,0,2024-01-05
+D0997,Dr Ahmed El-Sayed,Gastroenterology,Elite Clinic,Riyadh,Gulf,A,1,2023-07-15
+D0998,Dr Youssef Saad,Endocrinology,Hope Clinic,Asyut,South,B,1,2023-09-05
+D0999,Dr Ahmed El-Sayed,Gastroenterology,Care Clinic,Asyut,South,C,1,2024-03-08
+D1000,Dr Youssef Mostafa,ENT,Care Clinic,Qena,South,C,1,2025-05-30
+D1001,Dr Ali Saad,Pediatrics,Noor Clinic,Sohag,South,A,1,2024-10-07
+D1002,Dr Youssef Mostafa,General Practice,Hope Clinic,Siwa,West,C,1,2024-02-14
+D1003,Dr Youssef Mostafa,ENT,Shifa Clinic,Jeddah,Gulf,B,1,2023-01-20
+D1004,Dr Ahmed Ali,Gastroenterology,Hope Clinic,Cairo,Central,C,1,2024-04-29
+D1005,Dr Omar Hassan,ENT,Noor Clinic,Riyadh,Gulf,C,1,2023-10-22
+D1006,Dr Khaled Mostafa,Endocrinology,Elite Clinic,Suez,East,C,1,2024-12-02
+D1007,Dr Youssef Saad,Pulmonology,Elite Clinic,Riyadh,Gulf,C,1,2024-02-04
+D1008,Dr Mohamed Mahmoud,ENT,Elite Clinic,Riyadh,Gulf,C,1,2024-09-28
+D1009,Dr Youssef El-Sayed,ENT,Noor Clinic,Dubai,Gulf,A,1,2024-09-12
+D1010,Dr Khaled Mahmoud,Endocrinology,Shifa Clinic,Siwa,West,B,1,2023-01-19
+D1011,Dr Ali El-Sayed,Pulmonology,Shifa Clinic,Dubai,Gulf,C,1,2023-02-02
+D1012,Dr Khaled Mahmoud,Endocrinology,Life Clinic,Marsa Matruh,West,A,1,2023-09-22
+D1013,Dr Omar El-Sayed,Pulmonology,Elite Clinic,Giza,Central,C,1,2024-09-10
+D1014,Dr Ali Mostafa,ENT,Hope Clinic,Tanta,North,C,1,2023-04-19
+D1015,Dr Ali Hassan,Cardiology,Shifa Clinic,Damanhur,North,C,1,2023-05-01
+D1016,Dr Omar El-Sayed,Gastroenterology,Care Clinic,Qena,South,C,1,2024-05-25
+D1017,Dr Youssef Ali,Neurology,Life Clinic,Riyadh,Gulf,C,1,2023-07-26
+D1018,Dr Khaled Saad,Neurology,Noor Clinic,Sohag,South,B,1,2023-09-30
+D1019,Dr Ali Hassan,Endocrinology,Care Clinic,Port Said,East,B,1,2024-03-07
+D1020,Dr Ali Saad,Pediatrics,Shifa Clinic,Siwa,West,C,0,2024-06-12
+D1021,Dr Ahmed El-Sayed,Pulmonology,Shifa Clinic,Tanta,North,C,1,2024-06-13
+D1022,Dr Omar Saad,Pulmonology,Care Clinic,Suez,East,B,1,2023-02-07
+D1023,Dr Omar Mostafa,General Practice,Shifa Clinic,Cairo,Central,C,1,2024-11-28
+D1024,Dr Hassan Mostafa,Neurology,Care Clinic,Jeddah,Gulf,C,1,2023-10-14
+D1025,Dr Ali Mostafa,ENT,Elite Clinic,Riyadh,Gulf,C,1,2024-10-01
+D1026,Dr Ahmed Mostafa,Pediatrics,Shifa Clinic,Siwa,West,C,1,2023-03-28
+D1027,Dr Hassan Mostafa,General Practice,Shifa Clinic,Marsa Matruh,West,C,1,2023-04-06
+D1028,Dr Hassan Mahmoud,Pulmonology,Care Clinic,Giza,Central,A,1,2024-07-06
+D1029,Dr Ali Mahmoud,Pediatrics,Shifa Clinic,Port Said,East,C,1,2023-03-03
+D1030,Dr Youssef Mahmoud,Neurology,Hope Clinic,Jeddah,Gulf,A,1,2023-05-08
+D1031,Dr Hassan Mostafa,ENT,Elite Clinic,Dubai,Gulf,B,1,2025-02-02
+D1032,Dr Khaled Saad,General Practice,Elite Clinic,Jeddah,Gulf,C,1,2023-11-03
+D1033,Dr Hassan Mostafa,Pediatrics,Care Clinic,Cairo,Central,C,1,2023-12-02
+D1034,Dr Ahmed El-Sayed,Internal Medicine,Life Clinic,Suez,East,A,1,2024-02-26
+D1035,Dr Hassan Ali,ENT,Hope Clinic,Marsa Matruh,West,B,1,2024-11-24
+D1036,Dr Omar Ali,Gastroenterology,Elite Clinic,Giza,Central,C,1,2024-03-26
+D1037,Dr Mohamed Saad,Pulmonology,Hope Clinic,Marsa Matruh,West,C,1,2024-04-13
+D1038,Dr Hassan Mahmoud,Endocrinology,Life Clinic,Cairo,Central,B,1,2023-06-10
+D1039,Dr Hassan Hassan,Internal Medicine,Life Clinic,Giza,Central,A,1,2023-02-11
+D1040,Dr Mohamed Hassan,Neurology,Hope Clinic,Suez,East,B,1,2025-03-21
+D1041,Dr Omar Ali,Gastroenterology,Life Clinic,Marsa Matruh,West,C,1,2025-04-18
+D1042,Dr Hassan Mahmoud,Neurology,Hope Clinic,Damanhur,North,A,1,2024-05-07
+D1043,Dr Mohamed Hassan,Pediatrics,Hope Clinic,Siwa,West,B,1,2024-09-12
+D1044,Dr Khaled El-Sayed,ENT,Hope Clinic,Riyadh,Gulf,C,1,2025-01-15
+D1045,Dr Hassan El-Sayed,Pediatrics,Elite Clinic,Jeddah,Gulf,B,0,2023-12-14
+D1046,Dr Omar Saad,Internal Medicine,Shifa Clinic,Siwa,West,C,1,2024-08-08
+D1047,Dr Hassan El-Sayed,General Practice,Hope Clinic,Cairo,Central,A,0,2024-07-08
+D1048,Dr Hassan Hassan,ENT,Life Clinic,Cairo,Central,C,1,2024-11-05
+D1049,Dr Youssef El-Sayed,Endocrinology,Hope Clinic,Ismailia,East,C,1,2024-08-16
+D1050,Dr Khaled Ali,Pediatrics,Care Clinic,Giza,Central,C,1,2023-01-24
+D1051,Dr Ahmed Mostafa,General Practice,Care Clinic,Marsa Matruh,West,B,1,2023-04-28
+D1052,Dr Youssef Saad,Pulmonology,Care Clinic,Ismailia,East,B,1,2023-11-11
+D1053,Dr Youssef El-Sayed,Neurology,Shifa Clinic,Damanhur,North,B,1,2023-11-02
+D1054,Dr Ahmed Hassan,Neurology,Care Clinic,Sohag,South,B,0,2023-05-04
+D1055,Dr Khaled El-Sayed,ENT,Shifa Clinic,Cairo,Central,C,1,2023-04-28
+D1056,Dr Ahmed Mahmoud,Internal Medicine,Hope Clinic,Siwa,West,B,1,2023-08-28
+D1057,Dr Khaled Mostafa,Endocrinology,Noor Clinic,Cairo,Central,C,1,2023-05-09
+D1058,Dr Hassan Hassan,General Practice,Care Clinic,Marsa Matruh,West,B,0,2024-01-18
+D1059,Dr Ali Mostafa,General Practice,Shifa Clinic,Giza,Central,B,1,2024-04-20
+D1060,Dr Hassan Mahmoud,Cardiology,Elite Clinic,Dubai,Gulf,A,0,2023-10-07
+D1061,Dr Mohamed Saad,Endocrinology,Hope Clinic,Siwa,West,C,1,2023-02-16
+D1062,Dr Mohamed Saad,Gastroenterology,Hope Clinic,Cairo,Central,A,1,2025-04-30
+D1063,Dr Omar Mahmoud,Endocrinology,Elite Clinic,Suez,East,C,0,2023-11-22
+D1064,Dr Khaled Hassan,ENT,Noor Clinic,Port Said,East,B,1,2023-11-26
+D1065,Dr Hassan Ali,Cardiology,Life Clinic,Giza,Central,C,1,2023-01-03
+D1066,Dr Youssef Ali,Pulmonology,Hope Clinic,Damanhur,North,B,1,2024-12-21
+D1067,Dr Omar Ali,Internal Medicine,Elite Clinic,Damanhur,North,C,1,2025-04-15
+D1068,Dr Ali Saad,Pediatrics,Life Clinic,Tanta,North,C,1,2023-07-01
+D1069,Dr Omar El-Sayed,Neurology,Shifa Clinic,Tanta,North,C,1,2023-08-15
+D1070,Dr Khaled Saad,Neurology,Care Clinic,Jeddah,Gulf,B,1,2024-10-02
+D1071,Dr Omar Mostafa,Neurology,Care Clinic,Sohag,South,A,1,2024-12-21
+D1072,Dr Youssef Hassan,Pediatrics,Hope Clinic,Alexandria,North,A,1,2024-05-27
+D1073,Dr Mohamed Mahmoud,Pulmonology,Hope Clinic,Qena,South,A,1,2023-03-08
+D1074,Dr Omar Mostafa,Gastroenterology,Hope Clinic,Qena,South,B,1,2024-12-10
+D1075,Dr Omar Saad,General Practice,Elite Clinic,Port Said,East,C,1,2024-03-13
+D1076,Dr Omar Mostafa,Pediatrics,Noor Clinic,Tanta,North,C,1,2023-05-05
+D1077,Dr Ahmed Mahmoud,General Practice,Noor Clinic,Siwa,West,C,1,2023-08-18
+D1078,Dr Hassan El-Sayed,Neurology,Elite Clinic,Giza,Central,A,1,2023-03-25
+D1079,Dr Mohamed Mahmoud,Pediatrics,Shifa Clinic,Qena,South,C,0,2023-07-21
+D1080,Dr Hassan Saad,Internal Medicine,Shifa Clinic,Damanhur,North,A,1,2023-01-25
+D1081,Dr Ahmed Mahmoud,Internal Medicine,Hope Clinic,Ismailia,East,B,0,2025-05-02
+D1082,Dr Ahmed El-Sayed,ENT,Life Clinic,Asyut,South,C,1,2024-08-15
+D1083,Dr Mohamed El-Sayed,Neurology,Noor Clinic,Tanta,North,C,1,2025-03-12
+D1084,Dr Ahmed Mahmoud,Pediatrics,Noor Clinic,Tanta,North,A,1,2024-07-26
+D1085,Dr Hassan El-Sayed,Pediatrics,Noor Clinic,Marsa Matruh,West,B,1,2024-11-06
+D1086,Dr Omar Saad,Pediatrics,Life Clinic,Siwa,West,C,1,2023-12-14
+D1087,Dr Ahmed Mostafa,Endocrinology,Care Clinic,Siwa,West,A,1,2024-12-31
+D1088,Dr Hassan Ali,General Practice,Care Clinic,Cairo,Central,B,1,2025-01-12
+D1089,Dr Hassan Saad,Cardiology,Shifa Clinic,Asyut,South,A,1,2024-03-22
+D1090,Dr Hassan Mahmoud,General Practice,Shifa Clinic,Port Said,East,C,1,2023-11-13
+D1091,Dr Mohamed Mostafa,General Practice,Hope Clinic,Ismailia,East,C,1,2023-02-28
+D1092,Dr Ali El-Sayed,Neurology,Shifa Clinic,Tanta,North,B,1,2023-07-26
+D1093,Dr Omar Mahmoud,ENT,Hope Clinic,Qena,South,C,0,2024-09-06
+D1094,Dr Ali El-Sayed,Gastroenterology,Noor Clinic,Giza,Central,B,1,2024-04-10
+D1095,Dr Mohamed Ali,Endocrinology,Elite Clinic,Asyut,South,C,1,2023-08-07
+D1096,Dr Khaled El-Sayed,Pediatrics,Life Clinic,Port Said,East,B,1,2023-01-07
+D1097,Dr Omar Mostafa,General Practice,Shifa Clinic,Ismailia,East,A,1,2023-07-19
+D1098,Dr Omar Hassan,Endocrinology,Shifa Clinic,Alexandria,North,B,1,2023-09-26
+D1099,Dr Ahmed El-Sayed,Pulmonology,Elite Clinic,Cairo,Central,B,1,2023-09-26
+D1100,Dr Mohamed Mahmoud,Internal Medicine,Shifa Clinic,Sohag,South,B,1,2024-04-12
+D1101,Dr Omar El-Sayed,General Practice,Life Clinic,Dubai,Gulf,C,0,2024-03-20
+D1102,Dr Khaled Mostafa,Endocrinology,Noor Clinic,Asyut,South,B,1,2024-01-19
+D1103,Dr Hassan Mahmoud,Cardiology,Care Clinic,Dubai,Gulf,C,1,2025-05-24
+D1104,Dr Ali Mostafa,Cardiology,Hope Clinic,Ismailia,East,C,1,2023-05-10
+D1105,Dr Ahmed Hassan,Internal Medicine,Hope Clinic,Marsa Matruh,West,C,1,2024-09-21
+D1106,Dr Khaled Mostafa,ENT,Elite Clinic,Siwa,West,C,1,2024-12-30
+D1107,Dr Hassan Saad,ENT,Life Clinic,Siwa,West,B,1,2025-03-20
+D1108,Dr Khaled Ali,Endocrinology,Noor Clinic,Asyut,South,B,1,2023-08-12
+D1109,Dr Ahmed Mahmoud,Neurology,Noor Clinic,Cairo,Central,B,1,2025-02-08
+D1110,Dr Khaled Ali,Endocrinology,Noor Clinic,Giza,Central,C,1,2024-09-28
+D1111,Dr Youssef El-Sayed,Pediatrics,Care Clinic,Siwa,West,B,1,2023-10-07
+D1112,Dr Khaled Mostafa,Gastroenterology,Hope Clinic,Marsa Matruh,West,C,1,2023-03-26
+D1113,Dr Khaled El-Sayed,Gastroenterology,Hope Clinic,Cairo,Central,C,1,2023-03-15
+D1114,Dr Ali Saad,Endocrinology,Shifa Clinic,Sohag,South,C,1,2025-02-02
+D1115,Dr Hassan Mahmoud,Pulmonology,Life Clinic,Qena,South,C,1,2025-01-27
+D1116,Dr Ali Mostafa,Neurology,Elite Clinic,Suez,East,C,1,2024-02-20
+D1117,Dr Youssef Hassan,General Practice,Care Clinic,Tanta,North,C,0,2025-06-05
+D1118,Dr Hassan Ali,Endocrinology,Elite Clinic,Jeddah,Gulf,B,1,2025-03-15
+D1119,Dr Omar Ali,Internal Medicine,Care Clinic,Siwa,West,B,1,2025-02-27
+D1120,Dr Mohamed Mahmoud,General Practice,Elite Clinic,Siwa,West,A,1,2025-06-13
+D1121,Dr Ali Ali,Neurology,Elite Clinic,Tanta,North,B,1,2024-12-03
+D1122,Dr Mohamed Hassan,Neurology,Shifa Clinic,Giza,Central,C,1,2023-02-02
+D1123,Dr Youssef Hassan,Pediatrics,Noor Clinic,Giza,Central,B,1,2024-07-01
+D1124,Dr Ahmed Saad,ENT,Hope Clinic,Tanta,North,C,1,2023-06-25
+D1125,Dr Khaled Hassan,ENT,Care Clinic,Asyut,South,A,1,2024-01-31
+D1126,Dr Ahmed Hassan,General Practice,Shifa Clinic,Port Said,East,A,1,2024-06-14
+D1127,Dr Youssef Saad,Pulmonology,Life Clinic,Siwa,West,C,1,2024-03-04
+D1128,Dr Omar Saad,Pulmonology,Noor Clinic,Marsa Matruh,West,C,1,2025-04-17
+D1129,Dr Youssef Mahmoud,Gastroenterology,Care Clinic,Qena,South,C,1,2024-12-02
+D1130,Dr Mohamed Mostafa,ENT,Shifa Clinic,Alexandria,North,A,1,2025-04-06
+D1131,Dr Khaled Saad,ENT,Noor Clinic,Giza,Central,B,1,2023-04-04
+D1132,Dr Mohamed Ali,Gastroenterology,Care Clinic,Port Said,East,B,1,2025-05-20
+D1133,Dr Omar Mostafa,Pediatrics,Life Clinic,Qena,South,B,0,2023-07-07
+D1134,Dr Hassan Mahmoud,Endocrinology,Elite Clinic,Marsa Matruh,West,C,1,2024-10-05
+D1135,Dr Hassan El-Sayed,Endocrinology,Shifa Clinic,Damanhur,North,C,1,2025-02-19
+D1136,Dr Mohamed Mahmoud,General Practice,Care Clinic,Alexandria,North,C,1,2024-04-06
+D1137,Dr Omar Ali,ENT,Noor Clinic,Cairo,Central,A,1,2024-11-22
+D1138,Dr Khaled El-Sayed,Pediatrics,Elite Clinic,Port Said,East,C,1,2023-01-11
+D1139,Dr Omar Hassan,ENT,Elite Clinic,Sohag,South,B,1,2024-07-15
+D1140,Dr Ali El-Sayed,ENT,Hope Clinic,Marsa Matruh,West,C,1,2023-06-24
+D1141,Dr Ahmed Saad,Gastroenterology,Life Clinic,Alexandria,North,A,1,2023-06-22
+D1142,Dr Ahmed Saad,Pulmonology,Hope Clinic,Riyadh,Gulf,B,1,2025-01-01
+D1143,Dr Omar Saad,Cardiology,Elite Clinic,Sohag,South,C,1,2024-10-18
+D1144,Dr Ali Ali,Gastroenterology,Care Clinic,Tanta,North,B,1,2023-02-19
+D1145,Dr Ahmed Mahmoud,Endocrinology,Care Clinic,Sohag,South,B,1,2023-01-29
+D1146,Dr Ali Saad,Internal Medicine,Care Clinic,Jeddah,Gulf,B,1,2025-03-27
+D1147,Dr Khaled Mostafa,Cardiology,Elite Clinic,Dubai,Gulf,B,1,2023-12-01
+D1148,Dr Ahmed Hassan,Endocrinology,Care Clinic,Qena,South,C,1,2024-03-14
+D1149,Dr Ahmed Ali,Neurology,Care Clinic,Tanta,North,B,1,2023-11-20
+D1150,Dr Khaled El-Sayed,Internal Medicine,Life Clinic,Marsa Matruh,West,C,1,2024-09-30
+D1151,Dr Omar Mostafa,Gastroenterology,Hope Clinic,Sohag,South,C,1,2023-04-15
+D1152,Dr Youssef Saad,Internal Medicine,Elite Clinic,Sohag,South,C,0,2024-12-14
+D1153,Dr Ali Saad,Pulmonology,Noor Clinic,Sohag,South,C,1,2023-11-22
+D1154,Dr Hassan Saad,Cardiology,Elite Clinic,Tanta,North,C,1,2024-01-27
+D1155,Dr Khaled Hassan,Cardiology,Elite Clinic,Qena,South,B,1,2023-05-08
+D1156,Dr Mohamed Hassan,Internal Medicine,Noor Clinic,Marsa Matruh,West,A,1,2023-10-31
+D1157,Dr Omar Mahmoud,Cardiology,Care Clinic,Qena,South,B,1,2024-03-30
+D1158,Dr Ali Mahmoud,Cardiology,Life Clinic,Suez,East,C,0,2024-10-25
+D1159,Dr Omar Hassan,Neurology,Elite Clinic,Qena,South,B,1,2023-02-25
+D1160,Dr Mohamed Ali,Endocrinology,Elite Clinic,Jeddah,Gulf,C,1,2023-11-26
+D1161,Dr Mohamed Hassan,ENT,Care Clinic,Alexandria,North,A,1,2024-10-11
+D1162,Dr Hassan El-Sayed,General Practice,Noor Clinic,Alexandria,North,C,0,2023-08-30
+D1163,Dr Mohamed Mostafa,Gastroenterology,Care Clinic,Riyadh,Gulf,B,1,2024-03-10
+D1164,Dr Ali Ali,ENT,Life Clinic,Suez,East,C,1,2025-06-02
+D1165,Dr Hassan Saad,Pediatrics,Noor Clinic,Suez,East,B,1,2024-06-01
+D1166,Dr Ali Mahmoud,Cardiology,Hope Clinic,Sohag,South,C,1,2023-03-27
+D1167,Dr Khaled Ali,General Practice,Shifa Clinic,Cairo,Central,C,1,2024-04-19
+D1168,Dr Mohamed Hassan,Internal Medicine,Life Clinic,Siwa,West,B,1,2023-07-20
+D1169,Dr Omar Mahmoud,Neurology,Noor Clinic,Damanhur,North,B,0,2024-02-09
+D1170,Dr Youssef Mostafa,Internal Medicine,Care Clinic,Siwa,West,B,1,2023-05-08
+D1171,Dr Hassan Saad,Gastroenterology,Noor Clinic,Sohag,South,C,1,2023-12-23
+D1172,Dr Omar Hassan,Neurology,Care Clinic,Jeddah,Gulf,C,1,2024-03-10
+D1173,Dr Omar Saad,Neurology,Care Clinic,Marsa Matruh,West,C,1,2024-12-15
+D1174,Dr Hassan Mostafa,ENT,Elite Clinic,Port Said,East,C,1,2023-09-11
+D1175,Dr Youssef Saad,Internal Medicine,Hope Clinic,Asyut,South,C,1,2024-01-29
+D1176,Dr Khaled Saad,Endocrinology,Shifa Clinic,Damanhur,North,C,1,2024-03-13
+D1177,Dr Ali El-Sayed,Gastroenterology,Life Clinic,Giza,Central,C,1,2025-01-15
+D1178,Dr Omar Ali,Neurology,Elite Clinic,Jeddah,Gulf,C,1,2023-08-03
+D1179,Dr Ali Saad,Pulmonology,Noor Clinic,Ismailia,East,C,1,2023-03-13
+D1180,Dr Mohamed Saad,Gastroenterology,Care Clinic,Giza,Central,C,1,2024-01-19
+D1181,Dr Ali Hassan,Pulmonology,Care Clinic,Sohag,South,C,1,2024-08-03
+D1182,Dr Youssef Ali,Pulmonology,Elite Clinic,Asyut,South,C,1,2025-06-11
+D1183,Dr Khaled El-Sayed,Pulmonology,Shifa Clinic,Cairo,Central,A,1,2023-05-08
+D1184,Dr Ahmed El-Sayed,Endocrinology,Shifa Clinic,Damanhur,North,B,1,2023-04-14
+D1185,Dr Youssef Mostafa,Cardiology,Hope Clinic,Damanhur,North,A,1,2023-01-08
+D1186,Dr Khaled Saad,ENT,Shifa Clinic,Suez,East,C,1,2023-12-11
+D1187,Dr Khaled Mahmoud,Neurology,Life Clinic,Ismailia,East,C,1,2023-02-28
+D1188,Dr Ahmed Mostafa,Pediatrics,Life Clinic,Tanta,North,C,1,2023-05-23
+D1189,Dr Ali Ali,Endocrinology,Hope Clinic,Giza,Central,B,1,2024-11-05
+D1190,Dr Khaled El-Sayed,Cardiology,Elite Clinic,Marsa Matruh,West,C,0,2025-04-12
+D1191,Dr Youssef Saad,Neurology,Hope Clinic,Ismailia,East,C,1,2024-05-11
+D1192,Dr Omar Saad,Pediatrics,Life Clinic,Tanta,North,C,0,2024-05-02
+D1193,Dr Hassan Mostafa,Gastroenterology,Elite Clinic,Riyadh,Gulf,C,1,2025-06-09
+D1194,Dr Omar Mostafa,Pulmonology,Noor Clinic,Cairo,Central,B,1,2025-05-02
+D1195,Dr Mohamed Hassan,Internal Medicine,Elite Clinic,Sohag,South,B,1,2023-09-07
+D1196,Dr Khaled Ali,Internal Medicine,Shifa Clinic,Dubai,Gulf,B,1,2023-06-14
+D1197,Dr Ahmed Saad,Gastroenterology,Care Clinic,Qena,South,C,0,2024-11-17
+D1198,Dr Hassan Mostafa,Internal Medicine,Life Clinic,Giza,Central,C,1,2023-08-18
+D1199,Dr Youssef Saad,Pediatrics,Elite Clinic,Riyadh,Gulf,C,1,2025-01-12
+D1200,Dr Ahmed El-Sayed,Endocrinology,Shifa Clinic,Giza,Central,B,1,2023-03-31
+D1201,Dr Mohamed Mahmoud,Endocrinology,Noor Clinic,Jeddah,Gulf,C,1,2024-01-12
+D1202,Dr Youssef Ali,Gastroenterology,Shifa Clinic,Cairo,Central,A,1,2025-05-17
+D1203,Dr Ahmed Ali,Pulmonology,Life Clinic,Port Said,East,C,1,2023-08-16
+D1204,Dr Mohamed Ali,Neurology,Elite Clinic,Giza,Central,A,0,2025-05-07
+D1205,Dr Ali Saad,Gastroenterology,Life Clinic,Marsa Matruh,West,A,1,2025-03-31
+D1206,Dr Ali Saad,Gastroenterology,Hope Clinic,Giza,Central,C,1,2023-10-08
+D1207,Dr Ali Mahmoud,ENT,Care Clinic,Marsa Matruh,West,B,0,2023-03-02
+D1208,Dr Ali Hassan,Endocrinology,Noor Clinic,Dubai,Gulf,C,1,2025-06-05
+D1209,Dr Mohamed El-Sayed,Gastroenterology,Hope Clinic,Riyadh,Gulf,C,1,2025-05-18
+D1210,Dr Youssef Ali,Pediatrics,Life Clinic,Siwa,West,C,0,2025-02-14
+D1211,Dr Hassan Ali,Gastroenterology,Life Clinic,Giza,Central,C,1,2025-05-26
+D1212,Dr Omar Hassan,Cardiology,Hope Clinic,Sohag,South,C,1,2024-04-13
+D1213,Dr Ali Saad,ENT,Care Clinic,Sohag,South,B,1,2023-08-12
+D1214,Dr Omar Hassan,Cardiology,Noor Clinic,Jeddah,Gulf,B,1,2023-04-15
+D1215,Dr Ahmed El-Sayed,Cardiology,Hope Clinic,Marsa Matruh,West,A,0,2023-07-03
+D1216,Dr Mohamed El-Sayed,Pediatrics,Life Clinic,Riyadh,Gulf,C,1,2024-02-18
+D1217,Dr Omar Saad,ENT,Noor Clinic,Sohag,South,B,1,2023-06-26
+D1218,Dr Youssef Mahmoud,Internal Medicine,Elite Clinic,Jeddah,Gulf,C,1,2024-10-27
+D1219,Dr Youssef Saad,Neurology,Elite Clinic,Riyadh,Gulf,A,1,2023-05-05
+D1220,Dr Khaled Saad,Cardiology,Elite Clinic,Cairo,Central,C,0,2024-05-06
+D1221,Dr Youssef Mahmoud,Pulmonology,Hope Clinic,Damanhur,North,B,0,2024-12-20
+D1222,Dr Hassan Hassan,Neurology,Noor Clinic,Asyut,South,A,0,2025-03-25
+D1223,Dr Hassan Ali,Pediatrics,Life Clinic,Dubai,Gulf,C,1,2025-04-11
+D1224,Dr Ali Mostafa,Endocrinology,Elite Clinic,Cairo,Central,C,1,2023-07-05
+D1225,Dr Mohamed Mostafa,General Practice,Care Clinic,Asyut,South,B,1,2023-02-10
+D1226,Dr Ahmed El-Sayed,Internal Medicine,Hope Clinic,Dubai,Gulf,C,1,2023-02-05
+D1227,Dr Ahmed Hassan,General Practice,Shifa Clinic,Suez,East,B,0,2024-11-04
+D1228,Dr Youssef Saad,Gastroenterology,Shifa Clinic,Damanhur,North,C,1,2024-08-13
+D1229,Dr Ali El-Sayed,General Practice,Care Clinic,Giza,Central,C,1,2024-11-09
+D1230,Dr Hassan Mostafa,Pulmonology,Care Clinic,Alexandria,North,B,1,2023-05-18
+D1231,Dr Hassan Mahmoud,Gastroenterology,Shifa Clinic,Giza,Central,A,1,2023-03-18
+D1232,Dr Youssef Saad,Pediatrics,Care Clinic,Marsa Matruh,West,B,0,2024-11-23
+D1233,Dr Omar Saad,Internal Medicine,Care Clinic,Cairo,Central,C,1,2024-10-10
+D1234,Dr Khaled Ali,General Practice,Noor Clinic,Riyadh,Gulf,C,1,2023-06-07
+D1235,Dr Omar Mostafa,Endocrinology,Noor Clinic,Damanhur,North,A,1,2023-04-23
+D1236,Dr Mohamed Hassan,Internal Medicine,Shifa Clinic,Tanta,North,B,1,2023-10-07
+D1237,Dr Ali El-Sayed,Pediatrics,Care Clinic,Alexandria,North,C,1,2023-04-18
+D1238,Dr Ali Mahmoud,ENT,Hope Clinic,Giza,Central,A,1,2024-08-08
+D1239,Dr Youssef Hassan,Internal Medicine,Shifa Clinic,Port Said,East,C,1,2025-02-08
+D1240,Dr Youssef Mostafa,General Practice,Care Clinic,Jeddah,Gulf,C,1,2024-02-17
+D1241,Dr Youssef Mostafa,General Practice,Elite Clinic,Ismailia,East,C,1,2023-05-27
+D1242,Dr Youssef Saad,Neurology,Noor Clinic,Ismailia,East,C,1,2024-09-15
+D1243,Dr Youssef Mostafa,Neurology,Elite Clinic,Sohag,South,C,1,2023-10-10
+D1244,Dr Ali El-Sayed,Internal Medicine,Elite Clinic,Sohag,South,C,1,2023-11-17
+D1245,Dr Ahmed Saad,Endocrinology,Shifa Clinic,Alexandria,North,C,1,2023-02-28
+D1246,Dr Omar Hassan,Cardiology,Noor Clinic,Giza,Central,C,1,2024-06-04
+D1247,Dr Omar El-Sayed,Pediatrics,Elite Clinic,Marsa Matruh,West,A,1,2025-05-01
+D1248,Dr Hassan Saad,Endocrinology,Hope Clinic,Siwa,West,C,1,2025-04-23
+D1249,Dr Hassan Hassan,ENT,Care Clinic,Damanhur,North,C,1,2025-02-21
+D1250,Dr Youssef Ali,Pulmonology,Care Clinic,Tanta,North,C,0,2024-03-08
+D1251,Dr Ali El-Sayed,Neurology,Shifa Clinic,Ismailia,East,C,1,2024-07-06
+D1252,Dr Hassan Ali,Gastroenterology,Care Clinic,Suez,East,B,1,2024-10-08
+D1253,Dr Hassan Ali,General Practice,Life Clinic,Port Said,East,C,1,2024-04-19
+D1254,Dr Khaled Saad,ENT,Care Clinic,Ismailia,East,B,1,2023-01-06
+D1255,Dr Hassan Mostafa,Cardiology,Care Clinic,Siwa,West,A,1,2023-03-28
+D1256,Dr Mohamed Ali,ENT,Noor Clinic,Marsa Matruh,West,A,1,2023-09-14
+D1257,Dr Khaled El-Sayed,Neurology,Noor Clinic,Suez,East,B,1,2025-04-11
+D1258,Dr Khaled Saad,Pulmonology,Care Clinic,Riyadh,Gulf,A,1,2023-01-06
+D1259,Dr Khaled El-Sayed,Gastroenterology,Care Clinic,Alexandria,North,A,1,2025-01-31
+D1260,Dr Youssef Ali,ENT,Hope Clinic,Dubai,Gulf,C,0,2023-05-02
+D1261,Dr Hassan Saad,Neurology,Elite Clinic,Marsa Matruh,West,C,1,2024-02-14
+D1262,Dr Mohamed Mahmoud,Internal Medicine,Hope Clinic,Marsa Matruh,West,C,1,2023-05-10
+D1263,Dr Hassan Saad,Endocrinology,Life Clinic,Damanhur,North,A,1,2024-03-15
+D1264,Dr Mohamed Mostafa,Gastroenterology,Care Clinic,Siwa,West,B,1,2024-03-15
+D1265,Dr Khaled Saad,Pulmonology,Care Clinic,Jeddah,Gulf,B,1,2025-06-03
+D1266,Dr Omar Saad,Endocrinology,Hope Clinic,Riyadh,Gulf,B,1,2023-04-16
+D1267,Dr Mohamed Hassan,Endocrinology,Life Clinic,Cairo,Central,C,1,2024-10-11
+D1268,Dr Youssef El-Sayed,Cardiology,Hope Clinic,Sohag,South,B,1,2023-05-30
+D1269,Dr Omar Hassan,Cardiology,Care Clinic,Asyut,South,B,1,2024-12-17
+D1270,Dr Khaled El-Sayed,ENT,Shifa Clinic,Suez,East,A,1,2023-02-22
+D1271,Dr Mohamed El-Sayed,Neurology,Life Clinic,Suez,East,C,1,2023-02-18
+D1272,Dr Ahmed Ali,Neurology,Care Clinic,Damanhur,North,B,1,2024-09-13
+D1273,Dr Ahmed Saad,Neurology,Hope Clinic,Suez,East,B,1,2024-11-16
+D1274,Dr Hassan Mostafa,Neurology,Hope Clinic,Sohag,South,C,1,2025-03-08
+D1275,Dr Mohamed Saad,Gastroenterology,Elite Clinic,Ismailia,East,B,1,2023-04-19
+D1276,Dr Ali Hassan,Cardiology,Care Clinic,Cairo,Central,C,0,2024-11-01
+D1277,Dr Khaled Saad,Internal Medicine,Noor Clinic,Riyadh,Gulf,A,1,2023-12-18
+D1278,Dr Omar Mahmoud,Pulmonology,Hope Clinic,Qena,South,A,1,2024-07-17
+D1279,Dr Ahmed Ali,ENT,Noor Clinic,Suez,East,C,1,2024-03-22
+D1280,Dr Khaled El-Sayed,Pulmonology,Hope Clinic,Cairo,Central,C,1,2023-05-13
+D1281,Dr Hassan Mostafa,Endocrinology,Life Clinic,Damanhur,North,C,1,2024-12-02
+D1282,Dr Hassan Mahmoud,General Practice,Care Clinic,Sohag,South,B,1,2024-02-15
+D1283,Dr Ali Mostafa,Pulmonology,Noor Clinic,Asyut,South,C,1,2023-01-10
+D1284,Dr Hassan El-Sayed,Gastroenterology,Care Clinic,Giza,Central,C,1,2023-10-02
+D1285,Dr Khaled Hassan,General Practice,Shifa Clinic,Asyut,South,B,1,2023-06-01
+D1286,Dr Ahmed Saad,Endocrinology,Shifa Clinic,Damanhur,North,C,1,2023-04-29
+D1287,Dr Khaled Saad,Neurology,Care Clinic,Jeddah,Gulf,B,0,2024-07-16
+D1288,Dr Ali Mahmoud,Neurology,Care Clinic,Siwa,West,C,1,2023-01-11
+D1289,Dr Ali Mostafa,Pulmonology,Life Clinic,Riyadh,Gulf,B,1,2024-11-04
+D1290,Dr Omar Mostafa,Pediatrics,Hope Clinic,Jeddah,Gulf,C,1,2024-10-03
+D1291,Dr Ali Ali,Endocrinology,Care Clinic,Sohag,South,B,1,2024-10-06
+D1292,Dr Youssef Hassan,Pediatrics,Noor Clinic,Marsa Matruh,West,B,0,2023-04-06
+D1293,Dr Omar Mahmoud,Endocrinology,Life Clinic,Asyut,South,C,0,2023-07-04
+D1294,Dr Ahmed Hassan,Pulmonology,Life Clinic,Ismailia,East,C,1,2023-07-12
+D1295,Dr Omar Mostafa,ENT,Care Clinic,Marsa Matruh,West,C,0,2023-04-13
+D1296,Dr Ahmed Saad,Internal Medicine,Life Clinic,Dubai,Gulf,B,1,2025-04-26
+D1297,Dr Ahmed El-Sayed,Internal Medicine,Life Clinic,Asyut,South,B,0,2024-09-06
+D1298,Dr Youssef Hassan,Internal Medicine,Shifa Clinic,Giza,Central,B,1,2024-07-30
+D1299,Dr Omar Mostafa,Pulmonology,Life Clinic,Suez,East,B,1,2023-10-01
+D1300,Dr Youssef Hassan,Internal Medicine,Life Clinic,Alexandria,North,C,1,2025-05-06
+D1301,Dr Khaled Hassan,Endocrinology,Elite Clinic,Asyut,South,B,1,2024-11-02
+D1302,Dr Khaled Mahmoud,ENT,Life Clinic,Marsa Matruh,West,B,1,2023-04-15
+D1303,Dr Ahmed Mostafa,Internal Medicine,Care Clinic,Giza,Central,B,0,2023-03-28
+D1304,Dr Mohamed Saad,General Practice,Elite Clinic,Sohag,South,B,1,2024-03-11
+D1305,Dr Omar Mahmoud,Gastroenterology,Shifa Clinic,Port Said,East,B,1,2024-05-26
+D1306,Dr Omar Hassan,Cardiology,Shifa Clinic,Dubai,Gulf,C,0,2025-03-07
+D1307,Dr Ali El-Sayed,ENT,Life Clinic,Sohag,South,C,1,2024-05-04
+D1308,Dr Mohamed Ali,Gastroenterology,Shifa Clinic,Giza,Central,A,1,2023-05-11
+D1309,Dr Ali Saad,Pediatrics,Shifa Clinic,Suez,East,B,0,2024-09-08
+D1310,Dr Hassan Ali,Endocrinology,Hope Clinic,Qena,South,B,1,2024-07-05
+D1311,Dr Hassan Saad,Pediatrics,Elite Clinic,Cairo,Central,A,1,2024-06-23
+D1312,Dr Ahmed Mahmoud,Internal Medicine,Hope Clinic,Qena,South,B,1,2025-05-21
+D1313,Dr Ali Hassan,Internal Medicine,Shifa Clinic,Marsa Matruh,West,A,1,2025-05-19
+D1314,Dr Mohamed Hassan,General Practice,Life Clinic,Marsa Matruh,West,C,0,2023-09-06
+D1315,Dr Omar El-Sayed,Internal Medicine,Elite Clinic,Dubai,Gulf,C,1,2024-01-22
+D1316,Dr Youssef Mostafa,Cardiology,Care Clinic,Siwa,West,C,1,2023-03-17
+D1317,Dr Hassan Ali,Neurology,Care Clinic,Alexandria,North,A,1,2023-01-13
+D1318,Dr Youssef Ali,Pulmonology,Elite Clinic,Sohag,South,C,1,2023-11-03
+D1319,Dr Ahmed Mostafa,Cardiology,Care Clinic,Suez,East,B,1,2024-10-19
+D1320,Dr Youssef Mostafa,Cardiology,Elite Clinic,Cairo,Central,B,1,2025-06-15
+D1321,Dr Khaled El-Sayed,General Practice,Hope Clinic,Port Said,East,B,1,2023-06-10
+D1322,Dr Mohamed Saad,Endocrinology,Hope Clinic,Marsa Matruh,West,B,1,2024-02-06
+D1323,Dr Ali Ali,ENT,Care Clinic,Cairo,Central,B,1,2024-02-19
+D1324,Dr Khaled Mostafa,Pediatrics,Shifa Clinic,Tanta,North,B,1,2023-03-21
+D1325,Dr Hassan El-Sayed,Gastroenterology,Shifa Clinic,Alexandria,North,B,1,2023-08-05
+D1326,Dr Ahmed Mostafa,Endocrinology,Hope Clinic,Qena,South,C,1,2023-10-03
+D1327,Dr Ahmed Mahmoud,ENT,Shifa Clinic,Damanhur,North,A,1,2023-11-13
+D1328,Dr Omar Saad,Neurology,Life Clinic,Marsa Matruh,West,C,1,2023-05-13
+D1329,Dr Ahmed Mostafa,General Practice,Noor Clinic,Suez,East,A,1,2023-06-03
+D1330,Dr Omar El-Sayed,Gastroenterology,Elite Clinic,Marsa Matruh,West,B,1,2023-03-22
+D1331,Dr Hassan Saad,Pulmonology,Hope Clinic,Asyut,South,C,1,2024-05-28
+D1332,Dr Khaled Mostafa,Neurology,Noor Clinic,Jeddah,Gulf,B,1,2023-10-25
+D1333,Dr Ahmed Hassan,Pediatrics,Hope Clinic,Damanhur,North,B,0,2024-09-13
+D1334,Dr Khaled Mostafa,Internal Medicine,Life Clinic,Riyadh,Gulf,C,1,2025-06-10
+D1335,Dr Ahmed Mahmoud,ENT,Hope Clinic,Marsa Matruh,West,B,0,2023-06-15
+D1336,Dr Khaled Ali,Internal Medicine,Shifa Clinic,Suez,East,A,1,2024-04-16
+D1337,Dr Ali Mahmoud,Internal Medicine,Noor Clinic,Marsa Matruh,West,C,1,2024-01-08
+D1338,Dr Khaled El-Sayed,ENT,Elite Clinic,Marsa Matruh,West,B,1,2023-11-18
+D1339,Dr Hassan Saad,Gastroenterology,Life Clinic,Siwa,West,C,0,2023-02-13
+D1340,Dr Youssef Hassan,General Practice,Hope Clinic,Dubai,Gulf,A,1,2023-10-25
+D1341,Dr Khaled Ali,Endocrinology,Noor Clinic,Marsa Matruh,West,B,1,2023-04-06
+D1342,Dr Youssef Ali,ENT,Care Clinic,Jeddah,Gulf,A,1,2023-04-21
+D1343,Dr Mohamed Saad,Internal Medicine,Elite Clinic,Siwa,West,B,0,2024-05-12
+D1344,Dr Mohamed Saad,Gastroenterology,Care Clinic,Marsa Matruh,West,B,1,2024-04-26
+D1345,Dr Ali Mahmoud,Cardiology,Noor Clinic,Port Said,East,C,1,2023-03-05
+D1346,Dr Omar Ali,Cardiology,Shifa Clinic,Marsa Matruh,West,B,1,2025-02-15
+D1347,Dr Ahmed Mahmoud,Pulmonology,Elite Clinic,Port Said,East,A,1,2024-02-19
+D1348,Dr Ali El-Sayed,General Practice,Life Clinic,Siwa,West,B,1,2023-07-08
+D1349,Dr Youssef Ali,Gastroenterology,Hope Clinic,Siwa,West,B,1,2024-03-05
+D1350,Dr Ali El-Sayed,Pediatrics,Hope Clinic,Dubai,Gulf,B,1,2024-02-03
+D1351,Dr Khaled Saad,Internal Medicine,Elite Clinic,Cairo,Central,C,1,2023-05-29
+D1352,Dr Youssef Mahmoud,Neurology,Life Clinic,Jeddah,Gulf,A,1,2023-06-01
+D1353,Dr Ali Hassan,Gastroenterology,Elite Clinic,Riyadh,Gulf,C,1,2024-04-06
+D1354,Dr Omar Mostafa,Cardiology,Care Clinic,Marsa Matruh,West,B,0,2024-03-06
+D1355,Dr Hassan El-Sayed,Endocrinology,Shifa Clinic,Giza,Central,B,0,2024-11-26
+D1356,Dr Ahmed Saad,Gastroenterology,Noor Clinic,Ismailia,East,C,1,2025-06-07
+D1357,Dr Youssef Mostafa,Pediatrics,Shifa Clinic,Riyadh,Gulf,B,1,2024-07-09
+D1358,Dr Mohamed Mostafa,ENT,Noor Clinic,Alexandria,North,B,1,2024-09-01
+D1359,Dr Ahmed El-Sayed,Pediatrics,Life Clinic,Siwa,West,C,1,2025-05-27
+D1360,Dr Omar Mostafa,Cardiology,Hope Clinic,Damanhur,North,C,1,2024-05-23
+D1361,Dr Khaled Ali,ENT,Care Clinic,Damanhur,North,C,1,2024-11-14
+D1362,Dr Ahmed Mahmoud,General Practice,Noor Clinic,Sohag,South,B,1,2024-04-25
+D1363,Dr Khaled Mahmoud,Cardiology,Elite Clinic,Siwa,West,C,1,2024-06-03
+D1364,Dr Ahmed El-Sayed,Pediatrics,Life Clinic,Suez,East,C,1,2024-02-29
+D1365,Dr Mohamed Mostafa,General Practice,Noor Clinic,Sohag,South,C,1,2023-12-10
+D1366,Dr Ahmed Mostafa,Pediatrics,Noor Clinic,Qena,South,B,1,2025-04-28
+D1367,Dr Hassan Hassan,Pediatrics,Noor Clinic,Qena,South,C,1,2023-11-22
+D1368,Dr Youssef Saad,Pulmonology,Shifa Clinic,Asyut,South,C,1,2025-03-14
+D1369,Dr Ahmed Saad,Neurology,Hope Clinic,Cairo,Central,B,1,2024-03-23
+D1370,Dr Ahmed Saad,General Practice,Elite Clinic,Asyut,South,C,1,2024-01-27
+D1371,Dr Khaled Hassan,Neurology,Hope Clinic,Sohag,South,B,1,2023-08-16
+D1372,Dr Ahmed Hassan,Pediatrics,Elite Clinic,Qena,South,C,1,2023-10-09
+D1373,Dr Ahmed Hassan,Internal Medicine,Shifa Clinic,Damanhur,North,A,0,2023-05-06
+D1374,Dr Mohamed Ali,Internal Medicine,Life Clinic,Ismailia,East,A,1,2025-05-08
+D1375,Dr Mohamed Saad,Pediatrics,Noor Clinic,Marsa Matruh,West,A,0,2023-03-20
+D1376,Dr Mohamed Saad,ENT,Hope Clinic,Siwa,West,C,1,2023-01-11
+D1377,Dr Youssef Mostafa,Cardiology,Hope Clinic,Jeddah,Gulf,A,1,2023-12-22
+D1378,Dr Mohamed Mostafa,Pulmonology,Life Clinic,Cairo,Central,C,1,2023-05-05
+D1379,Dr Khaled El-Sayed,General Practice,Care Clinic,Cairo,Central,C,1,2025-06-06
+D1380,Dr Khaled Mahmoud,Pulmonology,Noor Clinic,Tanta,North,B,1,2023-05-10
+D1381,Dr Omar Ali,Neurology,Noor Clinic,Asyut,South,C,1,2024-04-23
+D1382,Dr Omar Mahmoud,Endocrinology,Noor Clinic,Giza,Central,B,1,2025-05-16
+D1383,Dr Youssef Ali,Gastroenterology,Noor Clinic,Damanhur,North,B,1,2025-01-09
+D1384,Dr Mohamed Mostafa,Neurology,Shifa Clinic,Siwa,West,C,1,2024-03-15
+D1385,Dr Khaled Mostafa,Internal Medicine,Noor Clinic,Port Said,East,B,1,2024-06-07
+D1386,Dr Ali Mahmoud,General Practice,Noor Clinic,Port Said,East,B,1,2023-07-04
+D1387,Dr Mohamed Mahmoud,Endocrinology,Life Clinic,Sohag,South,A,1,2024-01-16
+D1388,Dr Ali Mahmoud,Cardiology,Care Clinic,Tanta,North,C,1,2024-08-04
+D1389,Dr Ahmed Mostafa,Pediatrics,Shifa Clinic,Cairo,Central,B,1,2023-08-11
+D1390,Dr Ali Ali,Internal Medicine,Shifa Clinic,Jeddah,Gulf,C,1,2024-11-29
+D1391,Dr Khaled Ali,Endocrinology,Life Clinic,Ismailia,East,A,1,2023-02-17
+D1392,Dr Hassan El-Sayed,Pulmonology,Shifa Clinic,Tanta,North,C,1,2023-08-31
+D1393,Dr Youssef El-Sayed,Cardiology,Hope Clinic,Damanhur,North,C,1,2025-05-11
+D1394,Dr Ali Ali,Neurology,Elite Clinic,Cairo,Central,C,1,2023-04-08
+D1395,Dr Ali Mahmoud,Neurology,Noor Clinic,Suez,East,C,1,2024-07-23
+D1396,Dr Ali Saad,Pediatrics,Life Clinic,Cairo,Central,B,0,2024-05-20
+D1397,Dr Mohamed El-Sayed,Internal Medicine,Shifa Clinic,Port Said,East,A,1,2023-01-11
+D1398,Dr Ali Mahmoud,Pediatrics,Hope Clinic,Jeddah,Gulf,B,1,2025-01-11
+D1399,Dr Ahmed Mahmoud,Cardiology,Life Clinic,Damanhur,North,B,1,2023-04-24
+D1400,Dr Hassan Ali,Pediatrics,Life Clinic,Suez,East,B,1,2023-05-22
+D1401,Dr Omar Ali,Pulmonology,Elite Clinic,Sohag,South,C,1,2024-02-28
+D1402,Dr Khaled Mahmoud,General Practice,Elite Clinic,Damanhur,North,B,1,2024-05-16
+D1403,Dr Khaled Mostafa,Internal Medicine,Care Clinic,Marsa Matruh,West,B,1,2023-03-26
+D1404,Dr Ahmed Hassan,Endocrinology,Life Clinic,Jeddah,Gulf,C,1,2024-05-21
+D1405,Dr Khaled Hassan,ENT,Hope Clinic,Dubai,Gulf,C,1,2023-04-18
+D1406,Dr Hassan El-Sayed,Gastroenterology,Care Clinic,Giza,Central,C,1,2025-05-18
+D1407,Dr Mohamed Ali,Pediatrics,Care Clinic,Sohag,South,C,1,2024-06-09
+D1408,Dr Hassan Saad,Pediatrics,Life Clinic,Tanta,North,B,1,2025-06-09
+D1409,Dr Mohamed Mahmoud,Internal Medicine,Life Clinic,Sohag,South,C,1,2024-04-16
+D1410,Dr Khaled Ali,Neurology,Care Clinic,Siwa,West,B,0,2023-03-28
+D1411,Dr Khaled Mahmoud,General Practice,Life Clinic,Sohag,South,B,1,2024-03-27
+D1412,Dr Mohamed Ali,Pediatrics,Care Clinic,Damanhur,North,C,1,2023-10-29
+D1413,Dr Omar El-Sayed,General Practice,Elite Clinic,Giza,Central,C,1,2023-04-22
+D1414,Dr Khaled Hassan,Endocrinology,Life Clinic,Asyut,South,A,1,2024-08-12
+D1415,Dr Youssef Ali,Gastroenterology,Noor Clinic,Cairo,Central,B,1,2025-01-03
+D1416,Dr Khaled Saad,Gastroenterology,Shifa Clinic,Alexandria,North,B,1,2023-07-28
+D1417,Dr Omar Mostafa,Gastroenterology,Noor Clinic,Jeddah,Gulf,C,1,2024-05-30
+D1418,Dr Mohamed Mahmoud,Endocrinology,Noor Clinic,Riyadh,Gulf,B,1,2023-06-20
+D1419,Dr Ahmed Hassan,ENT,Elite Clinic,Asyut,South,B,1,2023-09-28
+D1420,Dr Ali Hassan,Neurology,Noor Clinic,Damanhur,North,C,1,2024-05-15
+D1421,Dr Mohamed Mostafa,Cardiology,Hope Clinic,Alexandria,North,C,0,2025-05-05
+D1422,Dr Youssef Ali,Internal Medicine,Elite Clinic,Asyut,South,A,1,2023-12-10
+D1423,Dr Ahmed Mahmoud,Gastroenterology,Shifa Clinic,Port Said,East,C,1,2024-04-14
+D1424,Dr Hassan Ali,General Practice,Life Clinic,Riyadh,Gulf,C,1,2025-05-13
+D1425,Dr Ali Hassan,General Practice,Elite Clinic,Port Said,East,C,1,2024-02-25
+D1426,Dr Youssef Mahmoud,ENT,Care Clinic,Sohag,South,A,1,2024-12-13
+D1427,Dr Khaled Saad,Endocrinology,Elite Clinic,Dubai,Gulf,C,1,2023-04-21
+D1428,Dr Khaled Ali,General Practice,Hope Clinic,Giza,Central,B,0,2023-12-24
+D1429,Dr Khaled Mostafa,Gastroenterology,Life Clinic,Siwa,West,B,1,2024-12-19
+D1430,Dr Omar Hassan,Neurology,Noor Clinic,Siwa,West,B,0,2024-05-25
+D1431,Dr Mohamed Mahmoud,General Practice,Noor Clinic,Dubai,Gulf,C,1,2024-11-11
+D1432,Dr Ali Mostafa,Gastroenterology,Life Clinic,Ismailia,East,A,1,2023-10-17
+D1433,Dr Ahmed El-Sayed,Gastroenterology,Shifa Clinic,Tanta,North,A,1,2025-05-04
+D1434,Dr Hassan Hassan,Gastroenterology,Life Clinic,Sohag,South,C,1,2025-02-26
+D1435,Dr Ahmed Mahmoud,Pulmonology,Care Clinic,Riyadh,Gulf,C,1,2024-08-22
+D1436,Dr Youssef Ali,Neurology,Life Clinic,Tanta,North,B,1,2024-01-31
+D1437,Dr Khaled Mostafa,Gastroenterology,Care Clinic,Suez,East,B,1,2025-06-15
+D1438,Dr Khaled El-Sayed,Gastroenterology,Shifa Clinic,Dubai,Gulf,A,1,2023-11-05
+D1439,Dr Youssef El-Sayed,General Practice,Care Clinic,Giza,Central,B,1,2025-05-03
+D1440,Dr Youssef Mahmoud,Neurology,Noor Clinic,Giza,Central,C,1,2024-01-02
+D1441,Dr Ali Ali,Pediatrics,Life Clinic,Siwa,West,B,0,2023-01-28
+D1442,Dr Mohamed Mostafa,Gastroenterology,Hope Clinic,Qena,South,C,1,2024-01-18
+D1443,Dr Omar El-Sayed,Cardiology,Noor Clinic,Giza,Central,C,1,2024-02-17
+D1444,Dr Ahmed Mahmoud,Cardiology,Hope Clinic,Giza,Central,A,1,2024-10-27
+D1445,Dr Omar Mostafa,ENT,Elite Clinic,Tanta,North,C,1,2023-05-05
+D1446,Dr Mohamed Hassan,Endocrinology,Elite Clinic,Cairo,Central,C,1,2024-05-22
+D1447,Dr Ali Ali,Gastroenterology,Hope Clinic,Dubai,Gulf,C,1,2023-01-07
+D1448,Dr Hassan El-Sayed,Internal Medicine,Care Clinic,Dubai,Gulf,A,1,2023-05-04
+D1449,Dr Ahmed El-Sayed,ENT,Shifa Clinic,Asyut,South,A,1,2024-02-05
+D1450,Dr Khaled Mostafa,Pulmonology,Elite Clinic,Siwa,West,C,1,2024-07-13
+D1451,Dr Ali Saad,Pediatrics,Elite Clinic,Marsa Matruh,West,A,1,2023-05-26
+D1452,Dr Youssef Mahmoud,General Practice,Shifa Clinic,Asyut,South,C,1,2024-05-02
+D1453,Dr Omar El-Sayed,ENT,Noor Clinic,Dubai,Gulf,B,1,2024-01-31
+D1454,Dr Youssef El-Sayed,Pulmonology,Hope Clinic,Siwa,West,A,1,2024-07-31
+D1455,Dr Youssef Saad,ENT,Noor Clinic,Ismailia,East,A,0,2023-05-23
+D1456,Dr Mohamed Mahmoud,Pulmonology,Elite Clinic,Ismailia,East,B,1,2024-05-30
+D1457,Dr Omar Saad,General Practice,Hope Clinic,Giza,Central,A,1,2023-12-27
+D1458,Dr Youssef El-Sayed,Pulmonology,Elite Clinic,Suez,East,B,1,2023-11-07
+D1459,Dr Hassan Saad,ENT,Hope Clinic,Siwa,West,C,1,2024-12-26
+D1460,Dr Hassan Ali,Neurology,Life Clinic,Ismailia,East,C,1,2024-08-21
+D1461,Dr Omar Ali,Pulmonology,Shifa Clinic,Alexandria,North,B,1,2024-05-26
+D1462,Dr Youssef Ali,Endocrinology,Life Clinic,Qena,South,A,1,2025-01-15
+D1463,Dr Youssef Mahmoud,Gastroenterology,Hope Clinic,Damanhur,North,A,1,2023-03-16
+D1464,Dr Mohamed Saad,Pulmonology,Hope Clinic,Dubai,Gulf,B,1,2024-01-22
+D1465,Dr Mohamed Hassan,Endocrinology,Elite Clinic,Cairo,Central,B,1,2023-10-20
+D1466,Dr Ahmed Saad,General Practice,Elite Clinic,Sohag,South,C,1,2024-08-19
+D1467,Dr Ali Ali,Cardiology,Hope Clinic,Alexandria,North,C,1,2024-01-04
+D1468,Dr Omar Mostafa,Neurology,Noor Clinic,Cairo,Central,B,1,2025-01-15
+D1469,Dr Ali Hassan,ENT,Life Clinic,Asyut,South,C,1,2024-07-26
+D1470,Dr Ali Mostafa,Pediatrics,Shifa Clinic,Siwa,West,C,1,2023-05-11
+D1471,Dr Ahmed Hassan,ENT,Shifa Clinic,Alexandria,North,B,1,2023-12-05
+D1472,Dr Ahmed Mostafa,Neurology,Hope Clinic,Suez,East,A,1,2023-10-22
+D1473,Dr Omar El-Sayed,General Practice,Hope Clinic,Qena,South,B,1,2024-07-13
+D1474,Dr Khaled El-Sayed,Cardiology,Care Clinic,Siwa,West,A,1,2023-07-25
+D1475,Dr Ahmed Hassan,Neurology,Noor Clinic,Qena,South,C,1,2025-06-18
+D1476,Dr Hassan Saad,Cardiology,Hope Clinic,Damanhur,North,B,1,2024-03-02
+D1477,Dr Ahmed El-Sayed,ENT,Noor Clinic,Damanhur,North,C,1,2023-02-12
+D1478,Dr Mohamed El-Sayed,Neurology,Life Clinic,Cairo,Central,B,1,2025-05-20
+D1479,Dr Omar El-Sayed,General Practice,Hope Clinic,Alexandria,North,C,1,2024-12-01
+D1480,Dr Omar Ali,Pediatrics,Hope Clinic,Marsa Matruh,West,C,1,2024-03-16
+D1481,Dr Khaled Hassan,ENT,Shifa Clinic,Asyut,South,A,1,2024-01-12
+D1482,Dr Youssef Saad,Endocrinology,Hope Clinic,Marsa Matruh,West,B,1,2023-08-21
+D1483,Dr Ahmed El-Sayed,Cardiology,Care Clinic,Cairo,Central,C,1,2023-02-28
+D1484,Dr Mohamed Mahmoud,Gastroenterology,Care Clinic,Marsa Matruh,West,A,1,2024-11-01
+D1485,Dr Khaled Mostafa,ENT,Care Clinic,Giza,Central,C,1,2023-03-20
+D1486,Dr Ali Mostafa,Endocrinology,Shifa Clinic,Siwa,West,B,1,2024-01-11
+D1487,Dr Hassan El-Sayed,General Practice,Life Clinic,Dubai,Gulf,C,1,2024-07-08
+D1488,Dr Ali Mostafa,ENT,Care Clinic,Suez,East,B,1,2023-05-21
+D1489,Dr Ali Hassan,General Practice,Life Clinic,Port Said,East,B,1,2025-04-15
+D1490,Dr Ahmed Ali,ENT,Life Clinic,Qena,South,C,1,2023-04-27
+D1491,Dr Khaled Mostafa,Pediatrics,Noor Clinic,Suez,East,B,0,2023-03-03
+D1492,Dr Youssef Hassan,Pediatrics,Elite Clinic,Marsa Matruh,West,B,1,2023-07-30
+D1493,Dr Hassan Mahmoud,Gastroenterology,Shifa Clinic,Marsa Matruh,West,A,1,2023-01-27
+D1494,Dr Ali Ali,Cardiology,Elite Clinic,Cairo,Central,B,1,2024-03-20
+D1495,Dr Khaled Mostafa,Internal Medicine,Noor Clinic,Dubai,Gulf,C,0,2024-11-25
+D1496,Dr Mohamed El-Sayed,Pulmonology,Shifa Clinic,Siwa,West,C,1,2023-09-01
+D1497,Dr Khaled Mostafa,Internal Medicine,Noor Clinic,Riyadh,Gulf,C,1,2023-10-30
+D1498,Dr Omar Mostafa,Gastroenterology,Life Clinic,Damanhur,North,B,1,2025-03-12
+D1499,Dr Youssef El-Sayed,Neurology,Noor Clinic,Tanta,North,C,1,2024-03-30
+D1500,Dr Hassan Hassan,Cardiology,Noor Clinic,Tanta,North,C,1,2025-05-14
+D1501,Dr Ahmed Ali,Internal Medicine,Care Clinic,Damanhur,North,B,1,2023-11-18
+D1502,Dr Mohamed Hassan,Gastroenterology,Hope Clinic,Suez,East,C,1,2024-10-07
+D1503,Dr Hassan Ali,Endocrinology,Hope Clinic,Dubai,Gulf,A,1,2024-12-01
+D1504,Dr Khaled Mahmoud,General Practice,Life Clinic,Ismailia,East,C,1,2025-01-01
+D1505,Dr Ahmed El-Sayed,General Practice,Hope Clinic,Riyadh,Gulf,C,1,2023-12-25
+D1506,Dr Khaled Saad,General Practice,Noor Clinic,Marsa Matruh,West,A,1,2024-08-07
+D1507,Dr Hassan Mahmoud,Pediatrics,Shifa Clinic,Damanhur,North,C,1,2023-12-01
+D1508,Dr Mohamed Mahmoud,ENT,Life Clinic,Siwa,West,C,1,2023-02-01
+D1509,Dr Hassan Saad,Cardiology,Elite Clinic,Ismailia,East,A,1,2023-11-17
+D1510,Dr Omar Hassan,Endocrinology,Noor Clinic,Giza,Central,B,1,2024-11-03
+D1511,Dr Hassan Mostafa,Internal Medicine,Elite Clinic,Dubai,Gulf,C,0,2024-08-01
+D1512,Dr Ali El-Sayed,General Practice,Hope Clinic,Giza,Central,C,1,2024-06-24
+D1513,Dr Mohamed Mahmoud,Neurology,Care Clinic,Siwa,West,B,1,2023-10-28
+D1514,Dr Mohamed Ali,ENT,Elite Clinic,Ismailia,East,B,0,2024-12-10
+D1515,Dr Omar Ali,Internal Medicine,Hope Clinic,Siwa,West,B,1,2024-01-06
+D1516,Dr Hassan Hassan,Pediatrics,Noor Clinic,Sohag,South,B,1,2023-05-09
+D1517,Dr Khaled El-Sayed,Pulmonology,Life Clinic,Jeddah,Gulf,C,1,2023-12-16
+D1518,Dr Ali Hassan,General Practice,Care Clinic,Siwa,West,C,1,2024-10-09
+D1519,Dr Omar Ali,Pulmonology,Elite Clinic,Marsa Matruh,West,A,1,2024-07-21
+D1520,Dr Ahmed Hassan,Cardiology,Hope Clinic,Alexandria,North,C,1,2023-06-20
+D1521,Dr Mohamed Saad,Pediatrics,Shifa Clinic,Giza,Central,B,1,2024-07-24
+D1522,Dr Ahmed El-Sayed,Neurology,Elite Clinic,Tanta,North,C,1,2025-01-09
+D1523,Dr Khaled Ali,Pediatrics,Elite Clinic,Suez,East,C,1,2024-03-22
+D1524,Dr Hassan El-Sayed,Pulmonology,Care Clinic,Qena,South,C,1,2025-04-19
+D1525,Dr Youssef Hassan,Neurology,Hope Clinic,Damanhur,North,C,1,2023-11-25
+D1526,Dr Youssef Mahmoud,Gastroenterology,Life Clinic,Jeddah,Gulf,C,1,2023-11-01
+D1527,Dr Mohamed El-Sayed,Gastroenterology,Elite Clinic,Giza,Central,B,1,2023-07-02
+D1528,Dr Khaled El-Sayed,Pediatrics,Shifa Clinic,Dubai,Gulf,C,1,2024-09-22
+D1529,Dr Mohamed Mahmoud,Internal Medicine,Shifa Clinic,Ismailia,East,B,1,2023-08-18
+D1530,Dr Hassan Mostafa,Endocrinology,Care Clinic,Cairo,Central,C,1,2023-07-31
+D1531,Dr Mohamed El-Sayed,Cardiology,Noor Clinic,Damanhur,North,C,1,2025-03-29
+D1532,Dr Omar Ali,Endocrinology,Hope Clinic,Tanta,North,B,0,2024-03-12
+D1533,Dr Ahmed Ali,Gastroenterology,Noor Clinic,Sohag,South,C,1,2025-05-15
+D1534,Dr Omar El-Sayed,Internal Medicine,Shifa Clinic,Siwa,West,C,0,2025-01-19
+D1535,Dr Khaled Mahmoud,Endocrinology,Noor Clinic,Damanhur,North,C,1,2024-06-03
+D1536,Dr Khaled El-Sayed,General Practice,Noor Clinic,Jeddah,Gulf,C,1,2024-12-05
+D1537,Dr Ali Saad,General Practice,Life Clinic,Damanhur,North,B,1,2024-11-07
+D1538,Dr Mohamed Saad,Cardiology,Care Clinic,Jeddah,Gulf,B,1,2025-06-12
+D1539,Dr Khaled Hassan,Pulmonology,Care Clinic,Suez,East,B,1,2024-05-23
+D1540,Dr Youssef El-Sayed,General Practice,Noor Clinic,Dubai,Gulf,C,1,2023-01-04
+D1541,Dr Youssef Saad,Pulmonology,Hope Clinic,Cairo,Central,A,1,2024-09-20
+D1542,Dr Khaled Hassan,Neurology,Shifa Clinic,Qena,South,B,1,2023-07-04
+D1543,Dr Hassan Ali,ENT,Shifa Clinic,Riyadh,Gulf,C,1,2024-01-01
+D1544,Dr Khaled Ali,Internal Medicine,Noor Clinic,Alexandria,North,C,1,2025-02-21
+D1545,Dr Omar El-Sayed,Pediatrics,Shifa Clinic,Ismailia,East,A,1,2023-11-23
+D1546,Dr Ali Ali,Pulmonology,Hope Clinic,Riyadh,Gulf,C,1,2025-04-04
+D1547,Dr Ali Ali,Cardiology,Life Clinic,Marsa Matruh,West,B,1,2025-05-21
+D1548,Dr Youssef Ali,Gastroenterology,Noor Clinic,Giza,Central,C,1,2025-04-08
+D1549,Dr Ali El-Sayed,Gastroenterology,Shifa Clinic,Ismailia,East,B,1,2024-10-13
+D1550,Dr Ali Saad,Endocrinology,Life Clinic,Siwa,West,C,1,2023-07-31
+D1551,Dr Ahmed Ali,Pulmonology,Life Clinic,Giza,Central,C,1,2025-01-09
+D1552,Dr Ahmed Mostafa,Neurology,Care Clinic,Riyadh,Gulf,C,1,2024-11-01
+D1553,Dr Ali Saad,Endocrinology,Care Clinic,Port Said,East,C,1,2024-02-10
+D1554,Dr Mohamed El-Sayed,Neurology,Life Clinic,Ismailia,East,B,1,2025-01-20
+D1555,Dr Mohamed Mahmoud,Internal Medicine,Shifa Clinic,Damanhur,North,C,1,2023-02-13
+D1556,Dr Ali Ali,Endocrinology,Elite Clinic,Alexandria,North,A,1,2025-04-12
+D1557,Dr Omar Saad,Gastroenterology,Elite Clinic,Marsa Matruh,West,C,1,2024-05-31
+D1558,Dr Ahmed Saad,Cardiology,Hope Clinic,Marsa Matruh,West,C,1,2023-06-05
+D1559,Dr Ahmed Mahmoud,Gastroenterology,Shifa Clinic,Marsa Matruh,West,C,1,2025-01-31
+D1560,Dr Youssef Mahmoud,Internal Medicine,Noor Clinic,Marsa Matruh,West,B,1,2024-04-27
+D1561,Dr Hassan Mostafa,Pediatrics,Care Clinic,Alexandria,North,C,1,2024-12-20
+D1562,Dr Hassan Saad,ENT,Life Clinic,Marsa Matruh,West,C,0,2025-02-20
+D1563,Dr Youssef Mostafa,Cardiology,Life Clinic,Marsa Matruh,West,B,1,2024-01-14
+D1564,Dr Ahmed Mostafa,Neurology,Care Clinic,Riyadh,Gulf,A,1,2023-03-27
+D1565,Dr Youssef Mostafa,Endocrinology,Elite Clinic,Sohag,South,A,1,2025-05-08
+D1566,Dr Omar Mahmoud,Cardiology,Care Clinic,Cairo,Central,C,1,2023-11-15
+D1567,Dr Ali Mostafa,Pediatrics,Noor Clinic,Tanta,North,C,1,2023-08-03
+D1568,Dr Omar Ali,Neurology,Hope Clinic,Giza,Central,C,1,2024-04-17
+D1569,Dr Ali El-Sayed,Internal Medicine,Care Clinic,Cairo,Central,B,1,2023-05-11
+D1570,Dr Ahmed Ali,Pulmonology,Noor Clinic,Cairo,Central,B,1,2023-04-27
+D1571,Dr Youssef Ali,General Practice,Life Clinic,Qena,South,B,1,2024-07-14
+D1572,Dr Khaled Mostafa,Pediatrics,Shifa Clinic,Ismailia,East,C,1,2024-11-23
+D1573,Dr Ali Mostafa,Pulmonology,Elite Clinic,Giza,Central,A,1,2023-07-29
+D1574,Dr Omar Saad,Gastroenterology,Care Clinic,Port Said,East,B,1,2023-12-05
+D1575,Dr Youssef El-Sayed,ENT,Life Clinic,Qena,South,A,1,2023-06-03
+D1576,Dr Khaled El-Sayed,Endocrinology,Life Clinic,Port Said,East,B,1,2024-04-14
+D1577,Dr Khaled Saad,Pulmonology,Life Clinic,Giza,Central,A,1,2023-08-20
+D1578,Dr Omar Mahmoud,Gastroenterology,Shifa Clinic,Sohag,South,C,1,2024-08-21
+D1579,Dr Ahmed Mostafa,Gastroenterology,Care Clinic,Giza,Central,C,1,2023-07-27
+D1580,Dr Mohamed Mostafa,Endocrinology,Hope Clinic,Damanhur,North,B,1,2023-04-15
+D1581,Dr Khaled Saad,Neurology,Hope Clinic,Riyadh,Gulf,C,1,2024-09-11
+D1582,Dr Ahmed Mostafa,Endocrinology,Care Clinic,Riyadh,Gulf,B,1,2023-08-10
+D1583,Dr Mohamed Mostafa,ENT,Noor Clinic,Asyut,South,C,1,2023-02-23
+D1584,Dr Hassan Ali,Neurology,Noor Clinic,Siwa,West,B,1,2023-09-04
+D1585,Dr Ahmed Mostafa,Neurology,Care Clinic,Siwa,West,B,1,2024-06-27
+D1586,Dr Youssef Ali,Gastroenterology,Elite Clinic,Qena,South,C,1,2024-07-27
+D1587,Dr Mohamed El-Sayed,Internal Medicine,Shifa Clinic,Port Said,East,C,1,2023-12-23
+D1588,Dr Youssef Mahmoud,Pediatrics,Care Clinic,Siwa,West,B,1,2023-07-15
+D1589,Dr Hassan Mahmoud,Endocrinology,Shifa Clinic,Dubai,Gulf,B,1,2023-01-06
+D1590,Dr Ahmed Saad,Gastroenterology,Shifa Clinic,Tanta,North,C,1,2023-10-07
+D1591,Dr Khaled Saad,Pediatrics,Life Clinic,Riyadh,Gulf,A,1,2023-09-17
+D1592,Dr Mohamed Ali,ENT,Elite Clinic,Cairo,Central,C,1,2024-05-17
+D1593,Dr Mohamed Saad,Internal Medicine,Elite Clinic,Jeddah,Gulf,A,1,2024-12-31
+D1594,Dr Youssef Saad,Internal Medicine,Elite Clinic,Asyut,South,B,1,2023-02-27
+D1595,Dr Mohamed Saad,Internal Medicine,Hope Clinic,Tanta,North,C,1,2025-05-23
+D1596,Dr Omar Hassan,Neurology,Hope Clinic,Dubai,Gulf,C,1,2023-11-21
+D1597,Dr Ali Saad,General Practice,Elite Clinic,Riyadh,Gulf,A,1,2024-03-02
+D1598,Dr Khaled El-Sayed,Endocrinology,Care Clinic,Alexandria,North,C,1,2025-01-16
+D1599,Dr Mohamed Saad,Gastroenterology,Elite Clinic,Marsa Matruh,West,C,1,2024-02-24
+D1600,Dr Hassan Saad,Gastroenterology,Life Clinic,Tanta,North,C,1,2024-04-22
+D1601,Dr Ahmed Hassan,Internal Medicine,Shifa Clinic,Giza,Central,A,1,2025-01-17
+D1602,Dr Youssef El-Sayed,Pulmonology,Elite Clinic,Cairo,Central,C,1,2024-01-19
+D1603,Dr Ahmed Ali,Endocrinology,Elite Clinic,Sohag,South,C,1,2023-11-14
+D1604,Dr Ali Hassan,Gastroenterology,Shifa Clinic,Ismailia,East,A,1,2023-08-20
+D1605,Dr Youssef Mahmoud,Gastroenterology,Hope Clinic,Asyut,South,B,1,2023-04-05
+D1606,Dr Mohamed El-Sayed,General Practice,Hope Clinic,Suez,East,B,1,2025-05-01
+D1607,Dr Khaled Saad,General Practice,Elite Clinic,Marsa Matruh,West,C,0,2024-03-20
+D1608,Dr Omar Mahmoud,Neurology,Life Clinic,Ismailia,East,C,1,2025-04-29
+D1609,Dr Hassan Saad,Gastroenterology,Elite Clinic,Cairo,Central,B,1,2023-04-29
+D1610,Dr Youssef Saad,Pulmonology,Hope Clinic,Sohag,South,B,1,2024-07-31
+D1611,Dr Mohamed Ali,Internal Medicine,Noor Clinic,Tanta,North,C,1,2023-01-09
+D1612,Dr Youssef Mostafa,Internal Medicine,Care Clinic,Suez,East,B,1,2023-06-16
+D1613,Dr Youssef Ali,ENT,Care Clinic,Tanta,North,C,1,2025-01-18
+D1614,Dr Khaled El-Sayed,Neurology,Care Clinic,Port Said,East,C,1,2024-02-15
+D1615,Dr Youssef Mostafa,Pediatrics,Life Clinic,Cairo,Central,B,1,2024-08-14
+D1616,Dr Hassan Hassan,Pulmonology,Hope Clinic,Qena,South,C,1,2024-12-15
+D1617,Dr Khaled Hassan,Neurology,Shifa Clinic,Asyut,South,C,1,2023-04-03
+D1618,Dr Mohamed Mahmoud,Pulmonology,Shifa Clinic,Siwa,West,B,1,2023-07-25
+D1619,Dr Mohamed Hassan,Endocrinology,Elite Clinic,Alexandria,North,C,1,2025-01-11
+D1620,Dr Hassan Saad,Cardiology,Noor Clinic,Giza,Central,B,1,2024-04-27
+D1621,Dr Mohamed El-Sayed,ENT,Noor Clinic,Dubai,Gulf,C,1,2024-12-24
+D1622,Dr Ali Saad,Pulmonology,Elite Clinic,Sohag,South,B,1,2023-10-17
+D1623,Dr Hassan El-Sayed,General Practice,Care Clinic,Siwa,West,A,1,2025-01-28
+D1624,Dr Ahmed Mostafa,Endocrinology,Hope Clinic,Cairo,Central,B,1,2025-04-22
+D1625,Dr Khaled Ali,Endocrinology,Life Clinic,Marsa Matruh,West,A,1,2023-08-05
+D1626,Dr Omar Ali,Pulmonology,Life Clinic,Suez,East,B,1,2024-02-01
+D1627,Dr Ahmed Ali,Pulmonology,Life Clinic,Suez,East,B,1,2025-05-04
+D1628,Dr Ahmed Hassan,Internal Medicine,Shifa Clinic,Port Said,East,C,1,2025-04-06
+D1629,Dr Omar Saad,General Practice,Noor Clinic,Qena,South,B,1,2024-05-12
+D1630,Dr Hassan Ali,Gastroenterology,Hope Clinic,Marsa Matruh,West,B,1,2023-04-29
+D1631,Dr Ali Hassan,Neurology,Noor Clinic,Suez,East,C,0,2023-04-25
+D1632,Dr Hassan Mahmoud,Internal Medicine,Care Clinic,Giza,Central,B,1,2024-12-25
+D1633,Dr Ali Ali,Pediatrics,Noor Clinic,Giza,Central,A,1,2023-05-05
+D1634,Dr Ali El-Sayed,Neurology,Hope Clinic,Ismailia,East,B,1,2023-10-31
+D1635,Dr Khaled Saad,Gastroenterology,Life Clinic,Ismailia,East,B,1,2023-11-29
+D1636,Dr Mohamed Hassan,Neurology,Life Clinic,Cairo,Central,C,1,2024-02-10
+D1637,Dr Khaled Mahmoud,Pulmonology,Noor Clinic,Cairo,Central,C,1,2024-03-17
+D1638,Dr Ali Mostafa,Endocrinology,Hope Clinic,Jeddah,Gulf,C,0,2025-01-20
+D1639,Dr Omar Saad,Internal Medicine,Life Clinic,Marsa Matruh,West,B,1,2024-09-15
+D1640,Dr Youssef El-Sayed,Neurology,Care Clinic,Marsa Matruh,West,C,1,2024-03-08
+D1641,Dr Ali Hassan,Internal Medicine,Hope Clinic,Riyadh,Gulf,C,1,2023-04-30
+D1642,Dr Ali El-Sayed,General Practice,Shifa Clinic,Suez,East,C,1,2024-12-11
+D1643,Dr Omar Hassan,Endocrinology,Shifa Clinic,Giza,Central,C,1,2025-02-03
+D1644,Dr Ahmed Ali,Pediatrics,Care Clinic,Cairo,Central,C,1,2023-10-07
+D1645,Dr Omar Mahmoud,Pulmonology,Life Clinic,Tanta,North,B,1,2025-03-20
+D1646,Dr Khaled Saad,Cardiology,Elite Clinic,Asyut,South,C,1,2024-09-18
+D1647,Dr Youssef Mostafa,Pediatrics,Life Clinic,Giza,Central,C,1,2024-02-03
+D1648,Dr Ali Saad,Neurology,Noor Clinic,Suez,East,B,1,2024-04-18
+D1649,Dr Omar Mostafa,Pulmonology,Life Clinic,Qena,South,C,1,2023-02-03
+D1650,Dr Hassan Mahmoud,General Practice,Shifa Clinic,Riyadh,Gulf,C,1,2025-02-04
+D1651,Dr Hassan Hassan,ENT,Hope Clinic,Suez,East,C,1,2024-10-01
+D1652,Dr Khaled Mostafa,Pediatrics,Elite Clinic,Port Said,East,B,1,2025-02-08
+D1653,Dr Ali El-Sayed,Pediatrics,Life Clinic,Marsa Matruh,West,C,1,2024-09-13
+D1654,Dr Ali Hassan,Endocrinology,Elite Clinic,Marsa Matruh,West,C,1,2023-07-02
+D1655,Dr Khaled Mahmoud,Neurology,Shifa Clinic,Siwa,West,C,1,2024-09-05
+D1656,Dr Ali Ali,Neurology,Noor Clinic,Dubai,Gulf,C,1,2023-08-19
+D1657,Dr Khaled El-Sayed,ENT,Hope Clinic,Siwa,West,B,1,2024-02-14
+D1658,Dr Omar Ali,Pulmonology,Noor Clinic,Suez,East,C,1,2024-08-17
+D1659,Dr Hassan El-Sayed,Cardiology,Hope Clinic,Marsa Matruh,West,C,1,2024-09-26
+D1660,Dr Omar Ali,Cardiology,Elite Clinic,Giza,Central,B,1,2024-08-05
+D1661,Dr Youssef Mostafa,Cardiology,Hope Clinic,Tanta,North,C,1,2024-10-31
+D1662,Dr Youssef Saad,ENT,Care Clinic,Asyut,South,B,1,2023-06-29
+D1663,Dr Youssef Ali,Gastroenterology,Care Clinic,Ismailia,East,A,1,2024-08-14
+D1664,Dr Hassan Saad,ENT,Life Clinic,Jeddah,Gulf,C,1,2024-04-17
+D1665,Dr Ahmed Saad,Pulmonology,Life Clinic,Giza,Central,B,1,2023-03-13
+D1666,Dr Youssef El-Sayed,Pediatrics,Noor Clinic,Jeddah,Gulf,C,0,2025-06-01
+D1667,Dr Hassan Saad,General Practice,Life Clinic,Port Said,East,A,1,2024-10-24
+D1668,Dr Omar El-Sayed,Cardiology,Shifa Clinic,Siwa,West,B,1,2025-04-22
+D1669,Dr Khaled Mostafa,Pediatrics,Life Clinic,Siwa,West,C,1,2025-05-17
+D1670,Dr Ali Ali,Neurology,Care Clinic,Dubai,Gulf,B,1,2023-09-06
+D1671,Dr Youssef Hassan,Neurology,Shifa Clinic,Ismailia,East,C,1,2024-12-27
+D1672,Dr Hassan Mahmoud,ENT,Hope Clinic,Suez,East,B,1,2023-09-22
+D1673,Dr Hassan Mahmoud,Pulmonology,Elite Clinic,Alexandria,North,C,1,2024-01-15
+D1674,Dr Youssef Saad,Pulmonology,Shifa Clinic,Suez,East,C,1,2024-12-31
+D1675,Dr Khaled Saad,Pulmonology,Care Clinic,Qena,South,A,1,2024-01-29
+D1676,Dr Omar Mostafa,Gastroenterology,Elite Clinic,Alexandria,North,A,1,2024-01-08
+D1677,Dr Omar Hassan,ENT,Hope Clinic,Giza,Central,C,1,2023-12-19
+D1678,Dr Omar Hassan,General Practice,Hope Clinic,Giza,Central,B,1,2024-05-11
+D1679,Dr Khaled Hassan,ENT,Shifa Clinic,Marsa Matruh,West,C,1,2023-03-08
+D1680,Dr Ahmed Saad,Pulmonology,Care Clinic,Asyut,South,B,1,2025-03-19
+D1681,Dr Ali Saad,ENT,Hope Clinic,Suez,East,C,1,2023-01-13
+D1682,Dr Ahmed Mahmoud,Endocrinology,Hope Clinic,Qena,South,B,1,2024-10-03
+D1683,Dr Ali El-Sayed,General Practice,Life Clinic,Tanta,North,C,1,2024-07-04
+D1684,Dr Omar Hassan,Endocrinology,Care Clinic,Marsa Matruh,West,B,1,2024-12-07
+D1685,Dr Hassan Mahmoud,ENT,Life Clinic,Jeddah,Gulf,B,0,2023-09-30
+D1686,Dr Ahmed Hassan,Internal Medicine,Care Clinic,Dubai,Gulf,C,1,2023-11-07
+D1687,Dr Ahmed Mahmoud,ENT,Elite Clinic,Qena,South,B,1,2025-03-11
+D1688,Dr Ahmed Mostafa,ENT,Hope Clinic,Alexandria,North,A,1,2023-07-22
+D1689,Dr Ali El-Sayed,ENT,Elite Clinic,Qena,South,B,1,2024-03-16
+D1690,Dr Hassan Mahmoud,ENT,Noor Clinic,Marsa Matruh,West,C,1,2024-02-21
+D1691,Dr Khaled Mahmoud,Neurology,Hope Clinic,Dubai,Gulf,C,1,2024-10-22
+D1692,Dr Youssef El-Sayed,Gastroenterology,Care Clinic,Sohag,South,C,1,2024-10-02
+D1693,Dr Mohamed Hassan,Neurology,Life Clinic,Marsa Matruh,West,C,1,2024-05-22
+D1694,Dr Omar Mostafa,Internal Medicine,Care Clinic,Siwa,West,C,1,2024-10-15
+D1695,Dr Ali Mostafa,Endocrinology,Noor Clinic,Asyut,South,B,1,2023-11-24
+D1696,Dr Mohamed Mahmoud,Gastroenterology,Care Clinic,Damanhur,North,C,1,2024-11-19
+D1697,Dr Khaled Mostafa,Pulmonology,Noor Clinic,Sohag,South,C,1,2023-06-10
+D1698,Dr Youssef Mahmoud,Pediatrics,Shifa Clinic,Jeddah,Gulf,C,1,2023-09-27
+D1699,Dr Youssef Mahmoud,Neurology,Noor Clinic,Sohag,South,C,1,2023-11-19
+D1700,Dr Youssef Mahmoud,Pediatrics,Elite Clinic,Giza,Central,A,0,2023-02-26
+D1701,Dr Omar Saad,Gastroenterology,Shifa Clinic,Sohag,South,A,1,2023-08-02
+D1702,Dr Hassan Mostafa,Cardiology,Elite Clinic,Suez,East,B,1,2023-11-30
+D1703,Dr Mohamed Hassan,General Practice,Shifa Clinic,Asyut,South,B,1,2023-03-18
+D1704,Dr Omar Ali,ENT,Elite Clinic,Riyadh,Gulf,C,0,2025-03-10
+D1705,Dr Ahmed El-Sayed,Endocrinology,Life Clinic,Riyadh,Gulf,B,1,2024-01-20
+D1706,Dr Ahmed Ali,Gastroenterology,Care Clinic,Riyadh,Gulf,C,1,2023-10-19
+D1707,Dr Mohamed Hassan,Neurology,Hope Clinic,Dubai,Gulf,C,1,2025-04-24
+D1708,Dr Hassan Mostafa,Endocrinology,Elite Clinic,Port Said,East,C,1,2023-12-02
+D1709,Dr Ali El-Sayed,General Practice,Elite Clinic,Port Said,East,C,1,2023-05-24
+D1710,Dr Youssef Saad,Neurology,Care Clinic,Jeddah,Gulf,C,1,2025-03-02
+D1711,Dr Omar Saad,ENT,Shifa Clinic,Sohag,South,B,1,2023-07-23
+D1712,Dr Youssef Ali,Cardiology,Life Clinic,Port Said,East,A,1,2024-03-13
+D1713,Dr Hassan Mahmoud,General Practice,Hope Clinic,Cairo,Central,B,1,2023-02-02
+D1714,Dr Ahmed Mostafa,Neurology,Life Clinic,Siwa,West,C,1,2024-08-01
+D1715,Dr Hassan Saad,General Practice,Care Clinic,Cairo,Central,C,1,2024-04-24
+D1716,Dr Mohamed Saad,Pediatrics,Shifa Clinic,Damanhur,North,C,1,2025-01-26
+D1717,Dr Ali Ali,Neurology,Life Clinic,Alexandria,North,B,1,2025-01-27
+D1718,Dr Mohamed Mahmoud,Cardiology,Noor Clinic,Siwa,West,C,1,2023-01-09
+D1719,Dr Youssef Saad,Endocrinology,Elite Clinic,Sohag,South,C,1,2024-06-29
+D1720,Dr Mohamed Hassan,Neurology,Care Clinic,Qena,South,C,1,2024-08-13
+D1721,Dr Ahmed Hassan,Pulmonology,Hope Clinic,Sohag,South,A,1,2025-05-14
+D1722,Dr Mohamed Hassan,Neurology,Shifa Clinic,Ismailia,East,C,0,2024-11-04
+D1723,Dr Khaled El-Sayed,Gastroenterology,Care Clinic,Sohag,South,B,0,2025-03-01
+D1724,Dr Omar Hassan,Pediatrics,Noor Clinic,Marsa Matruh,West,A,1,2025-05-24
+D1725,Dr Hassan El-Sayed,ENT,Life Clinic,Tanta,North,B,1,2024-01-25
+D1726,Dr Youssef Saad,General Practice,Hope Clinic,Qena,South,A,1,2023-05-04
+D1727,Dr Ali Mostafa,Neurology,Shifa Clinic,Port Said,East,B,1,2023-04-03
+D1728,Dr Youssef Ali,General Practice,Noor Clinic,Siwa,West,A,1,2023-01-08
+D1729,Dr Ali Saad,Neurology,Shifa Clinic,Tanta,North,C,1,2024-03-20
+D1730,Dr Youssef El-Sayed,Internal Medicine,Shifa Clinic,Qena,South,C,1,2025-06-15
+D1731,Dr Hassan El-Sayed,Neurology,Care Clinic,Jeddah,Gulf,A,1,2023-07-01
+D1732,Dr Hassan Hassan,Pulmonology,Elite Clinic,Cairo,Central,C,1,2023-03-04
+D1733,Dr Mohamed Hassan,Neurology,Hope Clinic,Riyadh,Gulf,C,1,2024-03-05
+D1734,Dr Mohamed El-Sayed,Pulmonology,Noor Clinic,Qena,South,B,0,2025-03-16
+D1735,Dr Hassan Mahmoud,Pediatrics,Life Clinic,Sohag,South,C,0,2023-09-29
+D1736,Dr Mohamed Ali,Cardiology,Life Clinic,Tanta,North,C,1,2025-06-11
+D1737,Dr Mohamed El-Sayed,General Practice,Noor Clinic,Giza,Central,B,1,2023-12-24
+D1738,Dr Youssef Hassan,ENT,Hope Clinic,Alexandria,North,B,1,2024-07-03
+D1739,Dr Mohamed Mahmoud,Gastroenterology,Elite Clinic,Dubai,Gulf,B,1,2023-09-21
+D1740,Dr Hassan Hassan,Internal Medicine,Care Clinic,Giza,Central,B,1,2025-05-22
+D1741,Dr Ahmed Saad,Pulmonology,Life Clinic,Qena,South,C,1,2024-11-06
+D1742,Dr Khaled Hassan,Gastroenterology,Elite Clinic,Riyadh,Gulf,C,1,2023-08-20
+D1743,Dr Hassan Mostafa,Neurology,Hope Clinic,Riyadh,Gulf,C,1,2024-08-27
+D1744,Dr Omar El-Sayed,Neurology,Elite Clinic,Ismailia,East,B,1,2024-08-16
+D1745,Dr Ahmed Hassan,Endocrinology,Care Clinic,Marsa Matruh,West,C,1,2024-10-11
+D1746,Dr Mohamed Saad,Cardiology,Hope Clinic,Siwa,West,C,1,2023-12-19
+D1747,Dr Ahmed Saad,Endocrinology,Shifa Clinic,Siwa,West,B,1,2024-03-26
+D1748,Dr Khaled Ali,Neurology,Hope Clinic,Jeddah,Gulf,B,1,2023-09-19
+D1749,Dr Khaled Ali,Neurology,Elite Clinic,Marsa Matruh,West,C,1,2025-03-11
+D1750,Dr Ahmed El-Sayed,Pulmonology,Hope Clinic,Damanhur,North,A,0,2025-04-29
+D1751,Dr Hassan El-Sayed,Pulmonology,Hope Clinic,Riyadh,Gulf,C,1,2024-03-22
+D1752,Dr Ali El-Sayed,General Practice,Care Clinic,Sohag,South,B,1,2023-08-16
+D1753,Dr Ali Mostafa,Neurology,Hope Clinic,Jeddah,Gulf,C,1,2024-07-30
+D1754,Dr Mohamed Mahmoud,Neurology,Care Clinic,Damanhur,North,C,1,2024-06-27
+D1755,Dr Ali Saad,Pulmonology,Care Clinic,Damanhur,North,C,1,2023-08-20
+D1756,Dr Khaled Ali,Endocrinology,Hope Clinic,Giza,Central,B,0,2024-02-15
+D1757,Dr Ahmed El-Sayed,ENT,Shifa Clinic,Siwa,West,B,1,2023-11-04
+D1758,Dr Ahmed El-Sayed,Gastroenterology,Noor Clinic,Jeddah,Gulf,B,1,2024-08-31
+D1759,Dr Mohamed Ali,ENT,Care Clinic,Asyut,South,C,1,2025-04-06
+D1760,Dr Ahmed Hassan,Pediatrics,Shifa Clinic,Riyadh,Gulf,C,1,2023-12-25
+D1761,Dr Mohamed Hassan,Internal Medicine,Noor Clinic,Sohag,South,C,1,2024-11-19
+D1762,Dr Hassan Mahmoud,Gastroenterology,Hope Clinic,Qena,South,C,1,2023-05-01
+D1763,Dr Ahmed Mostafa,ENT,Elite Clinic,Damanhur,North,B,1,2025-04-21
+D1764,Dr Khaled Mahmoud,Pulmonology,Life Clinic,Giza,Central,A,0,2025-01-07
+D1765,Dr Omar Saad,Internal Medicine,Noor Clinic,Siwa,West,C,1,2023-06-22
+D1766,Dr Hassan Mahmoud,General Practice,Care Clinic,Ismailia,East,A,0,2024-09-09
+D1767,Dr Ali Mahmoud,Pediatrics,Elite Clinic,Riyadh,Gulf,B,1,2025-06-04
+D1768,Dr Ali Mahmoud,Gastroenterology,Shifa Clinic,Riyadh,Gulf,C,1,2024-11-13
+D1769,Dr Youssef Hassan,Internal Medicine,Hope Clinic,Alexandria,North,C,1,2024-08-22
+D1770,Dr Hassan Mostafa,Internal Medicine,Hope Clinic,Siwa,West,C,1,2024-05-14
+D1771,Dr Omar El-Sayed,Cardiology,Hope Clinic,Siwa,West,C,1,2025-03-23
+D1772,Dr Youssef Ali,Endocrinology,Elite Clinic,Alexandria,North,B,1,2024-09-10
+D1773,Dr Hassan Mostafa,Neurology,Life Clinic,Dubai,Gulf,C,1,2024-04-16
+D1774,Dr Khaled El-Sayed,Cardiology,Shifa Clinic,Siwa,West,B,1,2024-10-07
+D1775,Dr Omar Mahmoud,ENT,Shifa Clinic,Marsa Matruh,West,C,1,2025-04-18
+D1776,Dr Omar Mahmoud,ENT,Care Clinic,Sohag,South,C,1,2024-12-16
+D1777,Dr Khaled Hassan,General Practice,Noor Clinic,Qena,South,C,1,2025-02-10
+D1778,Dr Mohamed Mahmoud,Neurology,Shifa Clinic,Tanta,North,C,1,2025-05-06
+D1779,Dr Omar Hassan,Internal Medicine,Noor Clinic,Damanhur,North,C,1,2024-05-24
+D1780,Dr Ali Hassan,ENT,Care Clinic,Sohag,South,B,1,2024-01-06
+D1781,Dr Omar Saad,Internal Medicine,Hope Clinic,Ismailia,East,B,1,2024-06-02
+D1782,Dr Mohamed El-Sayed,General Practice,Life Clinic,Port Said,East,B,1,2023-03-19
+D1783,Dr Hassan Mahmoud,Pediatrics,Noor Clinic,Jeddah,Gulf,C,1,2023-12-15
+D1784,Dr Ali Mahmoud,Internal Medicine,Hope Clinic,Sohag,South,C,1,2025-06-16
+D1785,Dr Mohamed Mostafa,Neurology,Care Clinic,Cairo,Central,C,1,2023-02-11
+D1786,Dr Mohamed Hassan,Cardiology,Noor Clinic,Riyadh,Gulf,B,1,2023-08-13
+D1787,Dr Ali Mostafa,Pulmonology,Noor Clinic,Dubai,Gulf,A,1,2023-01-22
+D1788,Dr Mohamed Mostafa,General Practice,Hope Clinic,Siwa,West,C,1,2024-02-27
+D1789,Dr Ali Mahmoud,Gastroenterology,Noor Clinic,Siwa,West,C,0,2025-04-02
+D1790,Dr Mohamed Mahmoud,Endocrinology,Elite Clinic,Suez,East,B,1,2024-12-10
+D1791,Dr Omar Ali,Pulmonology,Hope Clinic,Qena,South,A,0,2024-06-03
+D1792,Dr Hassan Hassan,Endocrinology,Noor Clinic,Ismailia,East,C,1,2024-10-22
+D1793,Dr Youssef El-Sayed,Cardiology,Care Clinic,Port Said,East,B,1,2024-08-28
+D1794,Dr Youssef Saad,ENT,Care Clinic,Damanhur,North,C,1,2023-12-22
+D1795,Dr Khaled Saad,Neurology,Life Clinic,Damanhur,North,A,1,2024-08-06
+D1796,Dr Youssef Hassan,ENT,Elite Clinic,Jeddah,Gulf,B,1,2023-05-17
+D1797,Dr Hassan Mostafa,General Practice,Noor Clinic,Siwa,West,C,1,2023-08-27
+D1798,Dr Omar Mahmoud,Neurology,Hope Clinic,Qena,South,C,0,2023-02-24
+D1799,Dr Mohamed Hassan,Internal Medicine,Hope Clinic,Alexandria,North,C,1,2025-01-20
+D1800,Dr Khaled El-Sayed,Cardiology,Life Clinic,Asyut,South,C,1,2023-05-03
+D1801,Dr Khaled Hassan,Pediatrics,Life Clinic,Siwa,West,B,1,2025-05-17
+D1802,Dr Ahmed Hassan,Pulmonology,Shifa Clinic,Suez,East,C,1,2024-05-26
+D1803,Dr Khaled Ali,Endocrinology,Life Clinic,Marsa Matruh,West,B,1,2023-03-25
+D1804,Dr Ahmed Saad,Cardiology,Shifa Clinic,Giza,Central,C,1,2024-07-24
+D1805,Dr Khaled Ali,Cardiology,Shifa Clinic,Alexandria,North,C,1,2023-01-05
+D1806,Dr Omar Mostafa,Neurology,Noor Clinic,Damanhur,North,C,0,2023-07-13
+D1807,Dr Mohamed Mostafa,Endocrinology,Shifa Clinic,Qena,South,C,1,2024-11-30
+D1808,Dr Hassan Hassan,ENT,Noor Clinic,Cairo,Central,C,1,2023-07-01
+D1809,Dr Ahmed Mahmoud,Cardiology,Shifa Clinic,Damanhur,North,C,1,2025-03-23
+D1810,Dr Youssef Hassan,Pulmonology,Hope Clinic,Tanta,North,C,1,2023-04-13
+D1811,Dr Ali Ali,Neurology,Noor Clinic,Qena,South,C,0,2024-07-15
+D1812,Dr Mohamed Ali,General Practice,Care Clinic,Damanhur,North,A,1,2023-05-25
+D1813,Dr Ali Saad,Neurology,Elite Clinic,Marsa Matruh,West,A,0,2024-05-06
+D1814,Dr Hassan Mostafa,General Practice,Elite Clinic,Cairo,Central,A,1,2024-06-23
+D1815,Dr Youssef Hassan,General Practice,Shifa Clinic,Giza,Central,C,1,2023-05-19
+D1816,Dr Youssef El-Sayed,Pediatrics,Shifa Clinic,Riyadh,Gulf,B,1,2023-01-25
+D1817,Dr Khaled Saad,Pediatrics,Elite Clinic,Giza,Central,B,0,2025-02-28
+D1818,Dr Omar Mostafa,Cardiology,Hope Clinic,Damanhur,North,B,1,2024-08-24
+D1819,Dr Khaled Ali,Neurology,Care Clinic,Qena,South,C,1,2023-02-18
+D1820,Dr Omar Mostafa,Cardiology,Hope Clinic,Port Said,East,C,1,2024-03-20
+D1821,Dr Ahmed Ali,Neurology,Care Clinic,Qena,South,C,1,2023-08-08
+D1822,Dr Hassan Saad,Neurology,Hope Clinic,Qena,South,A,1,2023-07-31
+D1823,Dr Ahmed Hassan,Pediatrics,Elite Clinic,Alexandria,North,B,1,2023-10-25
+D1824,Dr Youssef El-Sayed,Pediatrics,Care Clinic,Ismailia,East,C,1,2025-05-07
+D1825,Dr Omar Mostafa,Endocrinology,Elite Clinic,Qena,South,C,1,2024-03-08
+D1826,Dr Youssef Saad,Endocrinology,Life Clinic,Riyadh,Gulf,C,1,2023-10-07
+D1827,Dr Ali Ali,Pediatrics,Shifa Clinic,Siwa,West,B,0,2025-04-16
+D1828,Dr Omar Saad,Pediatrics,Care Clinic,Cairo,Central,A,1,2023-05-12
+D1829,Dr Ahmed Hassan,Internal Medicine,Hope Clinic,Damanhur,North,A,0,2024-05-15
+D1830,Dr Youssef Mahmoud,Gastroenterology,Hope Clinic,Ismailia,East,C,1,2024-12-12
+D1831,Dr Mohamed El-Sayed,Gastroenterology,Hope Clinic,Suez,East,A,1,2025-04-22
+D1832,Dr Ahmed El-Sayed,Pulmonology,Care Clinic,Marsa Matruh,West,C,1,2024-05-05
+D1833,Dr Mohamed Ali,Pulmonology,Hope Clinic,Tanta,North,A,1,2023-03-11
+D1834,Dr Hassan Hassan,Pulmonology,Care Clinic,Suez,East,B,1,2024-11-09
+D1835,Dr Ali Mahmoud,Cardiology,Care Clinic,Riyadh,Gulf,C,0,2023-12-16
+D1836,Dr Mohamed Mahmoud,Endocrinology,Hope Clinic,Suez,East,C,1,2024-01-25
+D1837,Dr Youssef El-Sayed,Pulmonology,Noor Clinic,Alexandria,North,C,1,2025-01-08
+D1838,Dr Khaled El-Sayed,General Practice,Life Clinic,Alexandria,North,B,1,2024-07-14
+D1839,Dr Mohamed Saad,Pediatrics,Shifa Clinic,Dubai,Gulf,C,1,2025-01-07
+D1840,Dr Youssef El-Sayed,Pulmonology,Hope Clinic,Ismailia,East,C,1,2023-01-07
+D1841,Dr Hassan Mostafa,Internal Medicine,Life Clinic,Tanta,North,C,1,2023-02-06
+D1842,Dr Omar Mostafa,ENT,Noor Clinic,Damanhur,North,C,1,2023-10-17
+D1843,Dr Youssef Ali,ENT,Care Clinic,Marsa Matruh,West,C,1,2024-10-13
+D1844,Dr Youssef Mahmoud,Endocrinology,Care Clinic,Siwa,West,A,1,2023-06-28
+D1845,Dr Youssef Ali,Cardiology,Elite Clinic,Port Said,East,B,1,2023-02-13
+D1846,Dr Youssef Ali,Pediatrics,Noor Clinic,Cairo,Central,A,1,2023-08-02
+D1847,Dr Khaled Saad,ENT,Noor Clinic,Siwa,West,C,1,2023-12-12
+D1848,Dr Hassan Hassan,General Practice,Elite Clinic,Qena,South,B,1,2023-07-15
+D1849,Dr Ali Ali,Neurology,Shifa Clinic,Jeddah,Gulf,C,1,2025-02-21
+D1850,Dr Omar Ali,Endocrinology,Shifa Clinic,Riyadh,Gulf,B,1,2024-07-09
+D1851,Dr Omar Ali,Cardiology,Hope Clinic,Giza,Central,B,1,2023-06-10
+D1852,Dr Omar Hassan,ENT,Shifa Clinic,Marsa Matruh,West,A,1,2024-08-04
+D1853,Dr Mohamed Hassan,Pulmonology,Noor Clinic,Jeddah,Gulf,C,1,2025-03-31
+D1854,Dr Khaled Mostafa,Endocrinology,Hope Clinic,Suez,East,C,1,2024-05-13
+D1855,Dr Ali El-Sayed,Internal Medicine,Shifa Clinic,Cairo,Central,C,1,2023-01-09
+D1856,Dr Khaled El-Sayed,Neurology,Shifa Clinic,Tanta,North,B,1,2023-08-07
+D1857,Dr Khaled El-Sayed,ENT,Hope Clinic,Giza,Central,B,1,2023-10-24
+D1858,Dr Youssef Hassan,Pulmonology,Hope Clinic,Asyut,South,B,1,2024-09-25
+D1859,Dr Omar Hassan,Gastroenterology,Noor Clinic,Giza,Central,C,0,2023-04-27
+D1860,Dr Mohamed El-Sayed,Pulmonology,Hope Clinic,Alexandria,North,C,1,2024-05-03
+D1861,Dr Youssef Saad,ENT,Hope Clinic,Riyadh,Gulf,C,1,2023-01-21
+D1862,Dr Hassan Mahmoud,Internal Medicine,Elite Clinic,Suez,East,C,1,2023-05-19
+D1863,Dr Mohamed Saad,Internal Medicine,Shifa Clinic,Marsa Matruh,West,C,1,2024-11-15
+D1864,Dr Ahmed Mostafa,Internal Medicine,Hope Clinic,Port Said,East,B,0,2024-05-21
+D1865,Dr Hassan El-Sayed,Neurology,Noor Clinic,Marsa Matruh,West,C,1,2023-10-14
+D1866,Dr Youssef Ali,Cardiology,Shifa Clinic,Ismailia,East,C,1,2023-09-27
+D1867,Dr Mohamed Mostafa,ENT,Life Clinic,Tanta,North,C,1,2023-02-02
+D1868,Dr Youssef Ali,Cardiology,Life Clinic,Jeddah,Gulf,B,1,2024-04-26
+D1869,Dr Hassan Ali,Gastroenterology,Noor Clinic,Jeddah,Gulf,C,1,2025-04-02
+D1870,Dr Mohamed Ali,Pulmonology,Shifa Clinic,Riyadh,Gulf,C,1,2024-07-19
+D1871,Dr Khaled Mostafa,ENT,Life Clinic,Ismailia,East,C,1,2024-11-13
+D1872,Dr Mohamed Mostafa,Internal Medicine,Care Clinic,Alexandria,North,B,1,2023-03-08
+D1873,Dr Ali Mostafa,Cardiology,Life Clinic,Alexandria,North,C,1,2023-12-16
+D1874,Dr Ahmed Mostafa,ENT,Life Clinic,Qena,South,C,1,2024-11-11
+D1875,Dr Mohamed El-Sayed,Pulmonology,Elite Clinic,Damanhur,North,B,1,2023-03-25
+D1876,Dr Omar El-Sayed,Pediatrics,Noor Clinic,Alexandria,North,C,1,2023-02-21
+D1877,Dr Youssef Mostafa,General Practice,Elite Clinic,Port Said,East,B,1,2024-12-26
+D1878,Dr Ahmed Ali,Gastroenterology,Care Clinic,Sohag,South,C,1,2025-05-31
+D1879,Dr Hassan Mostafa,Internal Medicine,Care Clinic,Cairo,Central,B,1,2023-05-28
+D1880,Dr Mohamed Hassan,Internal Medicine,Noor Clinic,Dubai,Gulf,B,1,2025-02-13
+D1881,Dr Mohamed Ali,Gastroenterology,Shifa Clinic,Jeddah,Gulf,C,1,2023-10-20
+D1882,Dr Khaled Mahmoud,Endocrinology,Care Clinic,Port Said,East,C,1,2024-11-30
+D1883,Dr Hassan Ali,Internal Medicine,Life Clinic,Alexandria,North,B,0,2023-03-03
+D1884,Dr Khaled Mostafa,ENT,Shifa Clinic,Jeddah,Gulf,A,1,2023-04-01
+D1885,Dr Youssef Mahmoud,Internal Medicine,Elite Clinic,Jeddah,Gulf,C,1,2023-11-23
+D1886,Dr Omar Hassan,ENT,Care Clinic,Siwa,West,B,1,2024-07-13
+D1887,Dr Khaled Ali,Cardiology,Noor Clinic,Cairo,Central,C,1,2024-04-17
+D1888,Dr Ahmed Hassan,Pulmonology,Shifa Clinic,Siwa,West,A,1,2024-03-05
+D1889,Dr Omar Hassan,Pediatrics,Care Clinic,Marsa Matruh,West,B,1,2025-04-17
+D1890,Dr Khaled Mahmoud,Endocrinology,Care Clinic,Cairo,Central,A,1,2023-06-03
+D1891,Dr Hassan Mahmoud,Pediatrics,Care Clinic,Tanta,North,B,1,2025-05-24
+D1892,Dr Youssef Saad,ENT,Life Clinic,Sohag,South,B,0,2023-06-13
+D1893,Dr Khaled Hassan,Internal Medicine,Care Clinic,Ismailia,East,C,1,2024-09-14
+D1894,Dr Omar Hassan,Endocrinology,Shifa Clinic,Giza,Central,B,1,2023-11-12
+D1895,Dr Khaled Mahmoud,Pediatrics,Elite Clinic,Riyadh,Gulf,C,1,2024-06-26
+D1896,Dr Ahmed Ali,Pulmonology,Shifa Clinic,Port Said,East,B,0,2023-03-06
+D1897,Dr Khaled Saad,Endocrinology,Noor Clinic,Marsa Matruh,West,C,1,2025-06-11
+D1898,Dr Mohamed Mahmoud,Neurology,Elite Clinic,Port Said,East,C,1,2023-07-19
+D1899,Dr Youssef El-Sayed,Endocrinology,Shifa Clinic,Cairo,Central,C,1,2024-07-30
+D1900,Dr Hassan Ali,Pediatrics,Noor Clinic,Cairo,Central,C,1,2023-03-25
+D1901,Dr Ali Mahmoud,Internal Medicine,Elite Clinic,Giza,Central,B,1,2025-03-21
+D1902,Dr Khaled Mahmoud,Cardiology,Hope Clinic,Sohag,South,B,1,2023-01-04
+D1903,Dr Hassan Mostafa,Gastroenterology,Care Clinic,Marsa Matruh,West,C,1,2023-11-18
+D1904,Dr Hassan Mostafa,Internal Medicine,Shifa Clinic,Dubai,Gulf,B,1,2023-07-19
+D1905,Dr Khaled Hassan,Pediatrics,Care Clinic,Sohag,South,C,1,2023-11-02
+D1906,Dr Khaled Ali,Cardiology,Care Clinic,Ismailia,East,C,1,2023-03-22
+D1907,Dr Ahmed Mahmoud,General Practice,Noor Clinic,Siwa,West,B,1,2023-11-18
+D1908,Dr Ahmed El-Sayed,ENT,Life Clinic,Ismailia,East,B,1,2023-11-27
+D1909,Dr Youssef Mostafa,ENT,Life Clinic,Port Said,East,B,1,2025-01-07
+D1910,Dr Ali El-Sayed,Neurology,Elite Clinic,Riyadh,Gulf,B,1,2025-05-06
+D1911,Dr Omar Hassan,Cardiology,Noor Clinic,Suez,East,C,1,2025-01-04
+D1912,Dr Mohamed El-Sayed,Pulmonology,Shifa Clinic,Alexandria,North,B,1,2024-12-31
+D1913,Dr Youssef Mostafa,Internal Medicine,Life Clinic,Suez,East,B,1,2024-05-19
+D1914,Dr Ali Hassan,Pediatrics,Noor Clinic,Giza,Central,C,1,2023-04-02
+D1915,Dr Hassan El-Sayed,Gastroenterology,Life Clinic,Asyut,South,B,1,2024-11-30
+D1916,Dr Mohamed Hassan,Endocrinology,Care Clinic,Jeddah,Gulf,B,1,2025-02-15
+D1917,Dr Ahmed Mostafa,Neurology,Shifa Clinic,Giza,Central,B,1,2024-02-10
+D1918,Dr Ahmed Hassan,Pediatrics,Care Clinic,Marsa Matruh,West,C,1,2024-08-26
+D1919,Dr Hassan Hassan,Cardiology,Noor Clinic,Giza,Central,B,1,2024-01-12
+D1920,Dr Khaled Mahmoud,General Practice,Hope Clinic,Asyut,South,A,1,2024-09-29
+D1921,Dr Khaled Mahmoud,Pediatrics,Care Clinic,Port Said,East,B,1,2024-09-14
+D1922,Dr Youssef Mostafa,Pediatrics,Elite Clinic,Suez,East,A,1,2023-01-30
+D1923,Dr Ali El-Sayed,Pediatrics,Elite Clinic,Jeddah,Gulf,B,1,2024-02-01
+D1924,Dr Ali Mahmoud,Gastroenterology,Shifa Clinic,Asyut,South,C,1,2024-08-30
+D1925,Dr Mohamed Mostafa,Endocrinology,Life Clinic,Marsa Matruh,West,C,1,2023-09-16
+D1926,Dr Youssef Saad,Endocrinology,Noor Clinic,Ismailia,East,C,1,2023-07-31
+D1927,Dr Youssef Ali,ENT,Hope Clinic,Riyadh,Gulf,C,1,2023-06-19
+D1928,Dr Ali El-Sayed,Endocrinology,Hope Clinic,Giza,Central,A,1,2023-01-01
+D1929,Dr Omar Mostafa,Gastroenterology,Care Clinic,Alexandria,North,C,1,2024-01-26
+D1930,Dr Omar Mahmoud,Neurology,Life Clinic,Alexandria,North,B,1,2024-03-09
+D1931,Dr Khaled Hassan,Cardiology,Shifa Clinic,Suez,East,B,1,2023-05-03
+D1932,Dr Ali El-Sayed,Internal Medicine,Noor Clinic,Marsa Matruh,West,C,1,2024-11-29
+D1933,Dr Hassan Saad,Internal Medicine,Hope Clinic,Asyut,South,A,1,2025-06-09
+D1934,Dr Omar Hassan,Cardiology,Care Clinic,Suez,East,C,1,2025-01-18
+D1935,Dr Youssef Ali,Pediatrics,Care Clinic,Tanta,North,A,1,2025-04-30
+D1936,Dr Khaled Saad,Cardiology,Shifa Clinic,Damanhur,North,C,0,2025-06-16
+D1937,Dr Ali Hassan,Endocrinology,Care Clinic,Riyadh,Gulf,C,1,2023-10-06
+D1938,Dr Ali Ali,Cardiology,Hope Clinic,Riyadh,Gulf,C,1,2024-07-30
+D1939,Dr Khaled El-Sayed,Endocrinology,Hope Clinic,Riyadh,Gulf,C,1,2023-10-21
+D1940,Dr Omar Mostafa,ENT,Hope Clinic,Suez,East,C,1,2024-01-16
+D1941,Dr Youssef Mahmoud,Neurology,Shifa Clinic,Sohag,South,B,1,2024-01-17
+D1942,Dr Ahmed Mostafa,ENT,Shifa Clinic,Qena,South,C,1,2024-03-18
+D1943,Dr Ali Saad,Neurology,Care Clinic,Sohag,South,C,1,2024-07-06
+D1944,Dr Hassan Mahmoud,General Practice,Hope Clinic,Tanta,North,C,0,2023-05-29
+D1945,Dr Ali Hassan,Pulmonology,Elite Clinic,Jeddah,Gulf,C,1,2025-04-15
+D1946,Dr Ahmed Mostafa,Pediatrics,Life Clinic,Marsa Matruh,West,C,0,2024-07-11
+D1947,Dr Omar Hassan,Gastroenterology,Elite Clinic,Cairo,Central,C,1,2023-06-18
+D1948,Dr Khaled Mostafa,ENT,Noor Clinic,Riyadh,Gulf,A,1,2025-03-27
+D1949,Dr Ali El-Sayed,Endocrinology,Care Clinic,Giza,Central,C,1,2024-12-05
+D1950,Dr Mohamed Saad,ENT,Life Clinic,Jeddah,Gulf,B,1,2025-02-10
+D1951,Dr Mohamed Ali,ENT,Shifa Clinic,Cairo,Central,A,1,2023-11-10
+D1952,Dr Ahmed Mahmoud,Internal Medicine,Life Clinic,Qena,South,C,1,2023-01-17
+D1953,Dr Youssef Mahmoud,Internal Medicine,Elite Clinic,Asyut,South,A,1,2023-05-02
+D1954,Dr Youssef Mostafa,Gastroenterology,Hope Clinic,Marsa Matruh,West,B,1,2023-11-08
+D1955,Dr Ahmed Mahmoud,ENT,Elite Clinic,Marsa Matruh,West,C,1,2023-12-26
+D1956,Dr Hassan Mahmoud,General Practice,Elite Clinic,Siwa,West,C,1,2024-08-24
+D1957,Dr Youssef Mahmoud,Pediatrics,Hope Clinic,Marsa Matruh,West,A,1,2023-03-30
+D1958,Dr Youssef Ali,Endocrinology,Elite Clinic,Alexandria,North,C,1,2023-04-07
+D1959,Dr Omar Ali,ENT,Care Clinic,Ismailia,East,A,1,2025-03-06
+D1960,Dr Omar El-Sayed,Internal Medicine,Hope Clinic,Giza,Central,A,1,2025-06-02
+D1961,Dr Youssef Mostafa,General Practice,Elite Clinic,Marsa Matruh,West,B,1,2024-08-01
+D1962,Dr Mohamed Ali,Gastroenterology,Shifa Clinic,Dubai,Gulf,C,1,2024-05-17
+D1963,Dr Mohamed El-Sayed,Gastroenterology,Care Clinic,Asyut,South,C,1,2024-12-04
+D1964,Dr Omar Hassan,Endocrinology,Noor Clinic,Siwa,West,A,1,2025-04-06
+D1965,Dr Ali Ali,Pulmonology,Care Clinic,Tanta,North,B,1,2024-08-20
+D1966,Dr Hassan Mostafa,Internal Medicine,Life Clinic,Riyadh,Gulf,A,1,2025-01-28
+D1967,Dr Hassan Saad,Neurology,Shifa Clinic,Siwa,West,C,1,2024-12-26
+D1968,Dr Hassan Saad,Internal Medicine,Noor Clinic,Jeddah,Gulf,B,1,2024-03-22
+D1969,Dr Youssef Ali,Internal Medicine,Hope Clinic,Alexandria,North,B,0,2024-01-02
+D1970,Dr Omar Hassan,Internal Medicine,Noor Clinic,Asyut,South,A,1,2023-07-11
+D1971,Dr Omar Hassan,Neurology,Hope Clinic,Jeddah,Gulf,C,1,2025-03-19
+D1972,Dr Mohamed Saad,General Practice,Elite Clinic,Marsa Matruh,West,A,1,2023-11-04
+D1973,Dr Hassan Saad,Neurology,Shifa Clinic,Marsa Matruh,West,A,1,2023-04-26
+D1974,Dr Ali Ali,Gastroenterology,Care Clinic,Cairo,Central,C,1,2023-09-07
+D1975,Dr Youssef Mostafa,ENT,Elite Clinic,Qena,South,B,1,2023-06-26
+D1976,Dr Mohamed El-Sayed,Internal Medicine,Noor Clinic,Jeddah,Gulf,A,1,2024-06-06
+D1977,Dr Omar Mahmoud,Pulmonology,Care Clinic,Cairo,Central,B,1,2025-05-09
+D1978,Dr Ali Ali,Cardiology,Life Clinic,Suez,East,C,1,2023-11-25
+D1979,Dr Mohamed Saad,Neurology,Care Clinic,Qena,South,B,1,2025-06-06
+D1980,Dr Ali El-Sayed,Pulmonology,Noor Clinic,Siwa,West,B,1,2024-05-24
+D1981,Dr Mohamed Saad,Pediatrics,Life Clinic,Cairo,Central,A,1,2025-03-06
+D1982,Dr Khaled Mostafa,Pediatrics,Hope Clinic,Suez,East,B,1,2023-12-16
+D1983,Dr Ali Saad,ENT,Hope Clinic,Suez,East,C,1,2025-06-11
+D1984,Dr Khaled Mostafa,Pulmonology,Hope Clinic,Jeddah,Gulf,B,1,2024-05-16
+D1985,Dr Khaled Mostafa,Gastroenterology,Hope Clinic,Cairo,Central,C,0,2025-06-14
+D1986,Dr Khaled Hassan,Neurology,Shifa Clinic,Sohag,South,C,1,2023-12-23
+D1987,Dr Mohamed Mostafa,Gastroenterology,Care Clinic,Giza,Central,B,1,2024-11-05
+D1988,Dr Hassan Mahmoud,Endocrinology,Care Clinic,Riyadh,Gulf,C,1,2024-07-09
+D1989,Dr Mohamed Hassan,Internal Medicine,Hope Clinic,Marsa Matruh,West,C,1,2024-10-15
+D1990,Dr Mohamed Ali,Pulmonology,Noor Clinic,Riyadh,Gulf,C,1,2024-01-19
+D1991,Dr Ahmed Mahmoud,ENT,Life Clinic,Riyadh,Gulf,C,1,2024-09-12
+D1992,Dr Youssef Ali,Cardiology,Hope Clinic,Siwa,West,A,1,2023-09-18
+D1993,Dr Youssef Saad,General Practice,Noor Clinic,Giza,Central,C,1,2023-02-22
+D1994,Dr Mohamed El-Sayed,ENT,Shifa Clinic,Cairo,Central,B,1,2023-05-24
+D1995,Dr Mohamed El-Sayed,Internal Medicine,Elite Clinic,Alexandria,North,B,1,2023-10-02
+D1996,Dr Ahmed El-Sayed,Endocrinology,Shifa Clinic,Riyadh,Gulf,A,1,2023-03-03
+D1997,Dr Hassan Mostafa,Gastroenterology,Shifa Clinic,Giza,Central,B,1,2024-09-25
+D1998,Dr Ali Hassan,Endocrinology,Care Clinic,Giza,Central,B,1,2023-11-21
+D1999,Dr Hassan Saad,General Practice,Hope Clinic,Marsa Matruh,West,C,0,2023-04-04
+D2000,Dr Mohamed Ali,Internal Medicine,Hope Clinic,Suez,East,A,1,2023-08-15

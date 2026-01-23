@@ -1,0 +1,15 @@
+product_id,product_name,brand_name,molecule,indication,dosage_form,strength,launch_date,status
+P001,Cardiostat,Cardiostat Plus,Atorvastatin,Hyperlipidemia,Tablet,20 mg,2016-03-15,active
+P002,Cardiostat XR,Cardiostat,Atorvastatin,Hyperlipidemia,Tablet,40mg,2018-07-01,active
+P003,GlucoFree,Glucofree,Metformin,Type II Diabetes,Tablet,500 mg,2014-11-20,active
+P004,GlucoFree XR,GlucoFree,Metformin,Type II Diabetes,Tablet,750mg,2019-02-10,active
+P005,Bronchion,Bronchion Max,Salbutamol,Asthma / COPD,Inhaler,100 mcg,2012-05-05,active
+P006,Bronchion Cold,Bronchion,Salbutamol + Guaifenesin,Acute Bronchitis,Syrup,5 mg/100 ml,2021-09-01,active
+P007,Immunex,Immun-X,Azithromycin,Respiratory Infection,Tablet,500 mg,2010-01-12,active
+P008,Immunex Junior,Immunex,Azithromycine,Pediatric Infection,Suspension,200mg/5ml,2017-06-18,active
+P009,GastroEase,Gastro Ease,Omeprazole,GERD / Peptic Ulcer,Capsule,20 mg,2009-08-22,active
+P010,GastroEase DSR,GastroEase,Omeprazole + Domperidone,GERD,Capsule,20/30 mg,2020-10-05,active
+P011,AllerSafe,Aller-Safe,Loratadine,Allergic Rhinitis,Tablet,10mg,2011-04-14,active
+P012,AllerSafe Plus,AllerSafe,Cetirizine + Pseudoephedrine,Seasonal Allergy,Tablet,5/120 mg,2015-03-30,active
+P013,Neuroton,NeuroTon Forte,Mecobalamin,Neuropathy,Injection,1500 mcg,2008-12-01,discontinued
+P014,Neuroton OD,Neuroton,Methylcobalamin,Neuropathy,Tablet,1500mcg,2022-01-20,active
